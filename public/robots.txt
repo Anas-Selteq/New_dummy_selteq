@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Allow: 
+
+sitemap: https://selteq.net/sitemap.xml

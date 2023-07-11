@@ -1,0 +1,272 @@
+.background_process
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/back1.png);
+    background-color: #0A1628;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    height: 90vh;
+    padding-bottom: 5%;
+    padding-top: 3%;
+  
+}
+.background_process1
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/vc1.png);
+    background-color: #0A1628;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    height: 90vh;
+    padding-bottom: 5%;
+    padding-top: 3%;
+  
+}
+.background_process2
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/vc2.png);
+    background-color: #0A1628;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    height: 90vh;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+.background_process3
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/vc3.png);
+    background-color: #0A1628;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    height: 90vh;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+.background_process4
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/vc4.png);
+    background-color: #0A1628;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    height: 90vh;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+
+
+
+.button_process_active
+{
+    /* padding-bottom: 8%; */
+    /* padding-top: 8%; */
+    border-radius: 10px;
+    background-color: rgb(197, 59, 63);
+    border: 1px solid rgb(197, 59, 63);
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+    box-shadow: 1px 8px 7px 7px rgba(127, 30, 80, 0.468);
+    /* width: 10%; */
+    width: 190px;
+    height: 60px;
+    transition: 0.9s;
+    line-height: 15px !important;
+    text-transform: uppercase;
+    
+}
+
+.button_process_active:focus
+{
+    outline: 0 !important;
+    /* padding-bottom: 8%;
+    padding-top: 8%; */
+    width: 190px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(197, 59, 63);
+    border: 1px solid rgb(197, 59, 63);
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+    box-shadow: 1px 8px 7px 7px rgba(127, 30, 80, 0.468);
+    /* width: 100%; */
+    transition: 0.9s;
+    line-height: 15px !important;
+    text-transform: uppercase;
+    
+}
+
+.button_process_one
+{
+    
+    /* padding-top: 8%;
+    padding-bottom: 8%; */
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgba(255, 255, 255, 0.415);
+    color: rgba(255, 255, 255, 0.767);
+    font-size: 12px;
+    cursor: pointer;
+    width: 190px;
+    height: 60px;
+    transition: 0.9s;
+    line-height: 15px !important;
+    text-transform: uppercase;
+    outline: 0 !important;
+}
+
+.button_process_one:focus,.button_process_one:active
+{
+    outline: 0 !important;
+    /* padding-top: 8%;
+    padding-bottom: 8%; */
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 0px solid rgba(255, 255, 255, 0.415);
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+    /* width: 100%; */
+    line-height: 15px !important;
+    text-transform: uppercase;
+    line-height: 15px !important;
+    text-transform: uppercase;
+}
+.button_process_one:hover
+{
+    outline: none !important;
+    /* padding-top: 8%;
+    padding-bottom: 8%; */
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid rgb(197, 59, 63);
+    color: white;
+    font-size: 12px;
+    cursor: pointer;
+    /* width: 100%; */
+    line-height: 15px !important;
+    text-transform: uppercase;
+    transition: 0.9s;
+    line-height: 15px !important;
+    text-transform: uppercase;
+}
+
+.heading_process
+{
+    margin-top: 5%;
+    color: white;
+    font-size: 16px;
+}
+
+.subheading_process11
+{
+    color: rgb(225, 220, 220);
+    margin-top: 0%;
+    font-weight: 400;
+    line-height: 120%;
+    padding-bottom: 0px;
+    font-size: 14px;
+    margin-bottom: 1%;
+    
+}
+.subheading_process
+{
+    color: rgb(225, 220, 220);
+    margin-top: 4%;
+    font-weight: 400;
+    line-height: 120%;
+    padding-bottom: 0px;
+    font-size: 14px;
+    margin-bottom: 1%;
+    
+}
+.subheading_process_lis
+{
+    color: rgb(225, 220, 220);
+    font-weight: 400;
+    line-height: 120%;
+    padding-bottom: 0px;
+    font-size: 14px;
+    
+}
+
+
+
+.icon_size
+{
+    font-size: 70%;
+}
+
+.button_right
+{
+    background-color: rgb(197, 59, 63);
+    color: white;
+    padding-bottom: 1%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    border-radius: 50px;
+    box-shadow: 1px 1px 7px 7px rgba(127, 30, 80, 0.468);
+    border: 1px solid rgb(197, 59, 63);
+    
+}
+
+
+@media screen and (max-width: 900px) {
+    .background_process
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/Selteq.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+
+.background_process1
+{
+    background-color: #0A1628 ;
+    background-image: linear-gradient(to right, #0A1628, #0A1628);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    height: auto;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+
+    .button_process_active
+    {
+        padding: 4%;
+        border-radius: 10px;
+        background-color: rgb(197, 59, 63);
+        border: 1px solid rgb(197, 59, 63);
+        color: white;
+        font-size: 90%;
+        cursor: pointer;
+        box-shadow: 1px 8px 7px 7px rgba(127, 30, 80, 0.468);
+        width: 100%;
+        margin-top: 5%;
+        
+    }
+    
+    .button_process_one
+    {
+        padding: 4%;
+        border-radius: 10px;
+        background-color: rgba(255, 255, 255, 0);
+        border: 1px solid white;
+        color: white;
+        font-size: 90%;
+        cursor: pointer;
+        width: 100%;
+        margin-top: 5%;
+    }
+  }
+
+
+
+

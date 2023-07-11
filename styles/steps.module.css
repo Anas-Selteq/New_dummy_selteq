@@ -1,0 +1,110 @@
+.digital_background
+{
+    background-color: rgb(234, 241, 249);
+    
+}
+
+.text_gray
+{
+    color: gray;
+}
+
+.border_left_red
+{
+    border-left: 1px solid lightgray;
+    cursor: pointer;
+}
+
+.head
+{
+    color: gray;
+}
+
+.software_head
+{
+    color: #333333;
+}
+
+.icon_left
+{
+    margin-left: -10% !important;
+}
+
+.head_active
+{
+    color: #C70018;
+    font-size: 150%;
+}
+
+
+/* /////////////////////////////////////////////////////////////////// */
+.background_main_productup
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/ind.webp);
+    height: auto;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.background_productup
+{
+    background-color: white;
+    padding-top: 3%;
+    padding-bottom: 2%;
+    padding-left: 4%;
+    border-radius: 5px;
+    cursor: pointer;
+    padding-right: 1%;
+    margin-top: 3%;
+}
+
+.sub_head
+{
+    font-weight: 300;
+    margin-top: 3%;
+    font-size: 90%;
+    line-height: 150%;
+}
+
+
+/* //////////////////////////////////////////////////////////ascend */
+
+.background_main_ascend
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/back.png);
+    height: 100vh;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.color_ai_heading
+{
+    color: white;
+}
+
+.color_ai_sub_heading
+{
+    color: white;
+    font-size: 70%;
+    font-weight: 300;
+    line-height: 150%;
+}
+
+.background_shadow
+{
+    box-shadow: 6px 6px 18px 0px rgb(212 0 0 / 30%);
+    padding: 5%;
+    border-radius: 10px;
+}  
+
+
+@media (max-width:786px) and (min-width:0px) {
+    .background_main_ascend
+{
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/back.png);
+    height: auto;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+}

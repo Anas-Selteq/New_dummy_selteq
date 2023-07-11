@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "main_heading": "ACCELERATE BUSINESS WITH CUSTOM",
+    "sub_main_heading": "CRM SOLUTIONS",
+    "main_heading_description": "Our CRM solutions are designed to streamline improve customer engagement and increase sales. The systems are built to optimise the management of business operations and automate data-driven decision-making.",
+    "Section_2_heading": "CRM MOBILE APPLICATION",
+    "Section_2_description": "Our team utilizes Ionic, React Native and Flutter frameworks for developing cross-platform mobile applications for CRM. We implement OAuth 2.0 for secure authentication and RESTful APIs for seamless integration with existing CRM systems.",
+    "Section_2_detail": [
+      {
+        "crm_portal": "CRM Portal Development",
+        "crm_description": "Leveraging Microsoft Dynamics, Sharepoint or Salesforce, our experts create portals with features such as drag & drop form builders, custom workflows and dashboards. Our solutions improve productivity, reduce costs and facilitate efficient data management."
+      }
+    ],
+    "Section_3_heading": "CRM MOBILE APPLICATION",
+    "Section_3_description": "Our team utilizes Ionic, React Native and Flutter frameworks for developing cross-platform mobile applications for CRM. We implement OAuth 2.0 for secure authentication and RESTful APIs for seamless integration with existing CRM systems.",
+    "Section_3_detail": [
+      {
+        "Advanced_Workflow ": "CRM Portal Development",
+        "Advanced_Workflow": "Leveraging Microsoft Dynamics, Sharepoint or Salesforce, our experts create portals with features such as drag & drop form builders, custom workflows and dashboards. Our solutions improve productivity, reduce costs and facilitate efficient data management."
+      }
+    ],
+    "Section_4_heading": "CRM MOBILE APPLICATION",
+    "Section_4_description": "Our team utilizes Ionic, React Native and Flutter frameworks for developing cross-platform mobile applications for CRM. We implement OAuth 2.0 for secure authentication and RESTful APIs for seamless integration with existing CRM systems.",
+    "Section_4_detail": [
+      {
+        "Advanced_Workflow ": "CRM Portal Development",
+        "Advanced_Workflow": "Leveraging Microsoft Dynamics, Sharepoint or Salesforce, our experts create portals with features such as drag & drop form builders, custom workflows and dashboards. Our solutions improve productivity, reduce costs and facilitate efficient data management."
+      }
+    ],
+    "Section_5_heading": "CRM MOBILE APPLICATION",
+    "Section_5_description": "Our team utilizes Ionic, React Native and Flutter frameworks for developing cross-platform mobile applications for CRM. We implement OAuth 2.0 for secure authentication and RESTful APIs for seamless integration with existing CRM systems.",
+    "Section_5_detail": [
+      {
+        "Advanced_Workflow ": "CRM Portal Development",
+        "Advanced_Workflow": "Leveraging Microsoft Dynamics, Sharepoint or Salesforce, our experts create portals with features such as drag & drop form builders, custom workflows and dashboards. Our solutions improve productivity, reduce costs and facilitate efficient data management."
+      }
+    ],
+    "Section_6_heading": "CRM MOBILE APPLICATION",
+    "Section_6_description": "Our team utilizes Ionic, React Native and Flutter frameworks for developing cross-platform mobile applications for CRM. We implement OAuth 2.0 for secure authentication and RESTful APIs for seamless integration with existing CRM systems.",
+    "Section_6_detail": [
+      {
+        "Advanced_Workflow ": "CRM Portal Development",
+        "Advanced_Workflow": "Leveraging Microsoft Dynamics, Sharepoint or Salesforce, our experts create portals with features such as drag & drop form builders, custom workflows and dashboards. Our solutions improve productivity, reduce costs and facilitate efficient data management."
+      }
+    ]
+  }
+]

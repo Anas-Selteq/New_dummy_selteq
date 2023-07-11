@@ -1,0 +1,1982 @@
+[
+    {
+        "id": 1,
+        "path":"salesplex",
+        "Headingm":"AI-Driven",
+        "Heading1": " Customer Relationship Management ",
+        "Headingn":"System",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Intelligent Lead Scoring"
+            },
+            {
+                "Para":"Email Campaign Management"
+            },
+            {
+                "Para":"Data Segmentation Capabilities"
+            },
+            {
+                "Para":"Customer Journey Mapping"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Live Chat Support",
+                "paragraph":"Instant engagement, assistance, & lead capture"
+            },
+            {
+                "id":2,
+                "heading":"360 Degree Customer View",
+                "paragraph":"Holistic view of customers' information"
+              },
+            {
+                "id":3,
+                "heading":"ROI Tracking",
+                "paragraph":"Measure the ROI of marketing campaigns & sales efforts."
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Customized CRM Solutions for Your Business",
+        "Paragraph2":"AI-Driven Customer Relationship Management System        ",
+        "Sub_para2":"A comprehensive CRM solution designed to streamline sales processes and maximize revenue generation. With advanced features like contact and deal management, document tracking, payment system integration, marketing management, omnichannel support, live chat, 360-degree customer view, ROI tracking, and sales forecasting, our CRM empowers businesses to drive sales growth and enhance customer relationships.",
+        "Heading3":"Boost sales with AI-Based CRM",
+        "Image3":"",
+        "Sub_para3":"Elevate your sales game with the ultimate solutions        ",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Contact Management:",
+                "paragraph":"Efficiently manage and organize customer contacts, store important details, track interactions, and maintain a centralized database for easy access and effective communication.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Deals Pipeline Management:",
+                "paragraph":"Visualize and track sales opportunities at various stages of the pipeline, monitor progress, assign tasks, and analyze sales performance to optimize the conversion process."
+              },
+            {
+                "id":3,
+                "heading":"Document Tracking & Management:",
+                "paragraph":"Track and manage sales-related documents such as proposals, contracts, and agreements, ensuring accurate record-keeping, version control, and easy collaboration."
+            }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Built-in Payment System:",
+                "paragraph":"Seamlessly integrate a secure payment system into the CRM, enabling users to generate and process invoices, receive payments, and track financial transactions within a unified platform."
+               },
+            {
+                "id":5,
+                "heading":"Marketing Management:",
+                "paragraph":"Plan, execute, and monitor marketing campaigns, track lead generation, manage email marketing, analyze campaign performance, and automate marketing processes for improved customer engagement."  
+            },
+            {
+                "id":6,
+                "heading":"Sales Opportunity Management",
+                "paragraph":"Monitor and track sales opportunities, assigning stages, forecasting revenues, and analyzing pipeline performance to optimize sales processes"
+            }
+        ],
+        "Heading4":"Live Chat Support",
+        "Paragraph4":"Provide real-time support to website visitors and prospects through integrated live chat functionality, enabling instant engagement, assistance, and lead capture.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"360 Degree Customer Views",
+                "Para":"Get a holistic view of customers' information, activities, purchase history, support tickets, and interactions across various touchpoints, enabling personalized and targeted engagement."
+            },
+            {
+                "Head":"ROI Tracking",
+                "Para":"Measure the return on investment (ROI) of marketing campaigns and sales efforts, track revenue generated, monitor expenses, and assess the overall financial performance to optimize sales strategies."
+            },
+            {
+                "Head":"Sales Forecasting",
+                "Para":"Leverage historical data, market trends, and predictive analytics to forecast sales revenue, set realistic targets, identify growth opportunities, and make informed business decisions."
+            }
+        ],
+        "Heading5":"Contact and Lead Management",
+        "Paragraph5":"Efficiently manage your contacts and leads with our CRM software. Gain a comprehensive view of your customers and prospects to enhance relationship management and drive business growth.",
+        "List5":[
+            {
+                "Head":"Contact Organization",
+                "Para":"Centralize customer information, including contact details, interactions, and preferences, for easy access and personalized communication.                "
+            },
+            {
+                "Head":"Lead Tracking and Nurturing                ",
+                "Para":"Track and nurture leads throughout the sales funnel, assigning tasks, scheduling follow-ups, and analyzing conversion rates for effective lead management.                "
+            },
+            {
+                "Head":"Segmentation and Targeting                ",
+                "Para":"Categorize contacts and leads based on criteria like demographics, behavior, or purchase history, allowing targeted marketing campaigns and personalized communication.                "
+            }
+        ],
+        "Heading6":"Sales and Performance Analytics",
+        "Paragraph6":"Gain valuable insights into your sales and performance with our CRM software. Track key metrics, analyze data, and make informed business decisions to drive sales effectiveness and achieve targets.        ",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Sales Reporting & Dashboards                ",
+                "Para":"Generate comprehensive reports and visualize key sales metrics through interactive dashboards, providing real-time visibility into sales performance.                "
+            },{
+                "Head":"Sales Funnel Analysis                ",
+                "Para":"Analyze sales funnels, identifying bottlenecks, areas of improvement, and opportunities for increased conversion rates, optimizing the sales process.                "
+            },{
+                "Head":"Territory & Quota Management                ",
+                "Para":"Allocate sales territories, define quotas, and track performance against targets, ensuring fair distribution of resources and motivating sales teams.                "
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "path":"plexaar",
+        "Headingm":"AI-Driven",
+        "Heading1": "ERP Software ",
+        "Headingn":"Solution to Drive Success",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Supply Chain Integration"
+            },
+            {
+                "Para":"Vendor Management System"
+            },
+            {
+                "Para":"Cloud Deployment Option"
+            },
+            {
+                "Para":"Quality Control Module"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Production & Manufacturing",
+                "paragraph":"Production planning and scheduling."
+            },
+            {
+                "id":2,
+                "heading":"Project Management",
+                "paragraph":"Plan, track, & manage projects."
+              },
+            {
+                "id":3,
+                "heading":"E-commerce Integration",
+                "paragraph":"Synchronize product catalogs & orders."
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Power Up Your Operations with ERP Software",
+        "Paragraph2":"Drive success with Plexaar's comprehensive ERP system        ",
+        "Sub_para2":"A comprehensive ERP system designed to streamline and integrate various business processes, enabling organizations to enhance efficiency, collaboration, and decision-making. It offers a centralized platform to manage key areas such as finance, HR, inventory, supply chain, sales, and customer relationships. With robust functionalities and seamless integration, our ERP empowers businesses to optimize operations, drive growth, and achieve strategic goals.",
+        "Heading3":"Next-Gen ERP with Total Control        ",
+        "Image3":"",
+        "Sub_para3":"Empower your business with our scalable ERP solution",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Finance and Accounting",
+                "paragraph":"Efficiently manage financial processes, including budgeting, invoicing, accounts payable and receivable, financial reporting, and tax management, ensuring accurate and transparent financial data.",
+                "open": true 
+
+            },
+            {
+                "id":2,
+                "heading":"Human Resources Management",
+                "paragraph":"Streamline HR operations, including employee onboarding, payroll, time and attendance tracking, performance management, training, and talent acquisition, fostering a productive and engaged workforce."
+              },
+            {
+                "id":3,
+                "heading":"Inventory Management",
+                "paragraph":"Effectively track and manage inventory levels, stock movements, and order fulfillment, optimizing inventory control, reducing stockouts, and improving overall supply chain efficiency."
+           }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Supply Chain Management",
+                "paragraph":"Optimize the end-to-end supply chain by integrating procurement, production planning, logistics, and supplier management, enabling businesses to enhance coordination, reduce costs, and improve customer satisfaction."
+
+},
+{
+                "id":5,
+                "heading":"Sales and Customer Relationship Management",
+                "paragraph":"Streamline the sales process, manage leads, track opportunities, and automate sales workflows, while also providing a holistic view of customer interactions, enhancing customer relationship management and driving sales growth."
+},
+{
+                "id":6,
+                "heading":"Business Intelligence and Reporting",
+                "paragraph":"Leverage advanced analytics and reporting tools to gain actionable insights from data, enabling informed decision-making, identifying trends, and forecasting business performance.."
+}
+        ],
+        "Heading4":"Production & Manufacturing        ",
+        "Paragraph4":"Manage production processes, track work orders, monitor resource allocation, and ensure efficient production planning and scheduling, optimizing manufacturing operations and reducing lead times.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Project Management",
+                "Para":"Effectively plan, track, and manage projects, allocate resources, monitor progress, and collaborate with team members, ensuring successful project delivery within budget and timeline.                "
+            },
+            {
+                "Head":"E-commerce Integration                ",
+                "Para":"Integrate with e-commerce platforms to synchronize product catalogs, inventory, orders, and customer data, facilitating seamless online sales and providing a unified experience for customers.                "
+            },
+            {
+                "Head":"Workflow Automation                ",
+                "Para":"Automate repetitive and manual tasks through workflow automation, improving efficiency, reducing errors, and freeing up resources for more strategic initiatives.                "
+            }
+        ],
+        "Heading5":"Streamlined Business Processes        ",
+        "Paragraph5":"Optimize your business operations with our ERP software's Streamlined Business Processes feature. Automate workflows and enhance efficiency across various departments.        ",
+        "List5":[
+            {
+                "Head":"Integrated Modules",
+                "Para":"Integrate key business functions such as finance, inventory, sales, and HR into a centralized system, eliminating data silos and enabling seamless information flow. "
+            },
+            {
+                "Head":"Workflow Automation                ",
+                "Para":"Automate repetitive tasks, approvals, and notifications, reducing manual effort and minimizing errors for improved productivity.                "
+            },
+            {
+                "Head":"Scalability and Flexibility                ",
+                "Para":"Adapt the software to your evolving business needs, add or modify modules as required, and scale up as your business grows.                "
+            }
+        ],
+        "Heading6":"Inventory & Supply Chain Management        ",
+        "Paragraph6":"Efficiently manage your inventory and streamline supply chain operations with our ERP software's Inventory and Supply Chain Management feature.        ",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Order Fulfillment                ",
+                "Para":"Streamline order processing, improve order accuracy, and ensure timely fulfillment through order tracking, picking, packing, and shipping functionalities.                "
+            },{
+                "Head":"Supplier Relationship Management                ",
+                "Para":"Enhance supplier collaboration, manage supplier contracts, monitor performance, and maintain a reliable supply chain network.                "
+            },{
+                "Head":"Warehouse Management                ",
+                "Para":"Streamline warehouse operations with features like bin management, barcode scanning, and real-time inventory visibility, improving efficiency and reducing errors.                "
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "path":"calendex",
+        "Headingm":"AI",
+        "Heading1": "Booking System ",
+        "Headingn":"for Businesses of All Types",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"AI-Driven Scheduling "
+            },
+            {
+                "Para":"Booking Widget"
+            },
+            {
+                "Para":"Staff Management"
+            },
+            {
+                "Para":"Audio & Video Notes"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Automated Reminders",
+                "paragraph":"Get notifications to reduce no-shows & improve customer engagement."
+            },
+            {
+                "id":2,
+                "heading":"Online Scheduling",
+                "paragraph":"Easily book appointments or make reservations"
+
+              },
+            {
+                "id":3,
+                "heading":"Calendar Integration",
+                "paragraph":"Real-time visibility of available time slots."
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Unlock the power of AI for smarter bookings",
+        "Paragraph2":"Advanced AI Booking System for Businesses of All Types",
+        "Sub_para2":"Elevate your enterprise with a comprehensive booking platform that automates schedules, streamlines client management, intelligently monitors customer data, oversees staff coordination, and enables impactful marketing strategies. Maximize your booking software with Free Marketing Suite. Promote your business, engage customers, and boost bookings with powerful marketing tools. Devote less time to administrative tasks and channel your focus towards essential business operations, augmenting productivity and overall efficiency.",
+        "Heading3":"",
+        "Image3":"",
+        "Sub_para3":"",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Intelligent Booking Empowered by AI",
+                "paragraph":"Harness the potential of artificial intelligence to optimize your booking procedures, guaranteeing optimal scheduling and effective resource allocation.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Seamless Workflow in the Digital Era",
+                "paragraph":"Simplify your business processes with a fully digitalized booking system, eradicating the need for paperwork and manual procedures."
+
+              },
+                        {
+                            "id":3,
+                            "heading":"Enhanced Customer Delight",
+                            "paragraph":"Deliver a flawless and convenient booking experience to your clientele, enhancing satisfaction levels and fostering customer loyalty.."
+            
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Resource Optimization at Its Best",
+                "paragraph":"Optimize the utilization of your resources by efficiently managing and allocating assets, reducing wastage, and enhancing profitability.."
+              },
+            {
+                "id":5,
+                "heading":"Lean Staffing Requirementsg",
+                "paragraph":"Through automated processes and efficient scheduling, minimize the necessity for excessive staffing, resulting in significant cost savings."
+                        }
+                        ,
+            {
+                "id":6,
+                "heading":"Email & Text Marketing",
+                "paragraph":"Effortlessly reach your audience with targeted email and text marketing campaigns, driving customer engagement and increasing bookings.."
+                        }
+        ],
+        "Heading4":"Manage your Finances with POS",
+        "Paragraph4":"Take control of your business finances with Calendex's comprehensive Point of Sale (POS) system. Streamline billing, inventory management, and payment processing for a seamless financial management experience.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Billing & Order Processing",
+                "Para":"Efficiently handle billing and order processing tasks, ensuring accurate transactions and smooth customer checkout experiences."
+            },
+            {
+                "Head":"Gift Cards & Loyalty Program",
+                "Para":"Build customer loyalty and increase sales with customizable loyalty programs and integrated gift card functionality."
+            },
+            {
+                "Head":"POS Inventory Management",
+                "Para":"Effortlessly manage your inventory, track stock levels, and streamline inventory replenishment processes with POS inventory management."
+            }
+        ],
+        "Heading5":"AI Staff Clock-in Clock-out",
+        "Paragraph5":"Enhance your staff management process with Calendex's AI-powered Staff Clock-in Clock-out feature. Utilizing facial recognition and advanced automation, ensure accurate attendance tracking and streamline your workforce management.",
+        "List5":[
+            {
+                "Head":"Facial Recognition",
+                "Para":"Effortlessly track staff attendance through facial recognition technology, eliminating the need for manual clock-ins and reducing errors. "
+            },
+            {
+                "Head":"Automated Rota ",
+                "Para":"Automate the creation and management of staff schedules, saving time and ensuring optimal staffing levels for efficient operations.     "
+            },
+            {
+                "Head":"Geo-fencing    ",
+                "Para":"Set up virtual boundaries to monitor staff presence within designated locations, ensuring compliance and security.        "
+            }
+        ],
+        "Heading6":"Booking Widget",
+        "Paragraph6":"Enhance your booking process with Calendex's powerful Booking Widget. Seamlessly integrate it into your website or social media platforms to offer a convenient and efficient way for customers to book your services.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Multiple Service Selection     ",
+                "Para":"Allow customers to choose from a range of services during the booking process, accommodating their diverse needs.           "
+            },{
+                "Head":"Buffer Time Configuration     ",
+                "Para":"Set up buffer time between appointments to ensure smooth transitions and avoid scheduling conflicts.  "
+            },{
+                "Head":"Multiple Booking Views   ",
+                "Para":"Offer different views (e.g., daily, weekly, monthly) to customers for a flexible and convenient booking experience.    "
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "path":"ondelafs",
+        "Headingm":"AI-Powered ",
+        "Headingn":"for All Businesses",
+        "Heading1": "Accounting Software ",
+        
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Tax Compliance Tools"
+            },
+            {
+                "Para":"Bank Reconciliation Automation"
+            },
+            {
+                "Para":"Audit Trail Functionality"
+            },
+            {
+                "Para":"Automated Invoicing System"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Compliance & Regulatory Reporting",
+                "paragraph":"Stay compliant with financial regulations."
+            },
+            {
+                "id":2,
+                "heading":"Fixed Assets Management",
+                "paragraph":"Track and manage fixed assets"
+
+              },
+            {
+                "id":3,
+                "heading":"Budgeting & Forecasting",
+                "paragraph":"Monitor your company's financial performance"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Stay Ahead with Intelligent Accounting & Bookkeeping",
+        "Paragraph2":"The Leading AI-Powered Accounting Software for All Businesses.",
+        "Sub_para2":"Get an advanced Accounting Software designed to streamline financial operations and ensure accurate record-keeping for businesses of all sizes. With its comprehensive features and user-friendly interface, our accounting software solution simplifies financial management and enables businesses to make informed decisions with confidence. Efficiently manage and maintain an accurate record of financial transactions, ensuring a clear and organized overview of your company's financial health.",
+        "Heading3":"Advanced Accounting Solution",
+        "Image3":"",
+        "Sub_para3":"Powerful Accounting Software for Efficient Financial Management",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Accounts Receivable & Payable",
+                "paragraph":"Effectively manage customer invoices and vendor bills, track payments, and streamline the invoicing process to optimize cash flow.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Bank Reconciliation",
+                "paragraph":"Automate the process of reconciling your bank statements with your financial records, saving time and minimizing errors."
+
+              },
+            {
+                "id":3,
+                "heading":"Cash Flow Management",
+                "paragraph":"Track and analyze cash flow to ensure a healthy financial position, with real-time visibility into incoming and outgoing funds.."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Tax Management",
+                "paragraph":"Simplify tax compliance by automating tax calculations, generating accurate tax reports, and staying up-to-date with ever-changing tax regulations.."
+
+            },
+            {
+                "id":5,
+                "heading":"Payroll Processing",
+                "paragraph":"Effortlessly manage employee payroll, including tax deductions, benefits, and accurate record-keeping to ensure timely and accurate payments."
+              },
+              {
+                "id":6,
+                "heading":"General Ledger Management",
+                "paragraph":"Efficiently manage and maintain an accurate record of financial transactions, ensuring a clear and organized overview of your company's financial health.                "
+              }
+        ],
+        "Heading4":"Automated Bookkeeping",
+        "Paragraph4":"Streamline your accounting processes with our Automated Bookkeeping feature. Say goodbye to manual data entry and let our intelligent software handle your financial transactions.        ",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Bank Integration",
+                "Para":"Connect your bank accounts for automatic importing and categorization of transactions, eliminating manual entry and reducing errors."
+            },
+            {
+                "Head":"Expense Management ",
+                "Para":"Capture and categorize expenses effortlessly, whether through receipt scanning, manual entry, or integration with expense tracking tools.                "
+            },
+            {
+                "Head":"Invoicing and Billing                ",
+                "Para":"Generate professional invoices, track payments, and send automated payment reminders to streamline your billing and receivables management."
+            }
+        ],
+        "Heading5":"Financial Reporting and Analytics        ",
+        "Paragraph5":"Gain valuable insights into your business's financial health with our robust Financial Reporting and Analytics feature. Make informed decisions and track your performance effortlessly.",
+        "List5":[
+            {
+                "Head":"Customizable Reports",
+                "Para":"Create tailored reports to analyze specific financial metrics, such as profit and loss statements, balance sheets, cash flow statements, and more. "
+            },
+            {
+                "Head":"Real-Time Data",
+                "Para":"Access up-to-date financial data and performance indicators in real-time, empowering you to make timely and informed business decisions. "
+            },
+            {
+                "Head":"Visual Dashboards                ",
+                "Para":"Visualize key financial metrics and trends through interactive dashboards, enabling you to monitor performance at a glance and identify areas for improvement.                "
+            }
+        ],
+        "Heading6":"Tax Management",
+        "Paragraph6":"Simplify your tax processes and ensure compliance with our comprehensive Tax Management feature. Stay on top of tax obligations and minimize the stress of tax preparation.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Automated Tax Calculations                ",
+                "Para":"Automatically calculate taxes based on predefined tax rules and rates, reducing manual errors and saving time.   "
+            },{
+                "Head":"Tax Filing Assistance                ",
+                "Para":"Receive guidance and reminders for tax filing deadlines, ensuring timely submission of tax returns and avoiding penalties.                "
+            },{
+                "Head":"Tax Forms Generation                ",
+                "Para":"Generate accurate and compliant tax forms, such as W-2s, 1099s, and VAT reports, simplifying the process of reporting and filing taxes.   "
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "path":"buzz",
+        "Headingm":"Connect & Collaborate with ",
+        "Headingn":"for Teams  ",
+        "Heading1": " Communication Software       ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"File sharing and collaboration                "
+            },
+            {
+                "Para":"Voice calls and audio messaging"
+            },
+            {
+                "Para":"Team collaboration tools"
+            },
+            {
+                "Para":"Security and privacy features                "
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Conference Calling",
+                "paragraph":"Reliable audio & video capabilities."
+            },
+            {
+                "id":2,
+                "heading":"Remote Collaboration",
+                "paragraph":"Seamless interaction & collaboration"
+
+              },
+            {
+                "id":3,
+                "heading":"Team Collaboration Spaces",
+                "paragraph":"Share files & exchange ideas"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Transforming How You Connect & Communicate",
+        "Paragraph2":"AI-Powered Communication System for Teams        ",
+        "Sub_para2":"Get a versatile communication software that enhances connectivity and collaboration within teams. With its intuitive interface and robust features, The software enables seamless communication and effective collaboration in various work settings. Facilitating real-time text-based communication, allowing users to exchange messages instantly. It supports one-on-one conversations as well as group chats, enabling efficient and rapid information sharing among team members.",
+        "Heading3":"Seamless Comms Solution",
+        "Image3":"",
+        "Sub_para3":"Transforming Communication with Advanced Software Solutions        ",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Audio & Video Calls:",
+                "paragraph":"Buzz enables high-quality audio and video calls, fostering face-to-face communication regardless of physical distance. Users can engage in productive discussions, conduct virtual meetings, and build stronger connections through rich multimedia interactions.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"File & Screen Sharing:",
+                "paragraph":"With Buzz, users can effortlessly share files and screens with colleagues, streamlining collaboration and enhancing productivity. Whether it's sharing documents, presentations, or screens for remote assistance, Buzz simplifies the process and promotes efficient teamwork."
+
+              },
+            {
+                "id":3,
+                "heading":"Group Chat:",
+                "paragraph":"Providing a dedicated space for group chat, allowing teams to have focused discussions and collaborate effectively. Multiple participants can engage in conversations simultaneously, ensuring everyone stays informed and engaged."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"VoIP Integration:",
+                "paragraph":"Seamlessly integrates with Voice over Internet Protocol (VoIP) services, enabling users to make and receive calls directly within the software. This integration streamlines communication by consolidating voice communication channels and providing a unified experience."
+
+            },
+            {
+                "id":5,
+                "heading":"Presence Indication:",
+                "paragraph":"Featuring presence indication, which shows the availability and status of team members in real-time. Users can quickly identify whether colleagues are online, busy, away, or offline, helping them choose the most appropriate communication method.."
+              },
+              {
+                "id":6,
+                "heading":"SIP Trunking",
+                "paragraph":"Our experts design and implement SIP trunking solutions to enable VoIP communications between various endpoints, including PBX systems, phones, and the PSTN."
+              }
+        ],
+        "Heading4":"Unleash Productivity with Remote Collaboration",
+        "Paragraph4":"Unleash your team's productivity potential with our communication software. Connect, collaborate, and achieve more together, no matter where your team is located. Streamline remote collaboration and foster effective communication for enhanced efficiency and success.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Conference Calling",
+                "Para":"Supporting conference calling, enabling users to conduct virtual meetings with multiple participants. Its reliable audio and video capabilities, coupled with features like screen sharing and chat, make it easy to host productive and engaging remote conferences."
+            },
+            {
+                "Head":"Presence and Availability",
+                "Para":"Easily check the availability and status of colleagues, enabling real-time communication and avoiding unnecessary interruptions"
+            },
+            {
+                "Head":"Team Collaboration Spaces",
+                "Para":"Offering team collaboration spaces, where users can create dedicated areas for specific projects, departments, or interests. These spaces provide a focused environment for team members to collaborate, share files, exchange ideas, and keep track of progress, promoting effective teamwork and organization."
+            }
+        ],
+        "Heading5":"Intelligent Call Management",
+        "Paragraph5":"Optimize call handling and improve customer service with our Intelligent Call Management feature. Streamline communication workflows and enhance call efficiency.",
+        "List5":[
+            {
+                "Head":"Automatic Call Routing                ",
+                "Para":"Route incoming calls to the most appropriate agent or department based on pre-defined rules or customer preferences, ensuring effective call distribution.                "
+            },
+            {
+                "Head":"Interactive Voice Response (IVR)                ",
+                "Para":"Use automated voice menus to provide self-service options and route calls to the appropriate resources, reducing wait times and improving customer satisfaction.                "
+            },
+            {
+                "Head":"Call Recording & Quality Monitoring                ",
+                "Para":"Record and review calls for quality assurance purposes, ensuring compliance, training, and customer service improvement. "
+            }
+        ],
+        "Heading6":"Meeting Scheduler",
+        "Paragraph6":"Simplify the scheduling process and improve efficiency with our Meeting Scheduler feature. Easily plan and coordinate meetings with internal teams and external stakeholders.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Availability Synchronization ",
+                "Para":"Automatically sync calendars and availability across team members, enabling hassle-free scheduling and avoiding scheduling conflicts. "
+            },{
+                "Head":"Smart Scheduling Assistant",
+                "Para":"Utilize intelligent algorithms to suggest the best meeting times based on participants' availability and preferences, saving time and effort. "
+            },{
+                "Head":"Calendar Integration ",
+                "Para":"Integrate with popular calendar applications, such as Google Calendar or Outlook, for seamless scheduling and synchronization. "
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "path":"formbiz",
+        "Headingm":"AI-Based",
+        "Headingn":"Solution for Businessess ",
+        "Heading1": " Digital Form Software ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Data Validation"
+            },
+            {
+                "Para":"Electronic Signatures"
+            },
+            {
+                "Para":"Mobile-Friendly Design"
+            },
+            {
+                "Para":"Multi-Language Support"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Client-Side Validation",
+                "paragraph":"Validation checks on the client side."
+            },
+            {
+                "id":2,
+                "heading":"Form Versioning & History",
+                "paragraph":"Track different versions of forms"
+
+              },
+            {
+                "id":3,
+                "heading":"Electronic Signatures",
+                "paragraph":"Enable users to sign forms electronically"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Go Paperless with Our Digital Form Solution",
+        "Paragraph2":"AI-Based Digital Form System        ",
+        "Sub_para2":"An innovative Digital Form System that revolutionizes the way organizations create, manage, and process forms. With features such as advanced form validation, real-time error detection, custom validation rules, field dependencies, custom error messages, conditional visibility, client-side validation, form versioning and history, and workflow automation, our digital forms solution offers a comprehensive solution for efficient and secure form management.",
+        "Heading3":"Powerful Form Solution",
+        "Image3":"",
+        "Sub_para3":"Transform Your Workflow with Advanced Digital Form Software",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Advanced Form Validation:",
+                "paragraph":"Ensure data accuracy and integrity with advanced form validation capabilities that validate input fields based on predefined rules, preventing submission of incorrect or incomplete information.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Real-time Error Detection:",
+                "paragraph":"Instantly detect and highlight errors as users fill out the form, allowing them to promptly correct mistakes and ensure data accuracy before submission."
+
+              },
+            {
+                "id":3,
+                "heading":"Custom Validation Rules",
+                "paragraph":"Define and apply custom validation rules to specific form fields, enabling organizations to enforce their unique validation requirements and business rules."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Field Dependencies",
+                "paragraph":"Establish dependencies between form fields to dynamically display or hide certain fields based on user selections or input, creating a personalized and streamlined form-filling experience."
+
+            },
+            {
+                "id":5,
+                "heading":"Custom Error Messages",
+                "paragraph":"Provide clear and customized error messages to guide users in resolving validation errors, enhancing the user experience and reducing confusion."
+              },
+              {
+                "id":6,
+               "heading" :"Conditional Visibility",
+               "paragraph":"Control the visibility of form fields based on specific conditions or user inputs, displaying relevant fields dynamically and simplifying the form-filling process.."
+
+              }
+        ],
+        "Heading4":"Client-Side Validation",
+        "Paragraph4":"Perform validation checks directly on the client side, ensuring immediate feedback to users and reducing server load and response time.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Form Versioning & History",
+                "Para":"Track and manage different versions of forms, view form history, and roll back to previous versions if needed, maintaining a record of form changes and revisions.                "
+            },
+            {
+                "Head":"Electronic Signatures                ",
+                "Para":"Enable users to sign forms electronically, eliminating the need for physical signatures and enabling secure and legally binding transactions.                "
+            },
+            {
+                "Head":"Data Encryption and Security                ",
+                "Para":"Protect sensitive form data with robust encryption techniques and implement stringent security measures to ensure data confidentiality and compliance with privacy regulations.                "
+            }
+        ],
+        "Heading5":"Cross-Field Validation",
+        "Paragraph5":"Validate the relationships and consistency between multiple form fields, ensuring that interconnected data elements are logically coherent and error-free.",
+        "List5":[
+            {
+                "Head":"Automatic Form Save",
+                "Para":"Automatically save form progress as users fill it out, preventing data loss and allowing users to resume the form at a later time.                "
+            },
+            {
+                "Head":"Drag-and-Drop Form Builder                ",
+                "Para":"Create custom forms easily using a user-friendly drag-and-drop interface, eliminating the need for coding or technical expertise.                "
+            },
+            {
+                "Head":"Multi-page Forms",
+                "Para":"Divide lengthy forms into multiple pages or sections, enhancing user experience and making complex forms more manageable and user-friendly.    "
+            }
+        ],
+        "Heading6":"Mobile-Responsive Forms",
+        "Paragraph6":"Design forms that adapt to different screen sizes and devices, ensuring optimal form display and usability across desktops, tablets, and smartphones.        ",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Workflow Automation  ",
+                "Para":"Automate form submission workflows, including notifications, approvals, and integrations with other systems, improving process efficiency and reducing manual efforts.  "
+            },{
+                "Head":"Drag-and-Drop Form Builder ",
+                "Para":"Easily build forms using an intuitive drag-and-drop interface, eliminating the need for coding or technical expertise. "
+            },{
+                "Head":"Form Versioning and History",
+                "Para":"Keep track of form revisions and changes, allowing for easy reference and retrieval of previous form versions, ensuring data integrity and compliance. "
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "path":"stockpro",
+        "Headingm":"Smart ",
+        "Headingn":"with AI Technology ",
+        "Heading1": "Inventory Management ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Automated Replenishment                "
+            },
+            {
+                "Para":"Batch And Lot Tracking"
+            },
+            {
+                "Para":"Serialized Inventory Control"
+            },
+            {
+                "Para":"Order Fulfillment Optimization"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Supplier & Warehouse Management",
+                "paragraph":"Manage supplier and warehouse information."
+            },
+            {
+                "id":2,
+                "heading":"Dead Stock Identification",
+                "paragraph":"Stockpro identifies and flags dead stock"
+
+              },
+            {
+                "id":3,
+                "heading":"Reports of Bestselling Items",
+                "paragraph":"Analyze sales data & identify popular items"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Take Control of Your Inventory Like Never Before",
+        "Paragraph2":"Smart Inventory Management with AI Technology",
+        "Sub_para2":"A comprehensive Inventory Management Software designed to streamline and optimize inventory processes for businesses. With its user-friendly interface and powerful features, our inventory software solution simplifies inventory management, improves efficiency, and ensures accurate tracking of stock levels. The software allows users to monitor and track stock levels in real-time. It provides visibility into available stock quantities, ensuring businesses can effectively manage inventory and prevent stockouts or overstocking.",
+        "Heading3":"Master Stock with Precision",
+        "Image3":"",
+        "Sub_para3":"Control Inventory Like a Pro with Stockpro's Precision Tools",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Import or Export Inventory:",
+                "paragraph":"Enabling seamless import and export of inventory data, allowing users to efficiently update stock information in bulk. This feature simplifies the process of adding or updating inventory items, saving time and reducing manual data entry.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"View Stock on Hand:",
+                "paragraph":"With Stockpro, users can easily access and view the current stock on hand. This feature provides instant visibility into inventory levels, allowing businesses to make informed decisions regarding stock replenishment and sales strategies."
+
+              },
+            {
+                "id":3,
+                "heading":"Barcode Scanning & Labeling",
+                "paragraph":"Supporting barcode scanning and labeling, making inventory management more efficient and accurate. Users can scan barcodes to quickly add or update item information, track stock movements, and ensure precise stock control."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Add Items to Invoices",
+                "paragraph":"Integrating seamlessly with invoicing systems, enabling users to add inventory items directly to invoices. This feature streamlines the order fulfillment process and ensures accurate invoicing by automatically deducting sold items from stock levels."
+
+            },
+            {
+                "id":5,
+                "heading":"Reorder Point Calculation",
+                "paragraph":"Automating the calculation of reorder points, helping businesses optimize their inventory replenishment process. By setting reorder points based on historical data and desired stock levels, users can avoid stockouts and maintain optimal inventory levels."
+              },
+              {
+                "id":6,
+               "heading" :"Connect Ecommerce Platforms",
+               "paragraph":"Stockpro integrates with various ecommerce platforms, facilitating seamless inventory management across multiple sales channels. It enables automatic synchronization of stock levels, preventing overselling and ensuring accurate inventory information across platforms."
+
+              }
+        ],
+        "Heading4":"Dead Stock Identification",
+        "Paragraph4":"Allowing users to manage supplier and warehouse information within the software. It enables efficient tracking of supplier details, purchase orders, and warehouse locations, streamlining the procurement and distribution processes.        ",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Dead Stock Identification",
+                "Para":"Identify and flag dead stock, which refers to items that have not been sold within a specified period. This feature helps businesses identify slow-moving or obsolete inventory, enabling them to take corrective actions such as implementing promotions or liquidation strategies."
+            },
+            {
+                "Head":"Reports of Bestselling Items",
+                "Para":"Generating reports on bestselling items, providing valuable insights into product performance and trends. Users can analyze sales data, identify popular items, and make data-driven decisions to optimize their inventory assortment and maximize profitability."
+            },
+            {
+                "Head":"Automatic Reorder Point Calculation                ",
+                "Para":"Set up reorder points based on demand forecasts and lead times, automating the reorder process and optimizing inventory levels."
+            }
+        ],
+        "Heading5":"Demand Forecasting & Planning",
+        "Paragraph5":"Optimize inventory levels and meet customer demands with our Demand Forecasting and Planning feature. Predict future demand patterns and plan inventory accordingly.",
+        "List5":[
+            {
+                "Head":"Predictive Analytics",
+                "Para":"Utilize advanced algorithms and historical data to forecast future demand, reducing stockouts and overstocking.  "
+            },
+            {
+                "Head":"Seasonality and Trend Analysis ",
+                "Para":"Identify seasonal demand patterns and market trends to make informed inventory planning decisions. "
+            },
+            {
+                "Head":"Collaborative Demand Planning ",
+                "Para":"Facilitate collaboration between teams and suppliers to align demand forecasts with production and procurement strategies.  "
+            }
+        ],
+        "Heading6":"Order Management & Fulfillment",
+        "Paragraph6":"Efficiently manage orders and streamline fulfillment processes with our Order Management and Fulfillment feature. Ensure accurate order processing and timely deliveries.        ",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Order Routing and Prioritization ",
+                "Para":"Automatically route orders to the appropriate warehouse or fulfillment center based on inventory availability and customer location, optimizing order fulfillment.  "
+            },{
+                "Head":"Pack & Ship  ",
+                "Para":"Streamline the fulfillment process with pick lists, packing slips, and shipping labels, ensuring accurate order assembly and efficient shipping.  "
+            },{
+                "Head":"Returns & Exchanges Management ",
+                "Para":"Manage returns and exchanges seamlessly, including return authorization, inventory restocking, and refund processing. "
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "path":"ireach",
+        "Headingm":"AI-Driven ",
+        "Headingn":" to Manage Workforce ",
+        "Heading1": " HRMS ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Payroll Automation                "
+            },
+            {
+                "Para":"Recruitment Management                "
+            },
+            {
+                "Para":"Benefits Administration"
+            },
+            {
+                "Para":"Leave Management"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Employee Database Management",
+                "paragraph":"Employee profiles, history, performance & training certifications."
+            },
+            {
+                "id":2,
+                "heading":"Attendance & Leave Management",
+                "paragraph":"Leave requests, approvals & monitoring employee absences"
+
+              },
+            {
+                "id":3,
+                "heading":"Performance Evaluation & Appraisal",
+                "paragraph":"A structured framework for setting goals"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Optimize HR Processes for Maximum Productivity",
+        "Paragraph2":"Manage Your Workforce with AI-Driven HRMS",
+        "Sub_para2":"A comprehensive HR management software that streamlines and automates various aspects of human resource operations. With its advanced features and user-friendly interface, the software simplifies HR processes and enhances organizational efficiency. Incorporating an AI-based Employee Self-Service (ESS) system, empowering employees to access and manage their personal information, leave requests, performance records, and more. This self-service functionality reduces administrative burden and improves employee engagement.",
+        "Heading3":"Elevate HR with Advanced HRMS",
+        "Image3":"",
+        "Sub_para3":"The future of HR management starts here",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Organogram View",
+                "paragraph":"Providing an intuitive organogram view, displaying the hierarchical structure of the organization. This visual representation helps HR managers and employees better understand reporting lines, team structures, and facilitates effective communication and decision-making.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"GPS Attendance",
+                "paragraph":"Offering GPS attendance tracking, enabling employees to check in and out of work using their mobile devices. This feature ensures accurate attendance records and enhances employee accountability, particularly for remote or field-based teams."
+              }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Applicant Tracking System (ATS)",
+                "paragraph":"Incorporating an Applicant Tracking System (ATS) that simplifies the hiring process. It enables HR teams to post job openings, track applicants, screen resumes, schedule interviews, and streamline candidate selection, ensuring efficient recruitment and onboarding.."
+
+            },
+              {
+                "id":6,
+               "heading" :"Payroll System:",
+               "paragraph":"Featuring a robust payroll system that automates payroll calculations, tax deductions, and salary disbursements. It streamlines payroll management, reduces errors, and ensures timely and accurate compensation for employees, simplifying financial processes for HR teams."
+
+              }
+        ],
+        "Heading4":"Employee Management",
+        "Paragraph4":"Efficiently manage your workforce with our Employee Management feature. Streamline HR processes and enhance employee engagement for a productive and connected workforce.        ",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Employee Self-Service",
+                "Para":"Empower employees to access and update their personal information, view payslips, request time off, and manage benefits through a user-friendly self-service portal, reducing administrative tasks."
+            },
+            {
+                "Head":"Leave and Attendance Management",
+                "Para":"Simplify leave requests, track attendance, and manage employee schedules, ensuring accurate time tracking, reducing manual efforts, and improving compliance."
+            },
+            {
+                "Head":"Performance Appraisal",
+                "Para":"Conduct fair and objective performance evaluations, set goals, and provide feedback to drive employee development, enhancing productivity and fostering a performance-driven culture."
+            },
+            {
+                "Head":"Employee Directory",
+                "Para":"Maintain a centralized employee directory with detailed profiles, facilitating easy access to contact information, roles, and organizational structure, promoting collaboration and communication."
+            }
+        ],
+        "Heading5":"Applicant Tracking System (ATS)",
+        "Paragraph5":"Manage job postings, track applicants, and streamline the recruitment process with automated workflows, reducing manual effort and improving hiring efficiency.",
+        "List5":[
+            {
+                "Head":"Onboarding Workflows",
+                "Para":"Design and automate onboarding workflows to guide new hires through necessary paperwork, training modules, and orientation, ensuring a standardized and engaging onboarding experience.   "
+            },
+            {
+                "Head":"Reporting and Analytics",
+                "Para":"Gain insights into recruitment metrics, onboarding progress, and hiring trends through comprehensive reporting and analytics, enabling data-driven decision-making and process improvement. "
+            },
+            {
+                "Head":"AI-Based ESS System ",
+                "Para":"Incorporating an AI-based ESS system, empowering employees to access and manage their personal information, leave requests, performance records, and more. This self-service functionality reduces administrative burden & improves employee engagement.                "
+            }
+        ],
+        "Heading6":"Payroll & Benefits Management",
+        "Paragraph6":"Efficiently handle payroll processing and manage employee benefits with our Payroll and Benefits Management feature. Simplify complex calculations, ensure accurate compensation, and streamline benefits administration.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Automated Payroll Processing ",
+                "Para":"Automate payroll calculations, tax deductions, and statutory compliance, reducing manual errors, saving time, and ensuring accurate and timely salary disbursements.  "
+            },{
+                "Head":"Benefits Administration ",
+                "Para":"Streamline benefits enrollment, track employee benefits, and manage claims processing, providing employees with seamless access to their benefits and simplifying administration for HR teams. "
+            },{
+                "Head":"Tax Compliance ",
+                "Para":"Stay up to date with tax regulations, generate tax reports, and ensure accurate tax filings, minimizing compliance risks and maintaining legal and financial compliance."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "path":"forwarde",
+        "Headingm":"Employee ",
+        "Headingn":" with AI Technology",
+        "Heading1": " Onboarding System",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Compliance Tracking System"
+            },
+            {
+                "Para":"HRMS Integration Capability"
+            },
+            {
+                "Para":"Employee Self-Service"
+            },
+            {
+                "Para":"Performance Metrics Tracking"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Integration with HRIS Systems",
+                "paragraph":"Data synchronization & data management                "
+            },
+            {
+                "id":2,
+                "heading":"Performance Comparisons",
+                "paragraph":"Assess the progress & performance system"
+
+              },
+            {
+                "id":3,
+                "heading":"Integration with Government Departments",
+                "paragraph":"Ensures compliance with regulatory requirements"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Delivering a Personalized Onboarding Journey",
+        "Paragraph2":"Employee Onboarding System with AI Technology",
+        "Sub_para2":"An onboarding software designed to streamline and enhance the onboarding process for organizations. With its user-friendly interface and powerful features, the software enables efficient and engaging onboarding experiences, fostering seamless integration and productivity for new hires. Simplifying the pre-boarding and offboarding processes by providing a structured framework. It allows organizations to seamlessly manage tasks such as paperwork, documentation, and orientation materials for new hires, as well as exit interviews and offboarding procedures for departing employees.",
+        "Heading3":"Empower Onboarding Success",
+        "Image3":"",
+        "Sub_para3":"Accelerate Onboarding Excellence with Advanced Software",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Role-Based Access & Permissions",
+                "paragraph":"Offering role-based access and permissions, allowing organizations to define different levels of access and control for various users. This ensures that only authorized personnel have access to sensitive information and resources, maintaining data security and privacy.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Background Check Services",
+                "paragraph":"Integrating with background check services, enabling organizations to efficiently perform comprehensive screenings of potential employees. This feature helps in verifying candidates' credentials, employment history, criminal records, and other relevant background information."
+              }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"New Hire Portal Remote / Onboarding",
+                "paragraph":"Forwarde offers a dedicated new hire portal, providing a personalized space for employees to access important resources and information. This portal serves as a one-stop destination for new hires, offering essential documents, training materials, and interactive content."
+
+            },
+            {
+                "id":5,
+                "heading":"Social Collaboration & Networking",
+                "paragraph":"Incorporating social collaboration and networking features, allowing new hires to connect with their colleagues, mentors, and supervisors. This fosters a sense of community, encourages knowledge sharing, and promotes effective collaboration within the organization."
+              }
+        ],
+        "Heading4":"Preboarding & Offboarding Processes",
+        "Paragraph4":"Simplifying the preboarding and offboarding processes by providing organizations to manage tasks such as paperwork, documentation, and orientation materials for new hires, as well as exit interviews and offboarding procedures for departing employees.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Integration with HRIS Systems",
+                "Para":"Integrating with HRIS, enabling data synchronization between the onboarding software and the organization's HR systems. This integration streamlines data management, eliminates manual data entry, and ensures accurate employee records."
+            },
+            {
+                "Head":"Performance Comparisons                ",
+                "Para":"This feature allows HR teams to identify areas for improvement, provide targeted support, and track the effectiveness of the onboarding program."
+            },
+            {
+                "Head":"Integration with Government Departments",
+                "Para":"Integrating with government departments, streamlining the process of employee onboarding by automating the submission of necessary documents and forms. "
+            }
+        ],
+        "Heading5":"Compliance and Training Management",
+        "Paragraph5":"Ensure compliance and enhance employee training with our Compliance and Training Management feature. Streamline regulatory requirements and empower employees with targeted learning opportunities.",
+        "List5":[
+            {
+                "Head":"Compliance Tracking",
+                "Para":"Monitor and manage compliance requirements, such as training certifications and policy acknowledgments, ensuring adherence to legal and industry standards.  "
+            },
+            {
+                "Head":"Training Content Library",
+                "Para":"Store and deliver training materials, videos, and resources within the platform, enabling employees to access and complete training modules at their convenience.  "
+            },
+            {
+                "Head":"Automated Training Assignments ",
+                "Para":"Assign and schedule training courses based on roles, departments, or specific compliance needs, automating the training process and tracking progress. "
+            }
+        ],
+        "Heading6":"Automated Onboarding Process",
+        "Paragraph6":"Streamline employee onboarding with our Automated Onboarding Process. Eliminate manual tasks and paperwork, ensuring a seamless and efficient onboarding experience.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Customized Onboarding Workflows",
+                "Para":"Create personalized onboarding workflows tailored to different roles or departments, ensuring a consistent and standardized onboarding process. "
+            },{
+                "Head":"Document Management",
+                "Para":"Centralize and digitize employee documents, such as contracts, policies, and forms, for easy access and efficient record-keeping.                "
+            },{
+                "Head":"Task and Deadline Tracking                ",
+                "Para":"Assign tasks to new hires and track their progress, ensuring timely completion of required activities and minimizing delays.  "
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "path":"ondelpms",
+        "Headingm":"AI-Based ",
+        "Headingn":" Software ",
+        "Heading1": " Project Management ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Task Dependencies                "
+            },
+            {
+                "Para":"Gantt Charts"
+            },
+            {
+                "Para":"Agile Methodology"
+            },
+            {
+                "Para":"Portfolio Management"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Team Collaboration",
+                "paragraph":"Built-in collaboration & information sharing tools."
+            },
+            {
+                "id":2,
+                "heading":"Progress Monitoring",
+                "paragraph":"Stay informed about project progress "
+
+              },
+            {
+                "id":3,
+                "heading":"Agile Project Management:",
+                "paragraph":"Embrace agile project management methodologies"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Stay on Track with Intuitive Project Management Software",
+        "Paragraph2":"An AI-Based Project Management Software.",
+        "Sub_para2":"A project management software designed to streamline and optimize project workflows. It offers a range of powerful features that enable teams to effectively plan, track, and manage their projects, resulting in improved productivity and project success. Effortlessly track and monitor project milestones. This feature allows you to set important milestones, define their deadlines, and keep a close eye on their progress. It helps you stay organized and ensures that key project goals are met on time.",
+        "Heading3":"Empower Projects & Achieve Success",
+        "Image3":"",
+        "Sub_para3":"Master Your Projects with Controlling, Collaboration & Success",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Kanban Boards",
+                "paragraph":"Ondel provides intuitive Kanban boards that visualize your project tasks and workflow. Easily manage and prioritize tasks by dragging and dropping them across customizable columns, giving you a clear overview of the project status and enabling efficient task management..",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Gantt Charts",
+                "paragraph":"Visualize project timelines and dependencies using Ondel's Gantt charts. This feature allows you to create and manage project schedules, set task dependencies, and track progress over time. Gantt charts provide a comprehensive view of project timelines, helping you stay on track and effectively manage resources.."
+
+              },
+            {
+                "id":3,
+                "heading":"Issue Tracking and Resolution",
+                "paragraph":"Efficiently manage project issues and track their resolution using Ondel's issue tracking feature. Capture and categorize issues, assign them to team members, set priorities, and monitor their progress. This ensures that potential roadblocks are addressed promptly, minimizing project disruptions."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Client Collaboration",
+                "paragraph":"Collaborate seamlessly with clients using Ondel's client collaboration capabilities. Share project updates, receive feedback, and involve clients in the decision-making process. This fosters transparency, strengthens client relationships, and ensures alignment with client expectations.                            ."
+
+            },
+            {
+                "id":5,
+                "heading":"Customizable Dashboards",
+                "paragraph":"Tailor Ondel's dashboards to your specific project needs. Customize widgets, charts, and data displays to create a personalized project overview. This feature enables you to focus on the key project metrics and data that matter most to you and your team.."
+              },
+              {
+                "id":6,
+                "heading":"API Integration",
+                "paragraph":"Utilize our API to integrate custom applications or connect with specialized tools, expanding the capabilities and flexibility of your project management workflows."
+              }
+        ],
+        "Heading4":"Milestone Tracking",
+        "Paragraph4":"Effortlessly track and monitor project milestones. This feature allows you to set important milestones, define their deadlines, and keep a close eye on their progress. It helps you stay organized and ensures that key project goals are met on time.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Team Collaboration",
+                "Para":"Facilitate effective team collaboration with built-in collaboration tools. Share files, exchange messages, and collaborate in real-time to keep everyone aligned and engaged. This feature promotes efficient communication, information sharing, and teamwork throughout the project lifecycle."
+            },
+            {
+                "Head":"Progress Monitoring",
+                "Para":"Stay informed about project progress at all times using progress monitoring feature. Track task completion, monitor milestones, and receive real-time updates on project status. This helps you identify potential bottlenecks, make data-driven decisions, and keep projects on track.                "
+            },
+            {
+                "Head":"Agile Project Management",
+                "Para":"Embrace agile project management methodologies with agile features. Plan, prioritize, and manage work using agile frameworks such as Scrum or Kanban. Enjoy the flexibility to adapt to changing project requirements, optimize team collaboration, and deliver high-quality results efficiently.                "
+            }
+        ],
+        "Heading5":"Risk Management",
+        "Paragraph5":"Effectively identify, assess, and mitigate project risks with our Risk Management feature. Proactively manage risks and ensure project success.",
+        "List5":[
+            {
+                "Head":"Risk Identification",
+                "Para":"Identify and document potential risks that could impact project scope, timeline, or quality, ensuring a comprehensive risk management approach. "
+            },
+            {
+                "Head":"Risk Assessment and Prioritization                ",
+                "Para":"Evaluate risks based on their probability and potential impact, prioritize them accordingly, and develop mitigation strategies for high-priority risks. "
+            },
+            {
+                "Head":"Risk Monitoring and Control                ",
+                "Para":"Continuously monitor identified risks, track mitigation measures, and implement proactive actions to control and minimize their impact on the project. "
+            }
+        ],
+        "Heading6":"Time and Expense Tracking",
+        "Paragraph6":"Efficiently manage project time and expenses with our Time and Expense Tracking feature. Stay on top of project costs, monitor resource allocation, and streamline invoicing.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Time & Expense Tracking ",
+                "Para":"Capture and categorize project-related time and expenses, including travel costs or equipment purchases, facilitating accurate cost tracking and budget management.  "
+            },{
+                "Head":"Billable Hours Calculation ",
+                "Para":"Automatically calculate billable hours based on time entries and predefined rates, simplifying client billing and invoicing processes."
+            },{
+                "Head":"Expense Reimbursement ",
+                "Para":"Streamline expense reimbursement workflows, allowing team members to submit expense claims, attach receipts, and track reimbursement status.                "
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "path":"expertpay",
+        "Headingm":"Make Every Sale Count With",
+        "Headingn":"  ",
+        "Heading1": " POS System",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Efficient Transaction Processing"
+            },
+            {
+                "Para":"Customer Loyalty Integration"
+            },
+            {
+                "Para":"Mobile Payment Support"
+            },
+            {
+                "Para":"Multi-location Compatibility"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Remote Payments with Invoices",
+                "paragraph":"Facilitating seamless remote payments."
+            },
+            {
+                "id":2,
+                "heading":"Team Management",
+                "paragraph":"Tracking roles, permissions & performance"
+
+              },
+            {
+                "id":3,
+                "heading":"Cross Channel Returns Management",
+                "paragraph":"Efficient handling of customer returns"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Future-Proof Your Sales System",
+        "Paragraph2":"Make Every Sale Count With AI-Powered POS.",
+        "Sub_para2":"A versatile POS System designed to streamline and optimize various aspects of retail operations. With features such as billing and order processing, loyalty program and gift cards, POS inventory management, omnichannel integration and management, cross-channel returns management, tap-to-pay with contactless and digital wallets, remote payments with invoices, and team management, The software empowers businesses to enhance customer experiences, streamline transactions, and effectively manage their teams.",
+        "Heading3":"Powerful POS Solution",
+        "Image3":"",
+        "Sub_para3":"Next-Level POS System for Efficient Business Operations",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Billing & Order Processing",
+                "paragraph":"Efficiently process customer orders, generate invoices, and manage billing cycles to ensure smooth and accurate transaction handling.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Loyalty Program & Gift Cards",
+                "paragraph":"Implement and manage customer loyalty programs, offer gift cards, and track customer rewards and redemptions to enhance customer engagement and retention."
+
+              },
+            {
+                "id":3,
+                "heading":"POS Inventory Management",
+                "paragraph":"Effectively manage and track inventory levels, automate stock replenishment, and streamline inventory operations to ensure optimal stock availability and minimize stockouts."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Omnichannel Integration and Management",
+                "paragraph":"Integrate and manage sales channels across various platforms, including online stores, marketplaces, and physical stores, providing a unified and seamless customer experience."
+
+            },
+            {
+                "id":5,
+                "heading":"Tap to Pay with Contactless and Digital Wallets",
+                "paragraph":"Enable quick and secure transactions by accepting payments through contactless methods, including tap-to-pay cards and digital wallets, offering convenience and flexibility to customers"
+              },
+              {
+                  "id":6,
+                  "heading":"Integrated Receipts and Invoices                  ",
+                  "paragraph":"Generate digital receipts and invoices directly from the POS system, reducing paper waste and providing customers with convenient and eco-friendly transaction records."
+                }
+        ],
+        "Heading4":"Remote Payments with Invoices",
+        "Paragraph4":"Facilitate remote payments by generating and sending invoices to customers, allowing them to make payments from the convenience of their own devices.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Team Management",
+                "Para":"Efficiently manage teams by assigning roles and permissions, tracking employee performance, and monitoring sales and productivity, ensuring smooth operations and optimizing staff resources."
+            },
+            {
+                "Head":"Cross Channel Returns Management",
+                "Para":"Streamline the process of managing returns and exchanges across different sales channels, ensuring consistent and efficient handling of customer returns.                "
+            },
+            {
+                "Head":"CRM Integration",
+                "Para":"Seamlessly integrate with your CRM system to access customer information, purchase history, and loyalty programs, enabling personalized service and targeted marketing."
+            }
+        ],
+        "Heading5":"Sales Management",
+        "Paragraph5":"Efficiently manage your sales operations with our Streamlined Sales Management feature. Simplify the process from product selection to checkout, enhancing customer service and optimizing business operations.",
+        "List5":[
+            {
+                "Head":"Product Catalog Management",
+                "Para":"Easily organize and update your product catalog, including inventory levels, pricing, and product information, ensuring accurate and up-to-date offerings.  "
+            },
+            {
+                "Head":"Barcode Scanning ",
+                "Para":"Accelerate checkout processes by scanning product barcodes, reducing manual data entry errors, and improving transaction speed.  "
+            },
+            {
+                "Head":"Sales Reporting and Analytics ",
+                "Para":"Gain valuable insights into sales performance, track key metrics, and generate comprehensive reports to make data-driven decisions and identify growth opportunities. "
+            }
+        ],
+        "Heading6":"Secure Payment Processing",
+        "Paragraph6":"Ensure secure and convenient payment processing with our Secure Payment Processing feature. Safeguard customer data and streamline transactions for a seamless checkout experience.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Multiple Payment Options ",
+                "Para":"Accept various payment methods, including credit cards, debit cards, mobile wallets, and contactless payments, providing flexibility and convenience to customers. "
+            },{
+                "Head":"EMV Compliance ",
+                "Para":"Ensure compliance with EMV standards to protect against fraudulent transactions and reduce liability for card-present transactions. "
+            },{
+                "Head":"PCI DSS Compliance ",
+                "Para":"Meet Payment Card Industry Data Security Standards (PCI DSS) to safeguard sensitive customer payment information, enhancing trust and ensuring data security. "
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "path":"eblurb",
+        "Headingm":"AI-Based ",
+        "Headingn":"for Institutions",
+        "Heading1": "LMS ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Customizable Courseware"
+            },
+            {
+                "Para":"Collaborative Learning Environment"
+            },
+            {
+                "Para":"Gamification Integration"
+            },
+            {
+                "Para":"Automated Assessment System                "
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Video, Webinars, & Case Studies",
+                "paragraph":"Delivering engaging learning experiences."
+            },
+            {
+                "id":2,
+                "heading":"Social Learning:",
+                "paragraph":"Forums, chat groups, & peer-to-peer interactions"
+
+              },
+            {
+                "id":3,
+                "heading":"SCORM-Compliant LMS:",
+                "paragraph":"Ensure compatibility & interoperability"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Adaptive Learning for Next-Generation Education",
+        "Paragraph2":"AI-Based Learning Management System.",
+        "Sub_para2":"A robust Learning Management System (LMS) designed to facilitate efficient training and learning experiences. With features such as smart scheduling tools, a to-do planner, performance logs, certificates of completion, assessment and engagement tools, centralized learning materials, video, webinars, and case studies, social learning, SCORM compliance, offline learning trackers, and compliance management, the platform empowers organizations to deliver effective and engaging training programs.",
+        "Heading3":"Next-gen LMS",
+        "Image3":"",
+        "Sub_para3":"Empower your e-learning with LMS advanced platform        ",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Smart Scheduling Tools:",
+                "paragraph":"Optimize training schedules and resource allocation with intelligent scheduling tools that consider availability, preferences, and prerequisites, ensuring efficient utilization of time and resources.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"To-Do Planner:",
+                "paragraph":"Enable learners to manage and prioritize their learning tasks with a comprehensive to-do planner, helping them stay organized and on track throughout their learning journey"
+
+              },
+            {
+                "id":3,
+                "heading":"Performance Logs:",
+                "paragraph":"Track and monitor learners' performance and progress through performance logs, allowing administrators and learners to review achievements, identify areas for improvement, and track learning outcomes."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Certificates of Completion:",
+                "paragraph":"Automatically generate certificates of completion for learners who successfully complete training modules or courses, providing tangible recognition for their achievements."
+
+            },
+            {
+                "id":5,
+                "heading":"Assessment & Engagement Tools:",
+                "paragraph":"Assess learners' knowledge and understanding through quizzes, tests, and interactive assessments, fostering engagement and providing valuable feedback for learning improvement"
+              }
+              ,
+            {
+                "id":6,
+                "heading":"Centralized Learning Materials:",
+                "paragraph":"Consolidate learning materials such as documents, presentations, and multimedia content in a centralized repository, ensuring easy access, version control, and efficient content management."
+              }
+        ],
+        "Heading4":"SCORM-Compliant LMS",
+        "Paragraph4":"Ensure compatibility and interoperability with other SCORM-compliant e-learning systems, allowing seamless integration and content exchange with third-party learning resources.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Video, Webinars, & Case Studies:                ",
+                "Para":"Deliver engaging learning experiences through video-based content, live webinars, and real-world case studies, facilitating visual and practical learning approaches."
+            },
+            {
+                "Head":"Social Learning",
+                "Para":"Encourage collaboration and knowledge sharing among learners through social learning features such as discussion forums, chat groups, and peer-to-peer interactions, fostering a collaborative learning environment."
+            },
+            {
+                "Head":"Offline Learning Trackers",
+                "Para":"Enable learners to track their progress and complete learning activities even in offline mode, ensuring uninterrupted learning experiences regardless of internet connectivity."
+            }
+        ],
+        "Heading5":"Robust Course Management",
+        "Paragraph5":"Efficiently manage your eLearning courses with our robust Course Management feature. Simplify course creation, delivery, and administration for a seamless learning experience.",
+        "List5":[
+            {
+                "Head":"Content Creation Tools",
+                "Para":"Create engaging and interactive course content using built-in authoring tools, allowing for multimedia integration and assessment customization. "
+            },
+            {
+                "Head":"Learning Material Organization ",
+                "Para":"Easily organize and structure learning materials into modules, lessons, and assessments, providing a logical and intuitive learning journey. "
+            },
+            {
+                "Head":"Learner Engagement Features",
+                "Para":"Foster learner engagement through discussion forums, interactive quizzes, and collaboration tools, promoting active participation and knowledge retention. "
+            }
+        ],
+        "Heading6":"Personalized Learning Paths",
+        "Paragraph6":"Deliver tailored learning experiences with our Personalized Learning Paths feature. Customize learning paths based on individual learner needs and preferences for optimized skill development.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Competency-based Learning",
+                "Para":"Assess learner skills and knowledge gaps to create personalized learning paths that address individual learning needs and align with organizational goals. "
+            },{
+                "Head":"Adaptive Assessments                ",
+                "Para":"Utilize adaptive assessments to dynamically adjust the difficulty level and content based on learner responses, ensuring targeted and personalized learning experiences."
+            },{
+                "Head":"Learning Recommendations ",
+                "Para":"Provide personalized learning recommendations based on learner progress and performance, guiding them towards relevant courses and resources for continuous growth. "
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "path":"onlog",
+        "Headingm":"Smart",
+        "Headingn":" for Businesses of all Types",
+        "Heading1": " Scheduling Solution",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Resource Allocation "
+            },
+            {
+                "Para":"Conflict Resolution "
+            },
+            {
+                "Para":"Team Availability Tracking"
+            },
+            {
+                "Para":"Recurring Task Automation"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Automated Scheduling",
+                "paragraph":"Automated process of managing schedules"
+            },
+            {
+                "id":2,
+                "heading":"Resource Management",
+                "paragraph":"A centralized platform to track resources"
+              },
+            {
+                "id":3,
+                "heading":"Communication and Collaboration",
+                "paragraph":"Schedules, messages & notifications"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Scheduling Management Made Effortless & Efficient",
+        "Paragraph2":"Smart AI-Powered Scheduling Solution",
+        "Sub_para2":"An efficient Scheduling Software designed to simplify and streamline the process of managing staff schedules and appointments. With features such as staff schedule management, customizable booking forms, customer database and profiles, group scheduling, client self-booking, and time zone conversion, the software empowers businesses to optimize their scheduling processes and enhance customer satisfaction. Effectively manage and organize staff schedules, assign shifts, and track availability to ensure optimal resource allocation and smooth operations.",
+        "Heading3":"Optimize Your Time",
+        "Image3":"",
+        "Sub_para3":"Take Control of Your Schedule with Efficient Tools",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Customizable Booking Form",
+                "paragraph":"Create personalized and tailored booking forms to capture specific information from clients, enabling businesses to gather relevant details for each appointment.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Customer Database and Profiles",
+                "paragraph":"Maintain a centralized database of customer information and profiles, allowing businesses to store contact details, preferences, and history for improved customer service and personalized experiences."
+
+              },
+            {
+                "id":3,
+                "heading":"Group Scheduling",
+                "paragraph":"Efficiently schedule appointments or events involving multiple participants or resources, ensuring coordination and avoiding conflicts in group bookings."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Client Self-Booking",
+                "paragraph":"Empower clients to directly book appointments through a self-service portal or online platform, providing convenience and reducing administrative overhead for businesses."
+
+            },
+            {
+                "id":5,
+                "heading":" Time Zone Conversion",
+                "paragraph":"Facilitate scheduling across different time zones by automatically converting and displaying appointment times based on the respective time zones, preventing scheduling errors and confusion."
+              }
+              ,
+            {
+                "id":6,
+                "heading":"Resource Utilization Reports",
+                "paragraph":"Generate comprehensive reports and insights on resource utilization, helping you identify trends, optimize resource allocation, and make informed decisions."
+              }
+        ],
+        "Heading4":"Intelligent Appointment Scheduling",
+        "Paragraph4":"Experience efficient and streamlined scheduling with our Intelligent Appointment Scheduling feature. Automate and optimize your appointment management process for enhanced productivity.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Smart Scheduling Algorithms",
+                "Para":"Utilize advanced algorithms to intelligently schedule appointments, considering factors such as availability, duration, and resource allocation, ensuring optimal utilization of time and resources."
+            },
+            {
+                "Head":"Self-Service Booking",
+                "Para":"Empower clients to book appointments directly through a user-friendly online portal, reducing manual scheduling and minimizing administrative overhead."
+            },
+            {
+                "Head":"Real-Time Availability",
+                "Para":"Provide clients with real-time access to your availability, enabling them to choose the most convenient appointment slots, enhancing customer satisfaction.                "
+            }
+        ],
+        "Heading5":"Resource Management",
+        "Paragraph5":"Efficiently manage and optimize your resources with our Resource Management feature. Ensure smooth operations and effective utilization of your assets.",
+        "List5":[
+            {
+                "Head":"Resource Allocation",
+                "Para":"Allocate and assign resources such as staff, equipment, and rooms to appointments or projects, ensuring the right resources are available when needed.  "
+            },
+            {
+                "Head":"Capacity Planning ",
+                "Para":"Analyze resource capacity and availability to anticipate demand and avoid overbooking or resource conflicts, optimizing resource allocation.                "
+            },
+            {
+                "Head":"Conflict Resolution                ",
+                "Para":"Identify and resolve scheduling conflicts or double-bookings with automated conflict detection and resolution mechanisms, minimizing disruptions and maximizing efficiency.  "
+            }
+        ],
+        "Heading6":"Calendar Integration",
+        "Paragraph6":"Seamlessly integrate your scheduling software with popular calendar applications. Keep your appointments organized and synchronized across platforms for efficient time management.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Two-Way Sync                ",
+                "Para":"Sync appointments between your scheduling software and calendar applications, ensuring consistency and avoiding scheduling conflicts.   "
+            },{
+                "Head":"Multiple Calendar Support  ",
+                "Para":"Connect with multiple calendar accounts, allowing you to manage personal and professional schedules from a single platform. "
+            },{
+                "Head":"Availability Control ",
+                "Para":"Set specific availability hours in your calendar to prevent conflicting appointments and ensure accurate scheduling. "
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "path":"foggle",
+        "Headingm":"AI ",
+        "Headingn":" Software Propelling Business Growth",
+        "Heading1": "Data Analytics ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Data Visualization Tools"
+            },
+            {
+                "Para":"Data Cleansing Tools"
+            },
+            {
+                "Para":"Advanced Anomaly Detection"
+            },
+            {
+                "Para":"Customizable Data Pipelines"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Data Integration & Transformation",
+                "paragraph":"Integrate data from various sources"
+            },
+            {
+                "id":2,
+                "heading":"Data Cleansing & Quality Management:",
+                "paragraph":"Identify and resolve data inconsistencies"
+              },
+            {
+                "id":3,
+                "heading":"Data Governance & Security:",
+                "paragraph":"Implement robust data governance policies"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Stay Ahead with Powerful Analytics Solutions",
+        "Paragraph2":"AI Data Analytics Software Propelling Business Growth",
+        "Sub_para2":"Get an impressive data analytics software that empowers businesses to extract valuable insights from their data. With its advanced analytics capabilities and user-friendly visualizations, it enables users to make informed, data-driven decisions and discover elusive patterns and trends. Effortlessly transform complex data sets into visual representations such as charts, graphs, and dashboards, facilitating intuitive data exploration and analysis.",
+        "Heading3":"Unleash Data Insights",
+        "Image3":"",
+        "Sub_para3":"Empower Your Business with Advanced Analytics Tools",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Data Mining:",
+                "paragraph":"Discover hidden patterns, trends, and relationships within large datasets using advanced algorithms and techniques, extracting valuable insights for strategic decision-making.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Natural Language Processing (NLP):",
+                "paragraph":"Leverage NLP capabilities to analyze and understand unstructured data, such as customer reviews or social media posts, enabling sentiment analysis, text classification, and entity recognition."
+
+              },
+            {
+                "id":3,
+                "heading":"Statistical Analysis:",
+                "paragraph":"Apply statistical methods and techniques to analyze and interpret data, uncovering correlations, trends, and patterns that support informed decision-making and predictive modeling."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Data Warehousing:",
+                "paragraph":"Create centralized repositories for structured and unstructured data, enabling efficient storage, organization, and retrieval of data for analysis and reporting purposes.."
+
+            },
+            {
+                "id":5,
+                "heading":" Data Mart & Data Cube Creation:",
+                "paragraph":"Design and build specialized data marts and data cubes to facilitate multidimensional analysis, enabling users to explore data from different perspectives and dimensions."
+              },
+              {
+                "id":6,
+                "heading":"Social Media Analytics:",
+                "paragraph":"Analyze social media data to understand customer sentiment, engagement, and trends, helping organizations make data-driven decisions regarding marketing strategies and brand management."
+
+            }
+        ],
+        "Heading4":"Data Governance & Security",
+        "Paragraph4":"Implement robust data governance policies and security measures to protect sensitive data, ensure compliance with regulations, and maintain data privacy and confidentiality.        ",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Data Discovery and Exploration",
+                "Para":"Facilitate intuitive exploration and discovery of data through interactive tools and visualizations, empowering users to uncover valuable insights and make informed decisions."
+            },
+            {
+                "Head":"Data Source Integration",
+                "Para":"Seamlessly integrate data from diverse sources such as databases, spreadsheets, cloud storage, and APIs, enabling a unified view of your data."
+            },
+            {
+                "Head":"Automated Data Updates",
+                "Para":"Set up automated processes to regularly fetch, update, and synchronize data from connected sources, ensuring data freshness and reducing manual effort."
+            }
+        ],
+        "Heading5":"Predictive Analytics",
+        "Paragraph5":"Harness the potential of predictive analytics to unlock valuable insights and make data-driven decisions with our Predictive Analytics feature.",
+        "List5":[
+            {
+                "Head":"Forecasting",
+                "Para":"Utilize advanced algorithms and historical data to forecast future trends, enabling proactive planning and strategic decision-making "
+            },
+            {
+                "Head":"Predictive Modeling ",
+                "Para":"Build predictive models to identify patterns, correlations, and anomalies in data, allowing for predictive insights and scenario analysis.   "
+            },
+            {
+                "Head":"What-If Analysis ",
+                "Para":"Conduct what-if analysis by simulating various scenarios and assessing their potential impact, empowering users to make informed decisions based on different outcomes.  "
+            }
+        ],
+        "Heading6":"Data Visualization Tools",
+        "Paragraph6":"Effortlessly transform complex data sets into visual representations such as charts, graphs, and dashboards, facilitating intuitive data exploration and analysis.",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Data Integration & Transformation",
+                "Para":"Integrate data from various sources, transform it into a unified format, and ensure data consistency and accuracy for comprehensive analysis and reporting."
+            },{
+                "Head":"Data Cleansing & Quality Management                ",
+                "Para":"Identify and resolve data inconsistencies, errors, and duplicates, ensuring data integrity and reliability for accurate analysis and decision-making. "
+            },{
+                "Head":"Time Series Analysis  ",
+                "Para":"Examine data collected over time to identify patterns, seasonality, and forecasting trends, enabling organizations to make accurate predictions and optimize resource planning.                "
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "path":"doCloud",
+        "Headingm":"",
+        "Headingn":"System for Businesses",
+        "Heading1": "Document Management ",
+        "Image1":"",
+        "List1":[
+            {
+                "Para":"Secure Document Storage"
+            },
+            {
+                "Para":"Version Control"
+            },
+            {
+                "Para":"Workflow Automation"
+            },
+            {
+                "Para":"Integration Flexibility"
+            }
+        ],
+        "first_section":
+        [
+            {
+                "id":1,
+                "heading":"Integration with 3rd-Party Apps",
+                "paragraph":"Integrate project management tools & CRM systems"
+            },
+            {
+                "id":2,
+                "heading":"Custom Metadata Fields:",
+                "paragraph":"Create and define custom metadata fields"
+              },
+            {
+                "id":3,
+                "heading":"Retention & Archiving:",
+                "paragraph":"Automate archiving & retention processes"
+                        }
+        ],
+        "Image2":"",
+        "Heading2":"Say Goodbye to Paper Clutter Forever",
+        "Paragraph2":"AI-Advanced Document Management System",
+        "Sub_para2":"Our team of experts revolutionizes document management by offering a powerful software solution for organizations to effortlessly store, organize, and retrieve their digital documents. Its intuitive interface and cutting-edge features streamline document management processes, optimizing productivity and saving valuable time. Utilize customizable metadata models to categorize and tag documents, facilitating efficient search and retrieval based on specific attributes and criteria.",
+        "Heading3":"Master Your Documentation ",
+        "Image3":"",
+        "Sub_para3":"Optimize Your Document Management Workflow",
+        "List2":[
+            {
+                "id":1,
+                "heading":"Enterprise Content Management (ECM):",
+                "paragraph":"Leverage ECM capabilities to organize, store, and version control documents in a secure and centralized repository, ensuring easy access and collaboration across teams.",
+                "open": true 
+            },
+            {
+                "id":2,
+                "heading":"Metadata Management:",
+                "paragraph":"Effectively manage document metadata by defining and maintaining metadata standards, ensuring consistency, accuracy, and efficient classification of documents."
+
+              },
+            {
+                "id":3,
+                "heading":"Indexing & Information Governance:",
+                "paragraph":"Implement indexing techniques to categorize and structure documents, facilitating efficient search and retrieval. Ensure compliance with information governance policies for data security and privacy."
+                        }
+        ],
+        "List3":[
+            {
+                "id":4,
+                "heading":"Sharing, Editing & Permissions:",
+                "paragraph":"Facilitate seamless document sharing, collaborative editing, and granular permission control, allowing teams to work together on documents while maintaining control over access and editing rights."
+
+            },
+            {
+                "id":5,
+                "heading":"Scanning & OCR:",
+                "paragraph":"Digitize physical documents through scanning capabilities and utilize Optical Character Recognition (OCR) technology to convert scanned images into searchable and editable text."
+              },
+              {
+                "id":6,
+                "heading":"Cross-Referencing, Annotations & Comments:",
+                "paragraph":"Enhance document collaboration and review processes by enabling cross-referencing, annotations, and commenting functionalities, facilitating feedback and discussions within the document context.                            "
+
+            }
+        ],
+        "Heading4":"Rich Metadata Models",
+        "Paragraph4":"Utilize customizable metadata models to categorize and tag documents, facilitating efficient search and retrieval based on specific attributes and criteria.",
+        "Image4":"",
+        "List4":[
+            {
+                "Head":"Integration with Third-Party Applications",
+                "Para":"Integrate with various third-party applications such as project management tools, CRM systems, and office productivity suites, enabling seamless document management within existing workflows and systems."
+            },
+            {
+                "Head":"Custom Metadata Fields",
+                "Para":"Create and define custom metadata fields to tag and categorize documents, enabling efficient organization, search, and retrieval based on specific attributes and criteria."
+            },
+            {
+                "Head":"Retention and Archiving",
+                "Para":"Set document retention policies and automate archiving processes to ensure compliance with legal and regulatory requirements, while efficiently managing document lifecycle and storage."
+            }
+        ],
+        "Heading5":"Access Permissions",
+        "Paragraph5":"Manage access permissions at various levels to control who can view, edit, or delete documents, ensuring data security and confidentiality while providing appropriate access to authorized users.",
+        "List5":[
+            {
+                "Head":"Capture from Scanners and MFPs",
+                "Para":"Directly capture physical documents from scanners and multifunction printers (MFPs), converting them into digital format and storing them directly within the system for easy access and management.    "
+            },
+            {
+                "Head":"OCR and Document Indexing ",
+                "Para":"Utilize Optical Character Recognition (OCR) technology to extract text from scanned documents and perform document indexing, enabling full-text search and enhancing document discoverability.  "
+            },
+            {
+                "Head":"Version Control ",
+                "Para":"Maintain a record of document versions, allowing users to track changes, compare versions, and revert to previous iterations, ensuring document integrity and collaboration.  "
+            }
+        ],
+        "Heading6":"Document Workflow Automation",
+        "Paragraph6":"Automate document workflows by defining rules and triggers, streamlining approval processes, task assignments, and notifications, increasing efficiency and reducing manual effort.        ",
+        "Image6":"",
+        "List6":[
+            {
+                "Head":"Document Collaboration  ",
+                "Para":"Enable real-time collaboration on documents, allowing multiple users to edit, comment, and collaborate simultaneously, fostering teamwork and improving productivity. "
+            },{
+                "Head":"Document Security ",
+                "Para":"Implement robust security measures such as encryption, access controls, and audit trails to protect sensitive documents from unauthorized access, ensuring data privacy and compliance. "
+            },{
+                "Head":"Document Search and Retrieval",
+                "Para":"Efficiently search and retrieve documents using advanced search functionalities, filters, and metadata tags, saving time and improving productivity in locating the required information.  "
+            }
+        ]
+    }
+
+]

@@ -1,0 +1,29 @@
+{
+  "name": "london",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.2",
+    "@widgetbot/react-embed": "^1.7.0",
+    "aos": "^2.3.4",
+    "axios": "^1.4.0",
+    "bootstrap": "^5.2.3",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.2",
+    "next": "^13.1.2",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.7.1",
+    "react-multi-carousel": "^2.8.2",
+    "react-scroll-motion": "^0.3.2",
+    "react-toastify": "^9.1.2",
+    "video-react": "^0.16.0"
+  }
+}

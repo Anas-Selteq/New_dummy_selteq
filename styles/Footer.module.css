@@ -1,0 +1,212 @@
+.main_div {
+  background-color: black;
+  height: 700px;
+}
+.second_main_div {
+  max-width: 100%;
+  width: 80%;
+  max-width: 1080px;
+  margin: auto;
+  position: relative;
+  padding: 27px 0;
+  display: flex;
+}
+.first_div {
+  width: 47.25%;
+}
+.form_div {
+  margin-left: 0px !important;
+  margin-right: auto !important;
+  width: 72.1%;
+}
+.heading_h1 {
+  font-family: "Roboto", Helvetica, Arial, Lucida, sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  color: #cc1a1a !important;
+}
+.main_form_div {
+  position: relative;
+}
+.form_start {
+  margin-left: -3%;
+}
+.form_p {
+  padding: 0 0 0 3%;
+  margin-bottom: 3%;
+  background-position: 50%;
+  background-size: cover;
+  overflow-wrap: break-word;
+}
+.form_label {
+  display: block !important;
+  font-weight: 100;
+  letter-spacing: 1px;
+  font-size: 12px;
+  color: white;
+  margin-bottom: 2%;
+}
+.form_input {
+  color: #ffffff;
+  background-color: #2d2d2f !important;
+  height: 40px;
+
+  background-color: #eee;
+  width: 100%;
+  border-width: 0;
+  border-radius: 0;
+  color: #999;
+  font-size: 14px;
+  padding: 16px;
+}
+.form_textarea {
+  min-height: 150px;
+  display: block;
+  width: 100%;
+}
+.form_span {
+  vertical-align: middle;
+}
+.form_bottom_div {
+  float: right;
+  text-align: right;
+  margin-top: -1.5%;
+  display: flex;
+}
+.form_span_button_div {
+  display: inline-block;
+  min-width: 105px;
+  margin: 0;
+  text-align: right;
+}
+.form_span_p {
+  color: #ffffff !important;
+  padding-bottom: 0;
+}
+.form_span_span1 {
+  vertical-align: middle;
+}
+.form_span_input {
+  background-color: #2d2d2f;
+  max-width: 50px;
+  padding: 16px;
+  height: 40px;
+  border: none;
+  margin-top: 7%;
+}
+.form_button {
+  color: #ffffff !important;
+  border-color: #cc1a1a;
+  background-color: #cc1a1a !important;
+  font-family: inherit;
+  display: inline-block;
+  margin: 0 0 0 18px;
+  cursor: pointer;
+  position: relative;
+  font-size: 20px;
+  font-weight: 500;
+  width: 135px;
+  line-height: 1.7em !important;
+  background-color: transparent;
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  height: 40px;
+  border-radius: 3px;
+  -webkit-transition-duration: 0.2s;
+  transition-duration: 0.2s;
+  -webkit-transition-property: all !important;
+  transition-property: all !important;
+  margin-top: 9%;
+}
+.second_div {
+  margin-right: 0 !important;
+  width: 47.25%;
+  float: left;
+  background-size: cover;
+  /* background-position: 50%; */
+  position: relative;
+  z-index: 2;
+  min-height: 1px;
+  margin-left: 10%;
+}
+.second_maindiv {
+  margin-left: 0px !important;
+  margin-right: auto !important;
+  text-align: left;
+  font-family: "Roboto", Helvetica, Arial, Lucida, sans-serif;
+  line-height: 1.4em;
+  margin-bottom: 55px !important;
+  width: 95%;
+}
+.second_start {
+  padding-bottom: 0;
+}
+.Mail__div {
+  margin-bottom: 40px !important;
+  display: flex;
+  justify-content: space-between;
+}
+.Mail__div2 {
+  position: relative;
+}
+.footerEmial {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: grey !important;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+.Mail__div_headings {
+  color: white !important;
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 12px;
+}
+.ul_icons {
+  margin-bottom: 0;
+  text-align: right;
+  padding-right: 15px !important;
+}
+.icons {
+  display: inline-block;
+  margin-bottom: 8px;
+  position: relative;
+}
+.footer_span {
+  color: #999;
+}
+.footer_images {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+}
+@media screen and (max-width: 768px) {
+  .main_div {
+    background-color: black;
+    height: 410vh;
+  }
+  .second_main_div {
+    display: block;
+  }
+  .first_div {
+    width: 100%;
+  }
+  .second_div {
+    width: 100%;
+  }
+  .second_div {
+    margin-left: 0px;
+  }
+  .form_div {
+    margin-left: 0px !important;
+    margin-right: auto !important;
+    width: 100%;
+  }
+  .Mail__div {
+    margin-bottom: 40px !important;
+    display: block;
+    justify-content: space-between;
+  }
+}

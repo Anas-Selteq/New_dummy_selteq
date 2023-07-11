@@ -1,0 +1,45 @@
+.main_height
+{
+    min-height: 100vh;
+}
+
+.main_head
+{
+    height: auto;
+}
+.crowBeak{
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-bottom: 10px solid white;
+    position: absolute;
+    bottom: 0;
+    /*top: 50%;*/
+    left: 50%;
+    transform: translate(-50%, 0%);
+
+}
+.crowbeakHover:hover{
+
+}
+.partnerDiv{
+    display: flex;
+    flex-direction: column;
+    margin-top: 7vw;
+
+
+}
+.partnerDiv p{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    /* or 119% */
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #8D8D8D;
+}

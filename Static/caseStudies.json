@@ -1,0 +1,317 @@
+[
+    {
+        "id": 1,
+        "path":"Expert-App",
+        "section_one_heading":"EXPERT APP",
+        "section_one_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "section_two_heading":"AN ALL-IN-ONE SERVICE APP",
+        "section_two_para":"Expert App was conceptualized to provide an array of services across a spectrum of different domains. The app was built from the ground up to be an all-in-one service app. This go-to platform offers all sorts of services delivered by expert professionals. Customers can book service via the app and connect to an expert who will visit their desired location to do the job. The booking process is so seamless that it lets customers book any service they can think of with a few taps of an app.",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": false,
+        "section_two_para1":"Undoubtedly, the service industry is by far larger and more complicated than the product industry; thus, creating multiple booking platforms for all services is extremely challenging. Although service providers have become huge names like Uber and Deliveroo, there’s still no platform that offers booking of multiple services on one platform. In comparison, the online product industry has matured in the last 20 years, for example, Amazon, but the services industry is far behind. With this gap in the market, the founders of Expert came up with the idea of providing a multitude of services on one single app. They compiled a plethora of services ranging from beauty, medical, trades, auto, legal, finance, IT, etc. Expert’s motto is ‘Book Any service, Anytime Anywhere.",
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": false,
+        "is_listing_results": false,
+        "section_three_para":"The goal was to provide the simplest booking process that lets people book any service they can think of with the tap of an app. Customers can either request the service provider to visit their home or office or visit Expert Centres. The experts come directly to the customers door for services such as plumbing, electrical, and cleaning. With services such as dental care or car maintenance, customers can visit Expert Centres.",
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"PLEXAAR",
+        "case1_para":"A high-end CRM system for businesses of all sizes",
+        "link_case1":"",
+        "case2":"LIVE CHAT SYSTEM",
+        "case2_para":"A multi-purpose Chat System for customers & service providers ",
+        "case2_link":""
+    },
+    {
+        "id": 2,
+        "path":"live-chat-system",
+        "section_one_heading":"LIVE CHAT SYSTEM",
+        "section_one_para":"A multi-purpose Chat System to assist customers & service providers with real-time communication and deliver quick, personalized experiences.",
+        "section_two_heading":"24/7 Support to Spruce Up Satisfaction",
+        "section_two_para":"The primary purpose of the Live Chat Tool is to manage multiple requests, at a time, with no backlog and wait time. It helps to engage, qualify, convert and resolve matters for all stakeholders in real-time. Apart from seamless interaction, this high-quality support system records customers’ inquiries, solutions provided, the number of queries entertained in a certain timeframe, and the feedback received from the other end.",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": false,
+        "section_two_para1":"Before the integration of this 24/7, Live Communication Portal, many of our customers were facing difficulty getting in touch with our team. In case of any problem, delay, or lack of quality provided, most of them were clueless about where to contact/complain and how to resolve their problems. The same goes for our service providers who couldn’t contact us in case of any query or confusion. The end result was dissatisfied clients and infuriated professionals.",
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": false,
+        "is_listing_results": false,
+        "section_three_para":"The main aim of this Live Chat System was to create harmony in our system and provide personalized communication to everyone – be it the customers or service providers working for us. Now that we have this system up and working, our customer care executives are managing 100s of customer requests simultaneously, interacting with them, answering their questions, guiding them properly, boosting sales, enhancing marketing, and empowering the brand.",
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"EXPERT",
+        "case1_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "link_case1":"",
+        "case2":"PLEXARR",
+        "case2_para":"A high-end CRM system for businesses of all sizes.",
+        "case2_link":""
+    },
+    {
+        "id": 3,
+        "path":"Plexarr",
+        "section_one_heading":"PLEXAAR",
+        "section_one_para":"Selteq’s leading CRM solution enables businesses to manage their customer interaction & track business opportunities.",
+        "section_two_heading":"Streamlining Complex Business Processes",
+        "section_two_para":"The Plexaar is a leading-edge CRM app created to revolutionize business processes. It’s a high-quality, fully automated system designed to get real work to businesses quickly and easily. It allows users to create a business profile, manage job schedules, maintain regular communication with clients, and implement customer feedback. Customers can book service via the app and connect to an expert who will visit their desired location to do the job. The booking process is so seamless that it lets customers book any service they can think of with a few taps of an app.",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": false,
+        "section_two_para1":"Businesses registered with Plexar had a number of projects coming from the Expert App that needed to be completed daily, but their employees were having trouble keeping track of the amount of time they spent on each task/job and were not transparent about their allotted time. As a result, it has made it difficult for them to prioritize critical projects without being able to see all projects within one system.",
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": false,
+        "is_listing_results": false,
+        "section_three_para":"Our solution was engineered for businesses to manage their workflow of daily tasks by creating a digital job calendar and assigning those tasks to their respective employees. The advantage that every worker can complete their day-to-day tasks, it helps the organizations to track everything in real time and communicate with the employees effectively. This leads to better productivity at all levels.",
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"EXPERT",
+        "case1_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "link_case1":"",
+        "case2":"LIVE CHAT SYSTEM",
+        "case2_para":"A multi-purpose Chat System for customers & service providers",
+        "case2_link":""
+    },
+    {
+        "id": 4,
+        "path":"buzz",
+        "section_one_heading":"Buzz",
+        "section_one_para":"Buzz is a versatile communication software that reforms team collaboration and improves productivity through intuitive features.        ",
+        "section_two_heading":"The Best Team Collaboration with Buzz",
+        "section_two_para":"Buzz is a dynamic and comprehensive communication software designed to revolutionize team collaboration and boost productivity. With its user-friendly interface and powerful features, Buzz provides teams with an efficient platform to communicate, share information, and collaborate on projects. From small startups to large enterprises, Buzz caters to the diverse needs of teams across various industries. With its intuitive design, users can easily navigate through its extensive range of communication tools, including instant messaging, file sharing, video conferencing, and task management. Buzz empowers teams to stay connected, exchange ideas, and work together seamlessly, enhancing overall productivity and fostering a collaborative work environment.",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": false,
+        "section_two_para1":"Prior to adopting Buzz, teams often encountered several communication challenges that hindered productivity and collaboration. Inefficient communication channels, such as scattered email threads or fragmented chat applications, led to confusion and delays in information sharing. Collaboration across different departments or remote teams became a cumbersome process, with difficulties in coordinating tasks and aligning goals. Moreover, the lack of centralized information storage and retrieval made it arduous to locate critical documents or discussions. In addition, inadequate integration capabilities with existing software systems posed obstacles in workflow continuity. These problems resulted in decreased efficiency, missed deadlines, and a disjointed work environment, impacting overall team performance and hindering business growth.",
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": false,
+        "is_listing_results": false,
+        "section_three_para":"Buzz addresses these communication challenges by providing a centralized and intuitive platform that streamlines team collaboration. Through its unified interface, Buzz eliminates the need for scattered communication tools, ensuring seamless and efficient information exchange. Its robust integration capabilities enable teams to integrate Buzz with existing software systems, ensuring workflow continuity. With comprehensive features like file sharing, task management, and video conferencing, Buzz enhances collaboration across teams and departments. By fostering effective communication, Buzz boosts productivity, improves task coordination, and creates a cohesive work environment, leading to enhanced team performance and business success",
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"EXPERT",
+        "case1_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "link_case1":"",
+        "case2":"LIVE CHAT SYSTEM",
+        "case2_para":"A multi-purpose Chat System for customers & service providers",
+        "case2_link":""
+    }, 
+    {
+        "id": 5,
+        "path":"Chelsford",
+        "section_one_heading":"Chelsford LMS",
+        "section_one_para":"Introducing Chelsford: An LMS Empowering Education with AI Technology        ",
+        "section_two_heading":"Selteq’s Bespoke LMS for Chelsford        ",
+        "section_two_para":"Chelsford, a forward-thinking educational institution, aimed to position itself at the forefront of modern education. To achieve this, Chelsford recognized the need for a robust Learning Management System (LMS) that could support their vision of a digital learning environment.To achieve this goal, Chelsford partnered with Selteq. Our stellar team of software developers & engineers worked closely with them to understand their challenges and developed a tailored LMS solution to address their specific requirements. By incorporating cutting-edge features and a user-friendly interface, we helped Chelsford's to aim to provide educators and learners with a robust LMS for efficient knowledge dissemination and skill development. By harnessing the power of technology, our qualified team empowered Chelsford to create engaging and interactive learning experiences, fostering a dynamic educational ecosystem.",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": true,
+        "problem_list":
+        [
+            {
+             "head":"Limited Storage for Student Work ",
+             "para":"Chelsford faced the problem of students not having a centralized platform to store their academic work. This created inefficiencies in document management and made it difficult for students to access their assignments and materials. As a result, students' productivity and collaboration were hindered.             "
+            },
+            {
+                "head":"Lack of Virtual Journey Tracking of Students                ",
+                "para":"Tutors at Chelsford faced challenges in monitoring the progress of their students' learning journeys in a virtual environment. Without an integrated system, it was cumbersome for tutors to track how much of the course each student had completed, making it harder to provide timely feedback and support.                "
+               } ,
+               {
+                "head":"Desire for a More Digitized Approach to Learning                ",
+                "para":"Chelsford's tutors sought a more interactive and digitized approach to teaching and learning. Traditional classroom methods were no longer sufficient to engage students effectively, and tutors wanted to leverage modern technologies to create a more immersive and dynamic learning environment.                "
+               } ,
+               {
+                "head":"Virtual Learning for Online Courses and Supplementary Teaching                ",
+                "para":"As online courses and supplementary teaching gained importance, Chelsford needed a solution that would facilitate virtual learning classes. They required a platform that would enable tutors to conduct live online sessions, share learning resources, and engage with students in a virtual classroom setting.                "
+               } 
+               ,
+               {
+                "head":"Outdated Learning Methods                ",
+                "para":"Traditional educational approaches often fail to keep pace with the rapidly evolving digital landscape, leaving Chelsford's students unprepared for the challenges of the modern world. Limited access to up-to-date resources and interactive learning experiences hindered their engagement and effective knowledge acquisition.                "
+               } ,
+               {
+                "head":"Fragmented Learning Environments                ",
+                "para":"Chelsford struggled with disparate systems and fragmented tools, making their content management and collaboration cumbersome. This fragmentation led to inefficiencies, reduced productivity, and a lack of cohesive learning experiences.                "
+               } ,
+               {
+                "head":"Inefficient Learning Assessment                ",
+                "para":"Traditional assessment methods of Chelsford relied heavily on manual grading, making it time-consuming and prone to errors. Additionally, they faced challenges in providing timely and constructive feedback to students, hindering their learning progress.                "
+               }
+        ],
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": true,
+        "solution_list":
+        [
+            {
+             "head":"Centralized Work Storage & Collaboration ",
+             "para":"Selteq developed an LMS platform that provided students with a centralized repository to store their academic work. This digital storage system allowed students to upload and access their assignments, lecture notes, and other learning materials from any device, ensuring easy organization and accessibility.             "
+            },
+            {
+                "head":"Tracking Students' Performance                 ",
+                "para":"Selteq's LMS solution integrated advanced tracking capabilities, enabling tutors to store, monitor and assess the progress of each student's learning journey. Tutors could easily access information such as completed assignments, quiz scores, and engagement metrics. This empowered tutors to provide personalized feedback, identify areas of improvement, and ensure students stayed on track.                "
+               } ,
+               {
+                "head":"Digitized Learning Tools                ",
+                "para":"To cater to Chelsford's desire for a more digitized approach to learning, Selteq incorporated a range of interactive learning tools into the LMS. These tools included multimedia presentations, virtual tracking, and collaborative workspaces, enabling tutors to create engaging and immersive learning experiences. Students could actively participate in discussions, share ideas, and collaborate on projects, fostering a more dynamic learning environment.                "
+               } ,
+               {
+                "head":"Virtual Classroom and Online Learning Support                ",
+                "para":"Selteq's LMS facilitated virtual learning by offering features such as live video conferencing, screen sharing, and chat functionalities. Tutors could conduct virtual classes, provide real-time explanations, and interact with students remotely. Additionally, online courses and supplementary teaching resources were seamlessly integrated into the LMS, enabling easy access and a cohesive learning experience.                "
+               } 
+             
+        ],
+        "is_listing_results": true,
+        "section_4_heading":"Results & Benefits",
+        "results_list":
+        [
+            {
+             "head":"Enhanced Student Engagement and Collaboration",
+             "para":"The implementation of Selteq's LMS resulted in improved student engagement and collaboration. The centralized storage and interactive learning tools allowed students to actively participate in the learning process, share their work, and collaborate with peers. This facilitated a more interactive and inclusive learning experience."
+            },
+            {
+                "head":"Efficient Progress Monitoring and Feedback",
+                "para":"Tutors could now easily track students' progress, assess their performance, and provide timely feedback through Selteq's LMS. The comprehensive progress trackingSelteq’s future-proof LMS enabled educators to create interactive and multimedia-rich learning content, including videos, quizzes, and simulations, making learning more immersive and enjoyable. The platform supports various content formats, fostering creativity and enhancing knowledge retention.Chelsford consolidates all educational tools and resources into a centralized platform, eliminating the need for teachers and students to juggle multiple applications. This streamlined approach enhances collaboration, simplifies content management, and ensures a seamless learning experience for all stakeholders."
+               }
+             
+        ],
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"EXPERT",
+        "case1_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "link_case1":"",
+        "case2":"LIVE CHAT SYSTEM",
+        "case2_para":"A multi-purpose Chat System for customers & service providers",
+        "case2_link":""
+    },
+    {
+        "id": 6,
+        "path":"Digicon",
+        "section_one_heading":"Digicon",
+        "section_one_para":"Unlock the potential for the best construction price negotiations with Digicon, a powerful software solution renowned for its efficiency in price consultations.x        ",
+        "section_two_heading":"Construction Price Negotiations        ",
+        "section_two_para":"Digicon is a revolutionary Construction Negotiating Prices System Software designed to optimize and expedite price negotiations within the construction industry. With its advanced features and user-friendly interface, Digicon revolutionizes the way construction professionals handle price discussions, enabling them to efficiently navigate the complex negotiation process. By harnessing the power of technology, Digicon empowers users to enhance their negotiating prowess, save time, and maximize project profitability.        ",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": true,
+        "problem_list":
+        [
+            {
+             "head":"Time-consuming and manual negotiations:",
+             "para":"Traditional construction price negotiations involve extensive back-and-forth communication, often conducted manually through emails, phone calls, or face-to-face meetings. This outdated approach is highly time-consuming, prone to errors, and can lead to project delays.  "
+            },
+            {
+                "head":"Lack of transparency and data-driven insights:",
+                "para":"Without a centralized system to track negotiations, stakeholders often struggle to access real-time data and insights during the negotiation process. This lack of transparency makes it difficult to evaluate proposals, compare prices, and make informed decisions, leading to potential cost overruns and suboptimal outcomes."
+               } ,
+               {
+                "head":"Inefficient collaboration and documentation:",
+                "para":"Collaboration among various stakeholders, such as contractors, suppliers, and project managers, is crucial for successful construction projects. However, traditional negotiation methods make it challenging to maintain clear communication channels and track crucial information, resulting in miscommunication, delays, and disputes."
+               }
+        ],
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": true,
+        "solution_list":
+        [
+            {
+             "head":"Centralized negotiation platform:",
+             "para":"Users can access a shared space where they can exchange messages, share documents, and track negotiation progress, ensuring effective communication and minimizing delays.             "
+            },
+            {
+                "head":"Real-time data and analytics:",
+                "para":"This enables data-driven decision-making, facilitates transparent negotiations, and helps users identify the most cost-effective solutions for their projects.                "
+               } ,
+               {
+                "head":"Automated documentation and tracking:                ",
+                "para":"The manual and error-prone process of documenting negotiation details is eliminated. The software automatically records and organizes all negotiation-related information, including proposals, counteroffers, and revisions. "
+               } 
+             
+        ],
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"EXPERT",
+        "case1_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "link_case1":"",
+        "case2":"LIVE CHAT SYSTEM",
+        "case2_para":"A multi-purpose Chat System for customers & service providers",
+        "case2_link":""
+    },
+    {
+        "id": 7,
+        "path":"iReach",
+        "section_one_heading":"iReach",
+        "section_one_para":"iReach is a comprehensive onboarding software system that simplifies and smoothens the employee onboarding process. ",
+        "section_two_heading":"Employee Onboarding with iReach",
+        "section_two_para":"iReach is a powerful and comprehensive onboarding software system designed to simplify and streamline the employee onboarding process. With its user-friendly interface and robust features, iReach empowers organizations to efficiently onboard new employees and ensure a smooth transition into their roles. From automating paperwork and document management to providing centralized training materials and task tracking, iReach offers a cohesive onboarding experience. Through its intuitive dashboard, HR teams can easily manage the onboarding process, assign tasks, and track progress. iReach eliminates manual processes, reduces administrative burden, and improves overall efficiency, enabling organizations to enhance the onboarding experience and set their employees up for success.",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": false,
+        "section_two_para1":"Before implementing iReach, organizations often faced several challenges during the employee onboarding process. Manual paperwork and administrative tasks resulted in significant time delays and increased the risk of errors. Coordinating and tracking tasks across different departments and stakeholders became complex and prone to miscommunication. Additionally, the lack of a centralized system led to scattered information and difficulties in accessing essential resources and training materials. Onboarding experiences varied greatly, leading to inconsistencies and decreased employee satisfaction. These issues ultimately impacted employee productivity, delayed time-to-productivity, and hindered the organization's ability to effectively integrate new employees into their roles and company culture.",
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": false,
+        "is_listing_results": false,
+        "section_three_para":"iReach addresses these challenges by offering a comprehensive onboarding software system that streamlines the entire process. Through automation and digitization, iReach eliminates manual paperwork and administrative burdens, reducing errors and delays. Its centralized platform provides a unified space for task assignment, tracking, and document management, ensuring clear communication and efficient collaboration across departments. With iReach, organizations can deliver a consistent onboarding experience, providing new employees with access to essential resources, training materials, and tasks specific to their roles. By simplifying the onboarding process, iReach enhances efficiency, accelerates time-to-productivity, and improves overall employee satisfaction.",
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"EXPERT",
+        "case1_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "link_case1":"",
+        "case2":"LIVE CHAT SYSTEM",
+        "case2_para":"A multi-purpose Chat System for customers & service providers",
+        "case2_link":""
+    },
+    {
+        "id": 8,
+        "path":"London-Franchise",
+        "section_one_heading":"London Franchise",
+        "section_one_para":"Redefining Franchising System Software with Cutting-Edge AI for Unprecedented Business Achievements",
+        "section_two_heading":"London Franchise System",
+        "section_two_para":"London Franchise is a cutting-edge online franchising system software that empowers entrepreneurs and businesses to effortlessly manage and expand their franchises through a comprehensive and user-friendly platform. With its robust features and intuitive interface, London Franchise revolutionizes the franchise industry by providing a seamless and efficient solution for franchise operations. With its centralized management, scalability tools, advanced reporting, and transparent communication channels, London Franchise empowers businesses to efficiently manage and grow their franchise networks in today's competitive market.",
+        "section_two_heading1":"THE PROBLEM",
+        "is_listing_problem": true,
+        "problem_list":
+        [
+            {
+             "head":"Fragmented Management             ",
+             "para":"Traditional franchise management often involves multiple disconnected systems, leading to inefficiencies, data inconsistencies, and difficulty in streamlining operations."
+            },
+            {
+                "head":"Limited Scalability                ",
+                "para":"Expanding a franchise network can be challenging due to manual processes, lack of centralized data, and inadequate tools for effective collaboration between franchisors and franchisees."
+               } ,
+               {
+                "head":"Complex Reporting",
+                "para":"Franchise owners struggle with generating accurate and comprehensive reports on financials, performance metrics, and other crucial data, making it difficult to make informed decisions and optimize operations."
+               },
+               {
+                "head":"Inefficient Communication",
+                "para":"Franchisees often face challenges in communicating with franchisors, resulting in delays, miscommunications, and a lack of transparency."
+               }
+        ],
+        "section_two_para1":"Before implementing iReach, organizations often faced several challenges during the employee onboarding process. Manual paperwork and administrative tasks resulted in significant time delays and increased the risk of errors. Coordinating and tracking tasks across different departments and stakeholders became complex and prone to miscommunication. Additionally, the lack of a centralized system led to scattered information and difficulties in accessing essential resources and training materials. Onboarding experiences varied greatly, leading to inconsistencies and decreased employee satisfaction. These issues ultimately impacted employee productivity, delayed time-to-productivity, and hindered the organization's ability to effectively integrate new employees into their roles and company culture.",
+        "section_three_heading":"SOLUTION",
+        "is_listing_solution": true,
+        "solution_list":
+        [
+            {
+             "head":"Centralized Franchise Management: ",
+             "para":"London Franchise offers a comprehensive dashboard that integrates all aspects of franchise management, including operations, marketing, sales, and finance. This streamlines processes, enhances data accuracy, and improves overall efficiency."
+            },
+            {
+                "head":"Scalable Growth Tools: ",
+                "para":"The software provides tools for automating tasks, facilitating collaboration, and managing franchise expansion. Franchisors can easily onboard new franchisees, share resources, and monitor performance, enabling seamless scalability."
+               } ,
+               {
+                "head":"Advanced Reporting and Analytics: ",
+                "para":"London Franchise offers robust reporting capabilities, enabling franchise owners to generate accurate and real-time reports on key performance indicators, financials, and other crucial metrics. This empowers data-driven decision-making and helps optimize franchise operations."
+               } ,
+               {
+                "head":"Transparent Communication Channels:  ",
+                "para":"The software provides communication channels that foster transparency and efficient collaboration between franchisors and franchisees. Franchisees can easily communicate with headquarters, receive updates, and access necessary information, improving overall communication efficiency."
+               } 
+             
+        ],
+        "is_listing_results": false,
+        "section_three_para":"iReach addresses these challenges by offering a comprehensive onboarding software system that streamlines the entire process. Through automation and digitization, iReach eliminates manual paperwork and administrative burdens, reducing errors and delays. Its centralized platform provides a unified space for task assignment, tracking, and document management, ensuring clear communication and efficient collaboration across departments. With iReach, organizations can deliver a consistent onboarding experience, providing new employees with access to essential resources, training materials, and tasks specific to their roles. By simplifying the onboarding process, iReach enhances efficiency, accelerates time-to-productivity, and improves overall employee satisfaction.",
+        "case_heading":"CaseStudies",
+        "case_para":"See examples of the bespoke software solutions, CRM, LMS and mobile apps we’ve created for our clients.",
+        "case1":"EXPERT",
+        "case1_para":"Expert is an on-demand service app that provides multitude of services bookable through one convenient interface.",
+        "link_case1":"",
+        "case2":"LIVE CHAT SYSTEM",
+        "case2_para":"A multi-purpose Chat System for customers & service providers",
+        "case2_link":""
+    }
+
+]

@@ -1,0 +1,125 @@
+.background_process
+{
+    background-image: url(../public/Assets/Images/banner5.jpg);
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+    padding-bottom: 5%;
+    padding-top: 3%;
+}
+
+.button_process_active
+{
+    padding: 4%;
+    border-radius: 5px;
+    background-color: #D40000;
+    border: 1px solid #D40000;
+    color: white;
+    font-size: 90%;
+    cursor: pointer;
+    width: 100%;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    
+}
+
+.button_process_one
+{
+    padding-top: 25%;
+    padding-bottom: 25%;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0);
+    border: 1px solid white;    background-color: rgba(0, 0, 0, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    opacity: 1;
+    color: white;
+    font-size: 90%;
+    cursor: pointer;
+    width: 100%;
+
+}
+
+
+
+.heading_process
+{
+    margin-top: 5%;
+    color: white;
+}
+
+
+.icon_size
+{
+    font-size: 70%;
+}
+
+.button_right
+{
+    background-color: rgb(197, 59, 63);
+    color: white;
+    padding-bottom: 1%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    border-radius: 50px;
+    box-shadow: 1px 1px 7px 7px rgba(127, 30, 80, 0.468);
+    border: 1px solid rgb(197, 59, 63);
+    
+}
+
+.back_workflow
+{
+    background-color: white;
+    padding: 2%;
+    border-radius: 10px;
+    box-shadow: 6px 6px 18px 0px rgb(0 0 0 / 30%);
+}
+
+
+.subheading_process
+{
+    color: black;
+    margin-top: 2%;
+    font-weight: 300;
+
+}
+
+.padding_all
+{
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+
+@media screen and (max-width: 900px) {
+    .button_process_active
+    {
+        padding: 4%;
+        border-radius: 10px;
+        background-color: rgb(197, 59, 63);
+        border: 1px solid rgb(197, 59, 63);
+        color: white;
+        font-size: 90%;
+        cursor: pointer;
+        box-shadow: 1px 8px 7px 7px rgba(127, 30, 80, 0.468);
+        width: 100%;
+        margin-top: 5%;
+        
+    }
+    
+    .button_process_one
+    {
+        padding: 4%;
+        border-radius: 10px;
+        background-color: rgba(255, 255, 255, 0);
+        border: 1px solid white;
+        color: white;
+        font-size: 90%;
+        cursor: pointer;
+        width: 100%;
+        margin-top: 5%;
+    }
+  }
+
+
+
+

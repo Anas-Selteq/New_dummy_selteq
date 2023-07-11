@@ -1,0 +1,108 @@
+.img_width_banking {
+    width: 100%;
+}
+
+.account_card_h6 {
+    font-weight: 300;
+    font-size: 80%;
+}
+
+.border_account_bank {
+    border: 1px solid gray;
+    margin-top: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    cursor: pointer;
+    transition: 0.9s;
+    background-color: #FBFCFC;
+
+}
+
+.check_circle {
+    color: #D40000;
+    font-size: 200%;
+}
+
+.border_account_bank:hover {
+    border: 1px solid gray;
+    margin-top: 5%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    cursor: pointer;
+    box-shadow: 1px 1px 10px 10px lightgray;
+
+}
+
+.color_red_banner {
+    color: #D40000;
+}
+
+.color_red_banner1 {
+    color: #000000;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-weight: 350;
+    font-size: 93%;
+}
+
+.p_banner {
+    font-weight: 300;
+    font-size: 90%;
+    line-height: 150%;
+    margin-top: 2%;
+}
+
+.p_banner1 {
+    font-weight: 350;
+    font-size: 85%;
+    line-height: 150%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.color_clients_heading {
+    color: #D40000;
+}
+
+.border_clients_cards {
+    border: 1px solid rgba(128, 128, 128, 0);
+    box-shadow: 1px 1px 10px 10px lightgray;
+}
+
+.qutation_marks {
+    font-size: 150%;
+    color: #666666;
+}
+
+
+.color_client_name {
+    color: #666666;
+}
+
+.connect_background {
+    background-color: #F7F7F7;
+}
+
+.capital_text {
+    text-transform: uppercase;
+    /* text-align: justify; */
+    /* text-justify: inter-word; */
+}
+
+@media screen and (max-width: 900px) {
+    .border_clients_cards {
+        border: 1px solid rgba(128, 128, 128, 0);
+        box-shadow: 1px 1px 10px 10px lightgray;
+        margin-top: 15%;
+    }
+
+    .color_clients_heading {
+        color: #D40000;
+        font-size: 150%;
+    }
+
+    .pad_lets {
+        padding-left: 7% !important;
+        padding-right: 7% !important;
+    }
+}

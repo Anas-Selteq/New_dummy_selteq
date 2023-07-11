@@ -1,0 +1,18 @@
+
+
+
+@media only screen and (max-width: 600px) {
+    .backsoft
+    {
+        background-image: url(https://1864597015.rsc.cdn77.org/selteq/images/slide2.jpg);
+        height: auto;
+        background-size: cover;
+        background-position: 100% 100%;
+        background-repeat: no-repeat;
+        padding-top: 40%;
+        padding-left: 5% !important;
+        color: white;
+        padding-bottom: 30%;
+    
+    }
+  }

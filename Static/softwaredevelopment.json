@@ -1,0 +1,1577 @@
+[
+  {
+    "id": 1,
+    "path":"CRM-solutions",
+    "main_heading": "ACCELERATE BUSINESS WITH CUSTOM",
+    "sub_main_heading": "CRM SOLUTIONS",
+    "main_heading_description": "Our CRM solutions are designed to streamline improve customer engagement and increase sales. The systems are built to optimise the management of business operations and automate data-driven decision-making.",
+    "Section2_heading": "CRM MOBILE APPLICATION",
+    "Section2_description": "Our team utilizes Ionic, React Native and Flutter frameworks for developing cross-platform mobile applications for CRM. We implement OAuth 2.0 for secure authentication and RESTful APIs for seamless integration with existing CRM systems.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "CRM Portal Development",
+        "sub_detail_description": "Leveraging Microsoft Dynamics, Sharepoint or Salesforce, our experts create portals with features such as drag & drop form builders, custom workflows and dashboards. Our solutions improve productivity, reduce costs and facilitate efficient data management."
+      },
+      {
+        "sub_detail_heading": "CRM Migration Solutions",
+        "sub_detail_description": "With expertise in migrating data between various CRM platforms such as Hubspot, Salesforce & Microsoft Dynamics, we ensure seamless data transfer, while preserving data integrity & accuracy. We use ETL tools, API integrations & custom scripts for efficient migration."
+      }
+    ],
+    "Section3_heading": "DATA MIGRATION & ETL",
+    "Section3_description": "Efficiently transfer large datasets between disparate CRM platforms, employing ETL processes, data mapping, and transformation techniques for seamless data migration.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Advanced Workflow Automation",
+        "sub_detail_description": "Implement sophisticated workflow rules & triggers using event-driven architectures, enabling intelligent automation & task management."
+      },
+      {
+        "sub_detail_heading": "AI-Powered Predictive Analytics",
+        "sub_detail_description": "Harness ML algorithms to analyze vast CRM datasets, enabling predictive lead scoring & churn prediction for decision-making."
+      },
+      {
+        "sub_detail_heading": "Secure CRM Integration",
+        "sub_detail_description": "Implement robust security protocols, including OAuth 2.0, JWT to establish secure integrations with third-party CRM systems."
+      }
+    ],
+    "Section4_heading": "MOBILE CRM SOLUTIONS",
+    "Section4_description": "Build cross-platform mobile CRM apps with native capabilities, leveraging frameworks like React Native or Flutter.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Reporting & Dashboards",
+        "sub_detail_description": "Develop dynamic reporting modules with data visualization using interactive charts, graphs, and drill-down skills."
+      },
+      {
+        "sub_detail_heading": "Custom API Integration",
+        "sub_detail_description": "Seamlessly integrate external systems using RESTful APIs, scalable microservices architecture for data synchronization."
+      },
+      {
+        "sub_detail_heading": "Customization and Extensions",
+        "sub_detail_description": "Tailor the CRM system to business needs, extending its functionality through custom modules, plugins, & widgets."
+      },
+      {
+        "sub_detail_heading": "Marketing Automation",
+        "sub_detail_description": "Integrate CRM with marketing automation platforms like HubSpot or Marketo, enabling seamless lead capture & campaigns."
+      }
+    ],
+    "Section5_heading": "CRM GAMIFICATION",
+    "Section5_description": "Implement gamification techniques within the CRM system, using badges, leaderboards, and rewards to enhance user engagement.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "CRM Portal Development",
+        "sub_detail_description": "Implement data cleansing algorithms leveraging fuzzy matching & record linkage algorithms to ensure data accuracy."
+      },
+      {
+        "sub_detail_heading": "Voice & Speech Recognition",
+        "sub_detail_description": "Incorporate voice & speech recognition, enabling voice commands, transcription, & voice-based search for hands-free interaction."
+      }
+    ],
+    "Section6_heading": "CRM CHATBOT DEVELOPMENT",
+    "Section6_description": "Develop intelligent chatbots integrated with the CRM system, leveraging natural language processing (NLP) and ML.",
+    "Section6_detail": [
+      {
+        "sub_detail_heading": "Workflow Auditing & Optimization",
+        "sub_detail_description": "Conduct thorough audits of CRM workflows, identifying bottlenecks, and implementing optimization strategies."
+      },
+      {
+        "sub_detail_heading": "Support & Maintenance",
+        "sub_detail_description": "Our certified professionals perform system upgrades, resolve issues, provide data migration & backup solutions."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "path":"web-application",
+    "main_heading": "Developing High-Performing Web Apps",
+    "sub_main_heading": "Web Application",
+    "main_heading_description": "With our expertise in full-stack development, we provide web application solutions with robust back-end systems and dynamic front-end interfaces using modern web technologies like Node.js, React, Angular and more.",
+    "Section2_heading": "SaaS APPS DEVELOPMENT",
+    "Section2_description": "Crafting cloud-native software as a service (SaaS) application using modern tools and frameworks while adhering to industry standards for secure, scalable, and reliable solutions.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "E-commerce Web Apps",
+        "sub_detail_description": "Building e-commerce web applications using cutting-edge technologies such as Node.js, React, and Angular that integrate with online payment gateways, logistics, and inventory management systems."
+      },
+      {
+        "sub_detail_heading": "Progressive Web Apps",
+        "sub_detail_description": "Developing web applications with progressive features such as offline access, push notifications, and device hardware integration using technologies such as Service Workers, Web App Manifests, and HTTPS."
+      }
+    ],
+    "Section3_heading": "CUSTOM WEB DEVELOPMENT",
+    "Section3_description": "Expertise in creating bespoke web applications tailored to specific business needs using cutting-edge technologies and frameworks.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Front-end Development",
+        "sub_detail_description": "Crafting efficient & visually appealing user interfaces (UI) using HTML, CSS, and JavaScript, ensuring optimal responsiveness."
+      },
+      {
+        "sub_detail_heading": "Back-end Development",
+        "sub_detail_description": "Building robust server-side logic, database integration, & seamless API connections to enhance system interoperability."
+      },
+      {
+        "sub_detail_heading": "Scalable Cloud Infrastructure Deployment",
+        "sub_detail_description": "Deploying scalable cloud infrastructure solutions, leveraging platforms like AWS or Azure, to ensure efficient resource management."
+      }
+    ],
+    "Section4_heading": "SECURITY TESTING",
+    "Section4_description": "Thorough security audits, vulnerability assessments, and tests to identify and mitigate risks, safeguarding web apps.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Mobile-Responsive Web Design",
+        "sub_detail_description": "Designing responsive interfaces for optimal user experience on mobile devices, ensuring seamless adaptation."
+      },
+      {
+        "sub_detail_heading": "Performance Optimization",
+        "sub_detail_description": "Enhancing web app speed and efficiency through caching, code and query optimization techniques."
+      },
+      {
+        "sub_detail_heading": "E-commerce Payment Integration",
+        "sub_detail_description": "Secure and user-friendly e-commerce platforms with seamless payment gateway integration for online transactions."
+      },
+      {
+        "sub_detail_heading": "CMS Development",
+        "sub_detail_description": "Custom CMS solutions enabling efficient content management, streamlined workflows, and collaborative editing."
+      }
+    ],
+    "Section5_heading": "INDUSTRY SPECIFIC APPS",
+    "Section5_description": "Designing and developing custom web applications tailored to meet the unique business requirements of specific industries.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Support Services",
+        "sub_detail_description": "Providing ongoing maintenance, bug fixes, upgrades, and technical support to ensure the longevity of web app post-launch."
+      },
+      {
+        "sub_detail_heading": "QA & Testing",
+        "sub_detail_description": "Thoroughly testing web to rectify any issues, ensuring a high-quality & error-free UX across different platforms and devices."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "path":"communication-software",
+    "main_heading": "Communication Reimagined, with Our ",
+    "sub_main_heading": "Communications Software",
+    "main_heading_description": "Our communication software development services are designed to help businesses stay ahead of the game by providing the best communication solutions that enable efficient and effective communication across a range of devices and platforms.",
+    "Section2_heading": "UNIFIED COMMUNICATIONS",
+    "Section2_description": "We develop and integrate unified communication systems, leveraging technologies such as VoIP, instant messaging, presence, and video conferencing to facilitate seamless collaboration across various channels and devices.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "API Integration",
+        "sub_detail_description": "Our team specializes in API integration for communication software, allowing for seamless integration with third-party services such as messaging platforms, voice assistants, and IoT devices."
+      },
+      {
+        "sub_detail_heading": "Call Center Solutions",
+        "sub_detail_description": "We develop custom call center solutions that streamline customer interactions and enable efficient management of call center operations, including features such as automated call routing, real-time reporting, & CRM integration."
+      }
+    ],
+    "Section3_heading": "CHAT APP DEVELOPMENT",
+    "Section3_description": "Create robust chat app with real-time communication capabilities, enabling instant messaging, group chats, & file sharing. ",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Voice & Video Calling Integration",
+        "sub_detail_description": "Integrate high-quality voice & video calling features into your app, enabling crystal-clear audio and video communication. "
+      },
+      {
+        "sub_detail_heading": "WebRTC Solutions",
+        "sub_detail_description": "Develop WebRTC-based solutions for browser-based communication, including audio/video streaming & data transfer."
+      },
+      {
+        "sub_detail_heading": "SMS & Email Integration",
+        "sub_detail_description": "Implement SMS & email integration services to enable automated notifications, alerts, and two-factor authentication."
+      }
+    ],
+    "Section4_heading": "API DEVELOPMENT & INTEGRATION",
+    "Section4_description": "Develop and integrate APIs for seamless integration with third-party applications, services, and platforms.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Multi-channel Communication Solutions",
+        "sub_detail_description": "Build comprehensive multi-channel communication solutions that integrate voice, video, email, & SMS capabilities."
+      },
+      {
+        "sub_detail_heading": "Push Notification Services",
+        "sub_detail_description": "Implement push notification services to deliver real-time updates, alerts, and messages to users across platforms."
+      },
+      {
+        "sub_detail_heading": "Call Center Software Development",
+        "sub_detail_description": "Develop custom call center software solutions with features like call routing, IVR, call monitoring, and reporting."
+      }
+    ],
+    "Section5_heading": "SECURE COMMUNICATION SOLUTIONS",
+    "Section5_description": "Implement end-to-end encryption, secure protocols, & authentication mechanisms to ensure the privacy of communication channels.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Web & Mobile App Development",
+        "sub_detail_description": "Develop web and mobile applications with built-in communication features, enabling seamless interactions and collaboration. "
+      },
+      {
+        "sub_detail_heading": "SIP Trunking",
+        "sub_detail_description": "Implementing SIP trunking solutions to enable VoIP communications between various endpoints, including PBX systems, and PSTN."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "path":"blockchain",
+    "main_heading": "BUILDING SECURE & TRANSPARENT SOLUTIONS WITH",
+    "sub_main_heading": "Blockchain Development",
+    "main_heading_description": "Our experts use distributed ledger technology, smart contracts, and cryptography to build decentralized applications with transparent and tamper-proof data storage, enabling secure and efficient transactions.",
+    "Section2_heading": "DECENTRALIZED APP DEVELOPMENT",
+    "Section2_description": "We develop decentralized applications (dApps) using blockchain technology, such as peer-to-peer marketplaces and voting systems, with features such as decentralized storage, tokenization, and governance.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Blockchain Wallets Apps",
+        "sub_detail_description": "Develop decentralized blockchain wallet applications utilizing cryptographic protocols such as ECC, SHA-256, and AES for secure key management and transactions. Utilize Ethereum, Hyperledger, or Corda platforms for smart contract functionality."
+      },
+      {
+        "sub_detail_heading": "Blockchain Banking Solutions",
+        "sub_detail_description": "Implement blockchain-based banking solutions using consensus algorithms like Proof of Work (PoW) or Proof of Stake (PoS). Integrate with Distributed Ledger Technology (DLT) platforms such as Ripple or Stellar for secure financial transactions."
+      }
+    ],
+    "Section3_heading": "CONSENSUS MECHANISM DESIGN",
+    "Section3_description": "Our team designs consensus mechanisms, e.g Proof of Work (PoW), Proof of Stake (PoS), & Delegated Proof of Stake (DPoS).",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Blockchain Software",
+        "sub_detail_description": "Create custom blockchain software using cryptographic hashes, Ethereum, Solidity, and smart contracts immutable dApp development."
+      },
+      {
+        "sub_detail_heading": "Hyperledger Fabric Development",
+        "sub_detail_description": "Leverage our expertise in Hyperledger Fabric to build enterprise-grade blockchain solutions with private channels & identity management."
+      },
+      {
+        "sub_detail_heading": "Smart Contract Development",
+        "sub_detail_description": "We develop & audit Solidity-based smart contracts, ensuring vulnerability-free code and automated, transparent execution."
+      }
+    ],
+    "Section4_heading": "BLOCKCHAIN CONSULTING",
+    "Section4_description": "Our experts provide consulting services, including feasibility studies, architecture design, & technology selection.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Blockchain Integration",
+        "sub_detail_description": "We integrate blockchain solutions with existing systems, such as supply chain, finance, using interoperability protocols."
+      },
+      {
+        "sub_detail_heading": "Tokenization Services",
+        "sub_detail_description": "Create digital assets, launch ICOs, or build DApps using blockchain-based tokens. Enable frictionless asset transfers."
+      },
+      {
+        "sub_detail_heading": "Blockchain Consulting & Advisory",
+        "sub_detail_description": "Gain insights from our expert blockchain consultants. Receive strategic guidance, feasibility and customized roadmaps."
+      },
+      {
+        "sub_detail_heading": "Private & Public Blockchain",
+        "sub_detail_description": "Enabling scalable transactions and data management. Choose the right blockchain network for your business."
+      }
+    ],
+    "Section5_heading": "BLOCKCHAIN SECURITY AUDITS",
+    "Section5_description": "Safeguarding blockchain infrastructure with security audits. Identify vulnerabilities, prevent hacks & ensure integrity.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Decentralized Identity ",
+        "sub_detail_description": "Creating privacy-preserving digital identities for entities. Enable seamless authentication and data ownership control."
+      },
+      {
+        "sub_detail_heading": "Supply Chain Blockchain",
+        "sub_detail_description": "Enhancing provenance, optimize logistics, and mitigate fraud. Streamline processes and enable trust in your supply chain."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "path":"AI-and-machine-learning",
+    "main_heading": "BUILDING TOMORROW'S INTELLIGENCE TODAY",
+    "sub_main_heading": "AI & Machine Learning",
+    "main_heading_description": "Harnessing technologies like AI & ML, we engineer intelligent software solutions and applications. Leveraging frameworks like TensorFlow and PyTorch, we deliver high-performance AI & ML software tailored to your specific business needs.",
+    "Section2_heading": "AI & ML SOFTWARE DEVELOPMENT",
+    "Section2_description": "Using advanced AI and ML algorithms, we create innovative software and applications. Our proficiency in Python, scikit-learn, and Keras allows us to develop intelligent systems with capabilities like predictive analytics and pattern recognition.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Smart AI Assistants & Chatbot Development",
+        "sub_detail_description": "Employing natural language processing (NLP) and deep learning algorithms, we craft smart AI chatbots. Our expertise in technologies such as Dialogflow, Rasa, & BERT ensures the development of conversational agents that provide seamless UX."
+      },
+      {
+        "sub_detail_heading": "Robotic Process Automation",
+        "sub_detail_description": "Using AI & ML techniques, we implement robotic process automation (RPA) solutions to automate repetitive tasks. By employing UiPath and Automation Anywhere, we optimize business processes, increasing efficiency and reducing manual effort."
+      }
+    ],
+    "Section3_heading": "MLOps and AI/ML Maintenance",
+    "Section3_description": "Our MLOps services ensure smooth deployment and maintenance of AI/ML models. With technologies like Docker and Kubernetes.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "ML Models Development",
+        "sub_detail_description": "Leveraging frameworks like scikit-learn, we build models that enable accurate predictions, classification and clustering."
+      },
+      {
+        "sub_detail_heading": "Sensor Data Analysis & Sensor Data Fusion",
+        "sub_detail_description": "Employing technologies like Apache Kafka and Apache Spark, we extract meaningful insights, detect anomalies, and optimize decision-making."
+      },
+      {
+        "sub_detail_heading": "Deep Learning",
+        "sub_detail_description": "We use neural architectures like convolutional neural networks (CNN) and recurrent neural networks (RNN) to develop powerful models."
+      }
+    ],
+    "Section4_heading": "DATA MINING & PATTERN RECOGNITION",
+    "Section4_description": "Uncover valuable insights and extract meaningful patterns from vast datasets using advanced data mining techniques.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Computer Vision Solutions",
+        "sub_detail_description": "Develop vision systems powered by DL algorithms to analyze, interpret, & extract information from images or videos."
+      },
+      {
+        "sub_detail_heading": "Predictive Analytics & Forecasting",
+        "sub_detail_description": "Use machine learning algorithms to uncover patterns, make data-driven predictions, and generate accurate forecasts."
+      },
+      {
+        "sub_detail_heading": "Recommender Systems",
+        "sub_detail_description": "Build personalized recommendation engines using collaborative filtering, content-based filtering, and hybrid methods."
+      },
+      {
+        "sub_detail_heading": "Reinforcement Learning",
+        "sub_detail_description": "Harness the power of reinforcement learning algorithms to train intelligent agents that learn behaviors."
+      }
+    ],
+    "Section5_heading": "TIME SERIES ANALYSIS",
+    "Section5_description": "Analyze trends, seasonality, and anomalies in time series datasets for accurate predictions and forecasting.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Deep Learning Architectures",
+        "sub_detail_description": "Design and implement state-of-the-art deep learning architectures such as CNNs, RNNs, & GANs for complex tasks & applications."
+      },
+      {
+        "sub_detail_heading": "Anomaly Detection",
+        "sub_detail_description": "Detect anomalies and outliers in complex datasets using anomaly detection statistical techniques with identification of unusual patterns."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "path":"ERP-system",
+    "main_heading": "IMPROVE PRODUCTIVITY WITH BESPOKE",
+    "sub_main_heading": "ERP SYSTEM",
+    "main_heading_description": "With a strong focus on usability, our team uses UX/UI design, HTML/CSS, & JavaScript frameworks such as React or Vue.js to create intuitive & responsive product. We use Agile methodology & automation testing to deliver high-quality ERP solutions. ",
+
+    "Section2_heading": "MULTI-PLATFORM ERP DEVELOPMENT",
+    "Section2_description": "We offer robust ERP solutions with cross-platform compatibility, leveraging the power of cutting-edge technologies to provide high performance, scalability, and reliability to meet your business requirements.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Data Analytics and BI",
+        "sub_detail_description": "Our team of experts provides comprehensive data analytics and BI services, including data warehousing, data visualization, and reporting to help you gain insights into your business operations and make informed decisions."
+      },
+      {
+        "sub_detail_heading": "Workflow Automation",
+        "sub_detail_description": "Our workflow automation services provide end-to-end process automation solutions that streamline your business processes, increase efficiency, & reduce errors. We use the latest technologies & industry best practices to deliver scalable solutions."
+      }
+    ],
+    "Section3_heading": "CUSTOM MODULE DEVELOPMENT",
+    "Section3_description": "Tailored ERP module development using frameworks like Odoo, SAP, or Microsoft Dynamics for seamless integration and enhanced business processes.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Integrated API Solutions",
+        "sub_detail_description": "Seamlessly connect disparate systems through robust API frameworks for efficient data exchange and workflow automation. "
+      },
+      {
+        "sub_detail_heading": "Scalable Cloud Deployment",
+        "sub_detail_description": "Leverage elastic cloud infrastructure to achieve high availability, auto-scaling, and cost optimization for your ERP solution."
+      },
+      {
+        "sub_detail_heading": "Advanced Data Analytics",
+        "sub_detail_description": "Utilize powerful analytics tools and algorithms to gain valuable insights from your ERP data for informed decision-making."
+      }
+    ],
+    "Section4_heading": "REAL-TIME REPORTING",
+    "Section4_description": "Implement real-time reporting capabilities to provide stakeholders with current information for better visibility & control.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Mobile App Integration",
+        "sub_detail_description": "Extend the reach of your ERP system by integrating mobile applications, enabling access and functionality on the go."
+      },
+      {
+        "sub_detail_heading": "Security And Compliance",
+        "sub_detail_description": "Implement robust security measures, encryption techniques, & compliance frameworks to protect sensitive data."
+      },
+      {
+        "sub_detail_heading": "Workflow Optimization",
+        "sub_detail_description": "Streamline and automate business processes within your ERP system, eliminating manual tasks and improving productivity."
+      },
+      {
+        "sub_detail_heading": "Legacy System Integration",
+        "sub_detail_description": "Seamlessly integrate your legacy systems with the modern ERP infrastructure, ensuring data continuity and process efficiency."
+      }
+    ],
+
+    "Section5_heading": "SUPPLY CHAIN MANAGEMENT",
+    "Section5_description": "Streamline supply chain processes with features like inventory management, demand forecasting & logistics optimization.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Multi-Currency Support",
+        "sub_detail_description": "Enhance global operations by enabling multi-language interfaces and multi-currency capabilities within your ERP solution."
+      },
+      {
+        "sub_detail_heading": "E-Commerce Integration",
+        "sub_detail_description": "Integrate the system with e-commerce platforms to enable seamless order management, inventory synchronization & customer data exchange."
+      },
+      {
+        "sub_detail_heading": "Machine Learning Algorithms",
+        "sub_detail_description": "Harness the power of machine learning algorithms to automate tasks, detect patterns, & provide intelligent recommendations."
+      }
+    ],
+    "Section6_heading": "AGILE PROJECT MANAGEMENT",
+    "Section6_description": "Implement agile methodologies and project management tools within your ERP system to enable iterative development, collaboration, and timely delivery.",
+    "Section6_detail": [
+      {
+        "sub_detail_heading": "IoT Device Integration",
+        "sub_detail_description": "Connect IoT devices & sensors, enabling real-time data collection, monitoring & automation of manufacturing & logistics."
+      },
+      {
+        "sub_detail_heading": "Document Management",
+        "sub_detail_description": "Enhance document handling & version control within your ERP with features like digital document storage, retrieval, and secure sharing."
+      },
+      {
+        "sub_detail_heading": "Performance Optimization",
+        "sub_detail_description": "Fine-tune your ERP solution's performance through code optimization, database tuning, & infrastructure enhancements for optimal speed & reliability."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "path":"agile-software",
+    "main_heading": "Scalable Software. Agile Delivery",
+    "sub_main_heading": "Agile Software",
+    "main_heading_description": "An iterative, collaborative approach to software development, delivering working software in short sprints using Scrum or Kanban methodologies, allowing for flexibility and continuous improvement through feedback loops and incremental changes. ",
+
+    "Section2_heading": "DIGITAL ECOSYSTEM",
+    "Section2_description": "Leverage the power of microservices, containers, & APIs to build a seamless, scalable digital ecosystem. Our solution integrates cloud-native architecture, DevOps & serverless computing to deliver real-time data processing & edge computing.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Process Automation",
+        "sub_detail_description": "Restructure your workflows and boost operational efficiency with our agile process automation solution. Our approach leverages the latest tech stack, such as low-code platforms, cloud automation, and data analytics to optimize your business processes. "
+      },
+      {
+        "sub_detail_heading": "Agile Methods",
+        "sub_detail_description": "Our team of experts follows Agile methodologies, including Scrum, Kanban, and Lean, to ensure fast-paced, iterative, and collaborative development, with regular feedback and continuous integration and delivery & optimizing the development process."
+      }
+    ],
+    "Section3_heading": "PROJECT TRANSPARENCY WITH SCRUM TEAM",
+    "Section3_description": "We provide end-to-end project transparency with our Scrum teams, ensuring regular sprint reviews, daily standups & demo sessions.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Continuous CI/CD",
+        "sub_detail_description": "Automate software delivery pipelines, enabling frequent code integration and seamless deployment. "
+      },
+      {
+        "sub_detail_heading": "Microservices Architecture",
+        "sub_detail_description": "Design and implement a distributed system using containerization and orchestration for improved scalability and fault tolerance. "
+      },
+      {
+        "sub_detail_heading": "Reactive Programming with Reactive Streams",
+        "sub_detail_description": "Utilize non-blocking I/O and event-driven architectures to build highly responsive and resilient software systems."
+      }
+    ],
+    "Section4_heading": "TEST-DRIVEN DEVELOPMENT (TDD)",
+    "Section4_description": "Emphasize code quality and reliability through automated testing frameworks, enabling faster development iterations.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Cloud-Native App Development",
+        "sub_detail_description": "Leverage cloud platforms and services to build applications that are highly available, scalable, and cost-effective."
+      },
+      {
+        "sub_detail_heading": "Penetration Testing",
+        "sub_detail_description": "Conduct thorough security assessments to identify vulnerabilities and proactively protect against potential threats."
+      },
+      {
+        "sub_detail_heading": "Agile Release Planning",
+        "sub_detail_description": "Conduct release planning workshops, establish minimum viable product (MVP) scope, & develop release roadmaps."
+      },
+      {
+        "sub_detail_heading": "Agile Retrospectives",
+        "sub_detail_description": "Facilitate retrospectives to analyze sprint outcomes, identify improvement areas, and implement corrective actions."
+      }
+    ],
+
+    "Section5_heading": "CONTAINERIZATION & ORCHESTRATION",
+    "Section5_description": "Utilize Docker and Kubernetes for efficient application deployment, scaling, and management in a containerized environment.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Version Control Systems",
+        "sub_detail_description": "Utilize Git or SVN for efficient code collaboration, version management, and tracking of changes in software projects."
+      },
+      {
+        "sub_detail_heading": "Automated Deployment",
+        "sub_detail_description": "Implement automated scripts to streamline the deployment process, reducing human error and enabling rapid software releases."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "path":"devops-software",
+    "main_heading": "Efficient DevOps for Modern Apps",
+    "sub_main_heading": "DevOps Software",
+    "main_heading_description": "Our DevOps software leverages agile methodologies, CI/CD pipelines, and infrastructure automation tools such as Kubernetes and Docker to provide a seamless and efficient software development lifecycle.",
+    "Section2_heading": "INFRASTRUCTURE AS CODE (IaC)",
+    "Section2_description": "Our IaC services enable you to provision and manage infrastructure using code, improving consistency, repeatability, and scalability of your infrastructure. We use tools such as Terraform, Ansible, and Puppet to deliver IaC solutions.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "CI/CD",
+        "sub_detail_description": "Automate your software development process and improve your code quality with our CI/CD services. We leverage industry-leading tools to deliver fast, reliable, and scalable CI/CD pipelines."
+      },
+      {
+        "sub_detail_heading": "Containerization",
+        "sub_detail_description": "We offer containerization services using Docker & Kubernetes to provide scalable & portable solutions for deploying, managing, & scaling apps. Containerization enables faster deployment, improved resource utilization, & better fault tolerance."
+      }
+    ],
+    "Section3_heading": "CONTAINERIZATION & ORCHESTRATION",
+    "Section3_description": "Leverage container technologies like Docker and orchestration tools like Kubernetes for scalable and portable deployments.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Configuration Management",
+        "sub_detail_description": "Efficiently manage and track configurations across multiple environments, ensuring consistency and minimizing errors."
+      },
+      {
+        "sub_detail_heading": "Monitoring & Alerting",
+        "sub_detail_description": "Implement robust monitoring solutions to gain real-time insights into your infrastructure & applications, with proactive alerting."
+      },
+      {
+        "sub_detail_heading": "Cloud Adoption & Migration",
+        "sub_detail_description": "Efficiently migrate and optimize your applications and infrastructure on leading cloud platforms like AWS, Azure, and GCP."
+      }
+    ],
+    "Section4_heading": "INFRASTRUCTURE AUTOMATION",
+    "Section4_description": "Automate infrastructure provisioning, scaling, and management to reduce manual efforts and increase efficiency",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "DevOps Toolchain Integration",
+        "sub_detail_description": "Integrate and streamline your DevOps toolchain, enabling seamless collaboration and automated workflows."
+      },
+      {
+        "sub_detail_heading": "Security & Compliance",
+        "sub_detail_description": "Implement security best practices and ensure compliance with industry standards, protecting your applications & data."
+      },
+      {
+        "sub_detail_heading": "Performance Optimization",
+        "sub_detail_description": "Optimize your app's performance through analysis, tuning, & load testing, ensuring optimal user experience."
+      },
+      {
+        "sub_detail_heading": "Monitoring and Logging",
+        "sub_detail_description": "We use tools such as Prometheus, Grafana, and ELK stack to provide comprehensive monitoring and logging solutions."
+      }
+    ],
+    "Section5_heading": "SERVERLESS ARCHITECTURE",
+    "Section5_description": "Leverage serverless computing to build scalable app, eliminating the need for infrastructure management.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Microservices Development",
+        "sub_detail_description": "Design and develop app using the microservices architecture, enabling modularity, flexibility, and independent scalability."
+      },
+      {
+        "sub_detail_heading": "Version Control & Release Management",
+        "sub_detail_description": "Implement robust version control systems and release management processes for efficient collaboration and code deployment."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "path":"HR-software",
+    "main_heading": "DEVELOPING THE NEXT-GEN HR PLATFORMS",
+    "sub_main_heading": "HR SOFTWARE",
+    "main_heading_description": "Experience the power of HR software solutions that leverage cloud-based architecture, real-time data analysis, and scalable infrastructure for streamlined human resource management.",
+    "Section2_heading": "HRIS & HRMS SOFTWARE",
+    "Section2_description": "The HRIS & HRMS software solutions use the latest technological advancements to provide comprehensive & integrated HRM features such as personnel tracking, benefits administration, employee performance management, & payroll processing.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Onboarding System",
+        "sub_detail_description": "Our onboarding system is designed to provide an automated approach to the employee onboarding process. The software incorporates various modules such as document management, compliance checklists, & task automation."
+      },
+      {
+        "sub_detail_heading": "Time Tracking & Payroll System",
+        "sub_detail_description": "Our time tracking & payroll system offer a complete suite of features, including attendance management, timesheet management, leave management, and automated payroll processing. The software utilizes advanced algorithms to ensure accuracy."
+      }
+    ],
+    "Section3_heading": "HR ANALYTICS & REPORTING",
+    "Section3_description": "Advanced analytics tools to extract actionable insights from HR data. Visualize trends and measure performance.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Custom HR Software",
+        "sub_detail_description": "Scalable, tailor-made HR solutions for efficient employee management. Enhance productivity and streamline HR processes."
+      },
+      {
+        "sub_detail_heading": "Employee Self-Service Portals",
+        "sub_detail_description": "Empower employees with self-service portals for leave management, attendance tracking, performance reviews, and more."
+      },
+      {
+        "sub_detail_heading": "Recruitment and Applicant Tracking Systems (ATS)",
+        "sub_detail_description": "Efficiently manage recruitment processes with a feature-rich ATS. Track applicants, automate workflows, & find the best talent."
+      }
+    ],
+    "Section4_heading": "PERFORMANCE MANAGEMENT SYSTEMS",
+    "Section4_description": "Drive performance excellence with automated performance management systems. Set goals, track progress with feedback.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "HR Chatbots & Virtual Assistants",
+        "sub_detail_description": "Leverage AI-powered chatbots and virtual assistants for instant HR support. Automate FAQs and onboarding."
+      },
+      {
+        "sub_detail_heading": "Payroll and Benefits Management",
+        "sub_detail_description": "Simplify payroll processing & taxation management. Ensure accurate calculations & compliance with legal regulations."
+      },
+      {
+        "sub_detail_heading": "Time and Attendance Tracking Systems",
+        "sub_detail_description": "Implement robust time & attendance systems to monitor employee attendance, track hours, & payroll processes."
+      },
+      {
+        "sub_detail_heading": "Employee Engagement Platforms",
+        "sub_detail_description": "Foster a positive work culture with engaging platforms. Social recognition, surveys, and feedback tools to boost morale."
+      }
+    ],
+    "Section5_heading": "MOBILE HR APPLICATIONS",
+    "Section5_description": "Develop mobile applications for HR functions. Enable remote access, employee self-service, and real-time collaboration.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Talent Management",
+        "sub_detail_description": "Implement succession strategies and talent management systems. Identify high-potential employees & ensure future leadership."
+      },
+      {
+        "sub_detail_heading": "Performance Management System",
+        "sub_detail_description": "With features such as goal setting & appraisal tracking, the system provides a comprehensive approach to performance management."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "path":"data-analysis",
+    "main_heading": "UNLOCK INSIGHTS, DRIVE DECISIONS",
+    "sub_main_heading": "Data Analysis",
+    "main_heading_description": "Leveraging statistical methods, machine learning algorithms, and data visualization techniques, we offer data analysis services to extract valuable insights from complex data sets, to drive data-driven decision-making.",
+    "Section2_heading": "PREDICTIVE ANALYTICS",
+    "Section2_description": "Our predictive analytics service employs machine learning algorithms and statistical models to forecast future trends, predict outcomes, and identify patterns in large data sets, enabling proactive decision-making and efficient resource allocation.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Data Mining",
+        "sub_detail_description": "Using data mining techniques such as clustering, classification, and regression analysis, we extract valuable insights from complex data sets, to identify trends and patterns that inform business strategies and optimize resource allocation."
+      },
+      {
+        "sub_detail_heading": "Data Visualization",
+        "sub_detail_description": "Using advanced data visualization techniques, such as heat maps, scatter plots, and network graphs, we create interactive visual representations of complex data sets, to enhance data comprehension, and facilitate data-driven decision-making."
+      }
+    ],
+    "Section3_heading": "STATISTICAL MODELING",
+    "Section3_description": "Uncover patterns and insights through advanced statistical models and algorithms. Make data-driven decisions with confidence.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Predictive Analytics",
+        "sub_detail_description": "Harness the power of ML to forecast future outcomes & trends. Optimize business strategies based on accurate predictions."
+      },
+      {
+        "sub_detail_heading": "Data Visualization",
+        "sub_detail_description": "Transform complex data into intuitive visual representations. Gain valuable insights at a glance with interactive visualizations."
+      },
+      {
+        "sub_detail_heading": "Text Mining & Natural Language Processing",
+        "sub_detail_description": "Extract valuable information from unstructured text data. Analyze sentiment, categorize content, and unlock hidden insights."
+      }
+    ],
+    "Section4_heading": "TIME SERIES ANALYSIS",
+    "Section4_description": "Analyze data collected over time to uncover patterns. Make informed decisions based on historical data analysis.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Anomaly Detection",
+        "sub_detail_description": "Identify unusual outliers in data to detect fraud or anomalies. Enhance data integrity & protect against threats."
+      },
+      {
+        "sub_detail_heading": "Data Integration & ETL",
+        "sub_detail_description": "Streamline data processing by integrating &transforming data from multiple sources. Ensure data consistency & accuracy."
+      },
+      {
+        "sub_detail_heading": "Data Quality Assessment",
+        "sub_detail_description": "Evaluate data quality, identify inconsistencies, and cleanse data. Enhance data reliability and decision-making."
+      },
+      {
+        "sub_detail_heading": "Geospatial Analysis",
+        "sub_detail_description": "Analyze location-based data to uncover spatial patterns. Optimize resource allocation & make location-based decisions."
+      }
+    ],
+    "Section5_heading": "CLUSTER ANALYSIS",
+    "Section5_description": "Uncover meaningful patterns and group similarities for targeted strategies and personalized recommendations.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Data Mining & Pattern Recognition",
+        "sub_detail_description": "Discover hidden patterns & relationships in large datasets. Extract valuable insights for strategic decision-making."
+      },
+      {
+        "sub_detail_heading": "Business Intelligence",
+        "sub_detail_description": "Our business intelligence service combines data analysis & reporting to deliver actionable insights into business performance."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "path":"Medtech",
+    "main_heading": "NEXT-GEN MEDICAL & HEALTHCARE SOLUTIONS",
+    "sub_main_heading": "MedTech",
+    "main_heading_description": "We specialize in all health care management software like EHR, HIMS, & PMS. Moreover, we can also serve physicians & hospitals in Medical Billing Software, Practice Management Software, Online Medical Record, and Staff Attendance Software.",
+    "Section2_heading": "EMR & EHR SOLUTIONS",
+    "Section2_description": "Helping healthcare providers to streamline the complex administrative tasks associated with patient care centering around clinical documentation.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Patient Monitoring System",
+        "sub_detail_description": "Your medical staff can monitor patients remotely, collect and transmit lab results and capture vital health statistics for more."
+      },
+      {
+        "sub_detail_heading": "Billing Management System",
+        "sub_detail_description": "Building highly intuitive RMS systems that automate patient-to-payment touch points in real-time, ensuring seamless revenue flow, and optimize reimbursement cycles while supporting compliance."
+      }
+    ],
+    "Section3_heading": "CUSTOM MEDTECH SOLUTIONS",
+    "Section3_description": "Tailor-made software solutions for medical technology, catering to unique needs and ensuring regulatory compliance.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Health Data Integration",
+        "sub_detail_description": "Seamless integration of diverse healthcare data sources, enabling comprehensive analysis and informed decision-making."
+      },
+      {
+        "sub_detail_heading": "Medical Device Connectivity",
+        "sub_detail_description": "Enabling connectivity and interoperability of medical devices for real-time data exchange and enhanced patient care."
+      },
+      {
+        "sub_detail_heading": "Clinical Decision Support Systems",
+        "sub_detail_description": "Advanced algorithms and data analytics to provide intelligent clinical decision support, improving diagnosis and treatment outcomes."
+      }
+    ],
+    "Section4_heading": "SECURE HEALTH INFORMATION EXCHANGE",
+    "Section4_description": "Implementing robust systems for efficient exchange of sensitive health information, ensuring privacy and compliance.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Telehealth and Remote Patient Monitoring",
+        "sub_detail_description": "Building platforms for remote consultations, empowering healthcare providers and improving patient accessibility."
+      },
+      {
+        "sub_detail_heading": "AI-Powered Medical Imaging",
+        "sub_detail_description": "Leveraging artificial intelligence to enhance medical imaging analysis and assisting in early detection."
+      },
+      {
+        "sub_detail_heading": "Electronic Health Records (EHR) Systems",
+        "sub_detail_description": "Designing comprehensive EHR systems to digitize and streamline medical records, improving efficiency and patient care."
+      },
+      {
+        "sub_detail_heading": "Regulatory Compliance & Validation",
+        "sub_detail_description": "Guidance and support in ensuring compliance with industry regulations and validation of MedTech software solutions."
+      }
+    ],
+    "Section5_heading": "CLINICAL DECISION SUPPORT",
+    "Section5_description": "We use AI to develop clinical decision support systems that provide healthcare professionals with evidence-based recommendations.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Software Maintenance",
+        "sub_detail_description": "Ongoing maintenance, updates, and technical support to ensure smooth operation and longevity of MedTech software systems."
+      },
+      {
+        "sub_detail_heading": "Clinical Trials Management",
+        "sub_detail_description": "Developing software solutions to manage clinical trials, ensuring efficient participant recruitment and data collection."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "path":"Edtech",
+    "main_heading": "FEATURE-RICH LEARNING MANAGEMENT SYSTEMS",
+    "sub_main_heading": "EdTech",
+    "main_heading_description": "Our e-learning mobile apps, cloud-based educational platforms, learning management software, knowledge portals & web content development services are all infused with best-in-class pedagogy and industry best practices.",
+    "Section2_heading": "SCORM-COMPLIANT LMS",
+    "Section2_description": "Using the SCORM-compliant learning model, you are taking a big step towards building a great learning experience for your learners. You don't need to worry about how they were created; you can be confident they will play in any SCORM-compliant LMS.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "E-learning platform development",
+        "sub_detail_description": "This service involves the design and development of an online learning platform that can be used by educators and students to access educational materials, engage in interactive learning activities, and track student progress."
+      },
+      {
+        "sub_detail_heading": "Student data management and reporting",
+        "sub_detail_description": "This service includes implementing a system for collecting, storing, and analysing student data, as well as developing reports and dashboards that provide insights into student performance and progress."
+      }
+    ],
+    "Section3_heading": "INTERACTIVE VIRTUAL CLASSROOMS",
+    "Section3_description": "Create immersive virtual learning environments with real-time collaboration, video conferencing, and interactive whiteboards.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "LMS Integration",
+        "sub_detail_description": "Seamlessly integrate your educational platform with a robust LMS for efficient content management and student tracking."
+      },
+      {
+        "sub_detail_heading": "Adaptive Learning Solutions",
+        "sub_detail_description": "Use intelligent algorithms to personalize the learning experience, adapting content and assessments to individual student needs."
+      },
+      {
+        "sub_detail_heading": "Gamification and Engagement Tools",
+        "sub_detail_description": "Enhance student motivation and participation through gamification elements, badges, leaderboards, and interactive quizzes."
+      }
+    ],
+    "Section4_heading": "MOBILE LEARNING APPLICATIONS",
+    "Section4_description": "Develop mobile apps to deliver educational content, assessments, & interactive modules anytime, anywhere, on any device.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Content Authoring and Management",
+        "sub_detail_description": "Empower educators to create, manage, & deliver engaging content through intuitive authoring tools & CMS."
+      },
+      {
+        "sub_detail_heading": "Data Analytics and Insights",
+        "sub_detail_description": "Gain actionable insights into student performance, engagement, and learning patterns through advanced data analytics."
+      },
+      {
+        "sub_detail_heading": "VR & AR Integration",
+        "sub_detail_description": "Enhance learning experiences with immersive VR simulations, virtual field trips, and AR overlays."
+      },
+      {
+        "sub_detail_heading": "Assessment & Examination Systems",
+        "sub_detail_description": "Build secure online assessment platforms with automated grading, plagiarism detection, & robust exam features."
+      }
+    ],
+    "Section5_heading": "AI-POWERED INTELLIGENT TUTORING SYSTEMS",
+    "Section5_description": "Develop AI-driven tutoring systems that provide personalized guidance, adaptive feedback, and progress tracking for learners.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Educational content management",
+        "sub_detail_description": "Developing tools for creating & distributing educational content & integrating this content with the e-learning platform."
+      },
+      {
+        "sub_detail_heading": "E-Learning Content Localization",
+        "sub_detail_description": "Localize educational content, including courses, videos, & assessments, to cater to diverse global audiences."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "path":"Ecommerce",
+    "main_heading": "Building Your E-commerce Empire",
+    "sub_main_heading": "Ecommerce Systems",
+    "main_heading_description": "We provide end-to-end development solutions for ecommerce platforms with optimized algorithms, cloud-based architecture, secure payment gateway integration, and user-friendly interfaces.",
+    "Section2_heading": "INTUITIVE PRODUCT MANAGEMENT",
+    "Section2_description": "Our ecommerce systems provide an intuitive product management interface that enables businesses to manage their product catalogs, inventory, and pricing, and supports various product types, such as configurable products and product bundles.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Custom Shopping Carts & Checkout",
+        "sub_detail_description": "Our team develops custom shopping carts and checkout processes, incorporating various features such as one-page checkout, guest checkout, and multiple payment options, to ensure a seamless and secure user experience."
+      },
+      {
+        "sub_detail_heading": "Inventory Management & Order Processing",
+        "sub_detail_description": "We integrate robust inventory management and order processing modules into our ecommerce systems, providing real-time inventory tracking, order fulfillment, and shipment tracking, while ensuring data accuracy and security."
+      }
+    ],
+    "Section3_heading": "CUSTOM ECOMMERCE SOLUTIONS",
+    "Section3_description": "Tailored and scalable ecommerce software development to meet your unique business needs. Boost online sales operations.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Payment Gateway Integration",
+        "sub_detail_description": "Seamless integration of secure payment gateways into your ecommerce platform. Enable smooth transactions for your customers."
+      },
+      {
+        "sub_detail_heading": "Inventory Management Systems",
+        "sub_detail_description": "Efficient inventory management solutions to optimize stock control, track product & enhance order fulfillment processes."
+      },
+      {
+        "sub_detail_heading": "CRM Integration",
+        "sub_detail_description": "Integrate a robust CRM system into your ecommerce platform for effective customer management and personalized experiences."
+      }
+    ],
+    "Section4_heading": "ORDER MANAGEMENT SOLUTIONS",
+    "Section4_description": "Streamline order processing, tracking, & fulfillment with advanced order management systems.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Multi-Channel Selling",
+        "sub_detail_description": "Expand your reach by integrating multiple sales channels (marketplaces, social media) into your ecommerce platform."
+      },
+      {
+        "sub_detail_heading": "Mobile Commerce Solutions",
+        "sub_detail_description": "Develop mobile-responsive & user-friendly applications to tap into the booming mobile commerce market."
+      },
+      {
+        "sub_detail_heading": "Product Information Management",
+        "sub_detail_description": "Centralize & manage product information efficiently with comprehensive Product Information Management (PIM) solutions."
+      },
+      {
+        "sub_detail_heading": "Analytics and Reporting",
+        "sub_detail_description": "Implement advanced analytics & reporting tools to gain actionable insights into customer behavior and sales trends."
+      }
+    ],
+    "Section5_heading": "CART ABANDONMENT SOLUTIONS",
+    "Section5_description": "Implement strategies to recover lost sales from abandoned carts, including automated remarketing and personalized offers.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Security and Compliance",
+        "sub_detail_description": "Implement robust security measures & ensure compliance with data protection regulations to safeguard customer information."
+      },
+      {
+        "sub_detail_heading": "Integration with Third-party Services",
+        "sub_detail_description": "Our experts specialize in integrating various third-party services such as payment gateways, shipping carriers, & social media platforms."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "path":"finance-software",
+    "main_heading": "Building Smarter Finance Solutions",
+    "sub_main_heading": "Finance software",
+    "main_heading_description": "Our finance software development services utilize the latest technologies to deliver robust and scalable solutions, including blockchain-based payment systems, AI-powered fraud detection, and wealth management software. ",
+    "Section2_heading": "ACCOUNTING SOFTWARE",
+    "Section2_description": "We develop custom accounting software that leverages the latest technologies such as AI and blockchain to provide real-time financial data, automated processes, and enhanced security.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Investment Management System",
+        "sub_detail_description": "Our investment management system provides end-to-end solutions for financial institutions and asset managers, offering portfolio management, risk management, and compliance management functionalities."
+      },
+      {
+        "sub_detail_heading": "Payment Processing Solutions",
+        "sub_detail_description": "We build secure and efficient payment processing solutions that leverage APIs and cloud-based platforms to facilitate electronic transactions and support a wide range of payment methods."
+      }
+    ],
+    "Section3_heading": "CUSTOMIZED FINANCIAL ANALYSIS TOOLS",
+    "Section3_description": "Tailored financial analysis software for data-driven insights and informed decision-making. Boost efficiency and accuracy.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Algorithmic Trading Platforms",
+        "sub_detail_description": "Advanced algorithmic trading software leveraging cutting-edge technologies to optimize trade execution and maximize returns."
+      },
+      {
+        "sub_detail_heading": "Risk Management Solutions",
+        "sub_detail_description": "Robust risk management software to identify, assess, and mitigate financial risks, ensuring regulatory compliance and stability."
+      },
+      {
+        "sub_detail_heading": "Portfolio Management Systems",
+        "sub_detail_description": "Comprehensive portfolio management software for effective asset allocation, performance tracking, and client reporting."
+      }
+    ],
+    "Section4_heading": "ACCOUNTING & BOOKKEEPING SOFTWARE",
+    "Section4_description": "Streamlined accounting and bookkeeping solutions, automating processes, and providing real-time financial visibility.",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Payment Processing Solutions",
+        "sub_detail_description": "Efficient payment processing software enabling seamless transactions, fraud prevention, & integration."
+      },
+      {
+        "sub_detail_heading": "Financial Data Analytics",
+        "sub_detail_description": "Advanced data analytics tools to analyze financial data, uncover patterns, and insights for strategic decision-making."
+      },
+      {
+        "sub_detail_heading": "Compliance & Regulatory Software",
+        "sub_detail_description": "Compliance management software to navigate complex regulatory frameworks minimizing compliance risks."
+      },
+      {
+        "sub_detail_heading": "Financial Reporting & Dashboards",
+        "sub_detail_description": "Dynamic dashboard solutions, presenting key financial metrics and visualizations for effective performance monitoring."
+      }
+    ],
+    "Section5_heading": "TAXATION & AUDIT SOFTWARE",
+    "Section5_description": "Robust taxation and audit software, simplifying tax compliance, automating calculations, and facilitating audit preparation.",
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Fraud Detection and Prevention",
+        "sub_detail_description": "Our fraud detection solutions leverage AI algorithms to detect fraudulent transactions, ensuring compliance with PCI & DSS."
+      },
+      {
+        "sub_detail_heading": "Mortgage Management Systems",
+        "sub_detail_description": "End-to-end mortgage and loan management software, automating application processing, payment tracking, and compliance."
+      }
+    ]
+  },  
+  {
+    "id": 15,
+    "path":"IOT-software",
+    "main_heading": "Your One-Stop Shop for",
+    "sub_main_heading": "IoT Software Development Services",
+    "main_heading_description": "The Internet of Things (IoT) is revolutionising the way businesses operate. With the integration of IoT technology, businesses can now connect and automate various devices and systems to improve efficiency, reduce costs, and gain valuable insights.",
+    "Section2_heading": "IoT Device Integration",
+    "Section2_description": "Whether you need a simple sensor or a complex device, our team can design and build custom IoT devices that meet your specific needs. We can also help you with device firmware development, testing, and certification.",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Integration of IoT Devices with Existing Systems",
+        "sub_detail_description": "Our team of experts will work with you to seamlessly integrate your IoT devices with your current systems and software, ensuring a smooth and efficient workflow. This includes integrating IoT devices with your existing databases, cloud systems, and other software applications."
+      },
+      {
+        "sub_detail_heading": "Remote Monitoring & Management of IoT Devices",
+        "sub_detail_description": "We offer remote monitoring and management services to ensure your IoT devices function properly and provide the data and insights you need. This includes monitoring device performance, troubleshooting issues, and reporting on device usage and performance."
+      }
+    ],
+    "Section3_heading": "IoT Data Management",
+    "Section3_description": "Our team of experts specialises in providing advanced IoT data management solutions to help you collect, store, and analyse your data in real time.",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Real-Time Data Collection & Analysis",
+        "sub_detail_description": "Collecting data from your IoT devices in real-time and performing advanced analysis on that data to gain valuable insights."
+      },
+      {
+        "sub_detail_heading": "Data Storage & Retrieval",
+        "sub_detail_description": "Secure and reliable storage solutions for your IoT data, including on-premises and cloud-based options."
+      },
+      {
+        "sub_detail_heading": "Data Visualisation & Reporting",
+        "sub_detail_description": "Visualise your data in an easy-to-understand format. Create custom dashboards and export data in various formats for further analysis."
+      }
+    ],
+    "Section4_heading": "IoT Software Integration",
+    "Section4_description": "Develop dynamic reporting modules with real-time data visualization using interactive charts, graphs, and drill-down",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Cloud Integration for Data Storage",
+        "sub_detail_description": "Integrating IoT devices with cloud-based storage & analysis platforms. Efficient storage of large amounts of data generated by IoT devices."
+      },
+      {
+        "sub_detail_heading": "Real-Time Data Streaming & Processing",
+        "sub_detail_description": "The real-time streaming of data generated by IoT devices that quickly process the data and respond to changes in their own environment."
+      },
+      {
+        "sub_detail_heading": "Integration with Third-Party Services & APIs",
+        "sub_detail_description": "Integrating IoT devices with third-party services and APIs that leverage other platforms' capabilities to enhance the functionality of the IoT devices & systems."
+      },
+      {
+        "sub_detail_heading": "Security Measures for Data Transmission",
+        "sub_detail_description": "Implementing security & privacy measures that include encryption, access controls, & secured data storage to protect the data from unauthorised access."
+      }
+    ],
+    "Section5_heading": "IoT Security",
+    "Section5_description": "Our team can help you secure your IoT ecosystem by implementing end-to-end encryption, firewalls, and other security measures.",
+    "Section5_detail": [
+      {
+        "Data Cleansing ": "End-To-End Encryption for Secure Data Transfer",
+        "sub_detail_description": "Helps prevent unauthorised access to data while it's in transit. It includes regular security testing to ensure the system remains secure over time."
+      },
+      {
+        "Data Cleansing ": "Secure Device Management",
+        "sub_detail_description": "Covering device provisioning, monitoring, & device retirement. It helps protect against unauthorised access & tampering with devices."
+      },
+      {
+        "Data Cleansing ": "Penetration Testing & Vulnerability Assessments",
+        "sub_detail_description": "Simulating an attack on the IoT system to identify vulnerabilities & assess the effectiveness of security controls."
+      }
+    ],
+    "Section6_heading": "IoT Consulting",
+    "Section6_description": "Not sure where to start with IoT? Our team of experts can help you identify opportunities and develop a strategic plan for implementing IoT in your organisation.",
+    "Section6_detail": [
+      {
+        "sub_detail_heading": "Strategy & Planning",
+        "sub_detail_description": "Developing a comprehensive strategy for implementing IoT solutions that align with your business needs & determine the most appropriate technologies."
+      },
+      {
+        "sub_detail_heading": "Proof of Concept Development",
+        "sub_detail_description": "Developing a proof of concept (PoC) to demonstrate the feasibility & potential impact of the proposed IoT solution."
+      },
+      {
+        "sub_detail_heading": "Technical Feasibility Assessments",
+        "sub_detail_description": "A thorough assessment of the project's technical requirements & an evaluation of the compatibility of the proposed solution with your existing systems."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "path":"BPO",
+    "banner1_heading": "Business Process Outsourcing (BPO)",
+    "banner1_description": "Trusted & comprehensive BPO services & solutions",
+    "banner2_heading": "IT Support & Infrastructure Management",
+    "banner2_description": "Using advanced technology with smooth operations",
+    "banner3_heading": "Software & App Development Outsourcing",
+    "banner3_description": "Proven expertise in multiple technologies",
+    "Section1_heading": "Our BPO Services & Solutions",
+    "Section1_description": "Unleashing Business Potential through Tailored BPO Solutions",
+    "Section1_detail": [
+      {
+        "sub_detail_heading": "IT Support & Infrastructure Management",
+        "sub_detail_description": "Our experts provide reliable IT support, network monitoring, server management, cloud solutions, cybersecurity, software updates, system maintenance, and IT infrastructure optimization."
+      },
+      {
+        "sub_detail_heading": "Customer Support Outsourcing",
+        "sub_detail_description": "We provide exceptional customer support services, including inbound and outbound call handling, live chat support, email management, complaint resolution, and customer satisfaction surveys."
+      },
+      {
+        "sub_detail_heading": "Finance and Accounting Outsourcing",
+        "sub_detail_description": "Entrust your finance and accounting functions to us, including accounts payable and receivable, financial reporting, bookkeeping, payroll processing, taxation, and financial analysis."
+      },
+      {
+        "sub_detail_heading": "Data Entry and Processing",
+        "sub_detail_description": "Our efficient data entry and processing services ensure accurate data management, cleansing, verification, form processing, conversion, and database maintenance. We offer comprehensive HR solutions, such as recruitment and staffing, employee onboarding, performance management, payroll administration, benefits management, and HR compliance."
+      }
+    ],
+    "Section2_heading": "Benefits of Partnering with Us",
+    "Section2_description": "Your Trusted Partner for Outsourcing Excellence",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Quality Assurance",
+        "sub_detail_description": "We adhere to strict quality control measures to ensure high accuracy, compliance with industry standards, and timely delivery of services."
+      },
+      {
+        "sub_detail_heading": "Data Security and Confidentiality",
+        "sub_detail_description": "Your sensitive data is protected through robust security protocols, data encryption, secure file transfer, access controls, and adherence to strict confidentiality agreements."
+      },
+      {
+        "sub_detail_heading": "Customized Solutions",
+        "sub_detail_description": "We understand that each business is unique. Our BPO services are tailored to your requirements, goals, and industry dynamics to ensure optimal results."
+      },
+      {
+        "sub_detail_heading": "Seamless Integration",
+        "sub_detail_description": "Our team works closely with your organization to ensure a smooth transition, efficient knowledge transfer, and seamless integration of our services into your existing processes."
+      },
+      {
+        "sub_detail_heading": "Long-term Partnership",
+        "sub_detail_description": "We strive to build long-term client partnerships based on trust, transparency, and mutual success. Your growth and satisfaction are our top priorities."
+      }
+    ],
+    "Section3_heading": "Industry Expertise",
+    "Section3_description": "BPO services that propel your business forward",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Technology and Infrastructure",
+        "sub_detail_description": "Utilizing cutting-edge technologies, including AI-powered chatbots, robotic process automation (RPA), cloud-based solutions, and data analytics tools, we streamline BPO operations for maximum efficiency and effectiveness."
+      },
+      {
+        "sub_detail_heading": "Healthcare BPO",
+        "sub_detail_description": "Our specialized BPO solutions cater to the unique needs of the healthcare industry. We offer medical billing, coding, claims processing, healthcare data management, and telemedicine support."
+      },
+      {
+        "sub_detail_heading": "E-commerce",
+        "sub_detail_description": "Our BPO services provide comprehensive support for e-commerce businesses. We assist with order processing, inventory management, product catalog management, customer support, and efficient fulfillment services."
+      },
+      {
+        "sub_detail_heading": "Legal Process Outsourcing",
+        "sub_detail_description": "We have expertise in delivering BPO services to the legal sector. Our services include legal research, document review, contract management, intellectual property support, and litigation support."
+      },
+      {
+        "sub_detail_heading": "Regulatory Compliance",
+        "sub_detail_description": "We prioritize adherence to industry regulations, data privacy laws, and compliance standards. Our BPO services ensure data protection, confidentiality, and legal compliance, providing peace of mind for our clients."
+      }
+    ],
+    "Section4_heading": "Partnering For Progress",
+    "Section4_description": "Why Choose Our BPO Services?",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Commitment to Excellence ",
+        "sub_detail_description": "Selteq is a trusted comprehensive Business Process Outsourcing (BPO) services and solutions provider. With our expertise, advanced technology, and commitment to excellence, we empower businesses to streamline their operations, enhance productivity, and achieve sustainable growth. "
+      },
+      {
+        "sub_detail_heading": "Quality Management Systems",
+        "sub_detail_description": "We maintain robust quality management systems, including ISO certifications and continuous improvement processes. This commitment to quality ensures that our BPO services meet the highest standards and deliver exceptional results."
+      }
+    ],
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Cost Savings",
+        "sub_detail_description": "By outsourcing repetitive and time-consuming tasks to our experienced professionals, you can reduce overhead costs, eliminate the need for additional resources, and achieve significant cost savings."
+      },
+      {
+        "sub_detail_heading": "Scalability and Flexibility",
+        "sub_detail_description": "With our BPO solutions, you can scale your operations up or down based on demand. We adapt to your business needs and ensure seamless integration of our services."
+      },
+      {
+        "sub_detail_heading": "Access to Expertise",
+        "sub_detail_description": "Our team comprises skilled professionals who specialize in various domains. You can leverage their expertise to gain valuable insights, innovative strategies, and industry best practices."
+      }
+    ],
+    "Section6_heading": "FAQs",
+    "Section6_detail": [
+      {
+        "sub_detail_heading": "What is Business Process Outsourcing (BPO)?",
+        "sub_detail_description": "BPO is the practice of contracting specific business processes to a third-party service provider. It involves outsourcing non-core functions such as customer support, data entry, payroll, and IT services to streamline operations and reduce costs."
+      },
+      {
+        "sub_detail_heading": "Why should I consider outsourcing my business processes?",
+        "sub_detail_description": "Outsourcing your business processes allows you to focus on your core competencies while leveraging the expertise and resources of a specialized service provider. It can help you reduce operational costs, improve efficiency, access skilled professionals, and scale your business rapidly."
+      },
+      {
+        "sub_detail_heading": "Which industries can benefit from BPO services?",
+        "sub_detail_description": "BPO services are applicable to various industries including healthcare, finance, e-commerce, manufacturing, legal, and more. Whether you need customer support, data management, back-office operations, or IT support, BPO services can be tailored to suit your industry-specific requirements."
+      },
+      {
+        "sub_detail_heading": "How do you ensure data security and confidentiality?",
+        "sub_detail_description": "We prioritize data security and confidentiality by implementing strict measures. These include restricted access controls, secure data transmission protocols, robust encryption methods, adherence to data privacy regulations, and signed confidentiality agreements with our employees."
+      },
+      {
+        "sub_detail_heading": "What is the process for selecting a BPO service provider?",
+        "sub_detail_description": "When selecting a BPO service provider, consider factors such as their industry experience, expertise in your specific business processes, infrastructure capabilities, technology stack, scalability, pricing models, and client testimonials. A thorough evaluation and due diligence process will help you find the right partner."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "path":"Digital_Marketing",
+    "banner1_heading": "Digital Marketing",
+    "banner1_description": "Driving marketing success with innovative strategies",
+    "banner2_heading": "Social Media Advertising",
+    "banner2_description": "Stay ahead in today's competitive landscape",
+    "banner3_heading": "Search Engine Marketing (SEM)",
+    "banner3_description": "Driving targeted traffic to your website",
+    "Section1_heading": "",
+    "Section1_description": "",
+    "Section1_detail": [
+      {
+        "sub_detail_heading": "Search Engine Optimization (SEO)",
+        "sub_detail_description": "Enhance your online visibility and organic search rankings to attract quality traffic and generate leads. Drive targeted traffic to your website through strategic optimization, leveraging keywords, ad placements, and audience targeting. Increase brand visibility by displaying targeted ads on relevant websites and social media platforms to reach your target audience."
+      },
+      {
+        "sub_detail_heading": "Pay-Per-Click Advertising (PPC)",
+        "sub_detail_description": "Leverage targeted ads on search engines and social media platforms to drive immediate traffic and conversions. Maximize the effectiveness of your landing pages by optimizing elements like headlines, calls-to-action, forms, and design. Conduct data-driven experiments to compare different versions of your website or landing page and determine the most effective variation for conversion."
+      },
+      {
+        "sub_detail_heading": "Email Marketing",
+        "sub_detail_description": "Create impactful email campaigns to nurture leads, promote products, and build lasting customer relationships. Monitor and manage your online reputation across various channels, responding to reviews and feedback to maintain a positive brand image. Prepare strategies and protocols to handle potential reputation crises, ensuring timely and effective communication to protect your brand's integrity."
+      },
+      {
+        "sub_detail_heading": "Content Marketing",
+        "sub_detail_description": "Develop and distribute compelling content that resonates with your target audience, establishes thought leadership, and drives conversions. Our expertise, strategies, and data-driven approach help businesses achieve their marketing goals and stay ahead in today's competitive landscape. "
+      }
+    ],
+    "Section2_heading": "Social Media Advertising",
+    "Section2_description": "Developing a tailored marketing strategy for your business",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Video Production",
+        "sub_detail_description": "Create engaging and professional videos that tell your brand story, promote products or services, and connect with your audience on various platforms."
+      },
+      {
+        "sub_detail_heading": "Video Optimization",
+        "sub_detail_description": "Optimize video content for search engines, incorporate relevant keywords, and enhance discoverability on platforms like YouTube."
+      },
+      {
+        "sub_detail_heading": "Facebook Ads",
+        "sub_detail_description": "Reach your target audience effectively through targeted Facebook ad campaigns, utilizing demographic, interest-based, and behavioral targeting."
+      },
+      {
+        "sub_detail_heading": "Instagram Advertising",
+        "sub_detail_description": "Leverage the visual power of Instagram to promote your brand, products, or services to a highly engaged user base."
+      },
+      {
+        "sub_detail_heading": "Brand Strategy",
+        "sub_detail_description": "Craft a powerful brand identity, positioning, and messaging that differentiates your business and resonates with your target market."
+      }
+    ],
+    "Section3_heading": "Market Research and Analysis",
+    "Section3_description": "Take Your Marketing to the Next Level",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Consumer Insights",
+        "sub_detail_description": "Gain valuable insights into consumer behavior, preferences, and market trends to inform your marketing strategies."
+      },
+      {
+        "sub_detail_heading": "Competitive Analysis",
+        "sub_detail_description": "Analyze your competitors' strengths and weaknesses to identify opportunities and develop strategies for gaining a competitive edge."
+      },
+      {
+        "sub_detail_heading": "Logo and Visual Identity",
+        "sub_detail_description": "Create visually stunning logos and brand collateral that captures the essence of your brand and leaves a lasting impression."
+      },
+      {
+        "sub_detail_heading": "Graphic Design",
+        "sub_detail_description": "From website design to print materials, our talented designers bring creativity and professionalism to every visual aspect of your brand."
+      },
+      {
+        "sub_detail_heading": "Marketing Technology Stack",
+        "sub_detail_description": "Implement and optimize marketing automation tools to streamline processes, improve efficiency, and drive results."
+      }
+    ],
+    "Section4_heading": "Why Choose Us?",
+    "Section4_description": "Building brands with purpose & passion",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Expert Team",
+        "sub_detail_description": "Our team comprises seasoned marketing professionals with diverse industry experience and a passion for delivering exceptional results."
+      },
+      {
+        "sub_detail_heading": "Customized Approach",
+        "sub_detail_description": "Every business is unique, so we tailor our strategies and solutions to align with your goals and target audience."
+      }
+    ],
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Data-Driven Insights",
+        "sub_detail_description": "We leverage advanced analytics and tracking tools to provide actionable insights and optimize your marketing campaigns for maximum ROI."
+      },
+      {
+        "sub_detail_heading": "Results-Oriented",
+        "sub_detail_description": "We focus on driving tangible results and achieving measurable outcomes contributing to your business's growth and success."
+      },
+      {
+        "sub_detail_heading": "Ready to Take Your Marketing to the Next Level?",
+        "sub_detail_description": "Contact us today for a free consultation, and let us partner with you to create a customized marketing strategy to propel your business forward. We will unlock new opportunities, engage your audience, and achieve marketing success."
+      }
+    ],
+    "Section6_heading": "FAQs",
+    "Section6_detail": [
+      {
+        "sub_detail_heading": "How can marketing services benefit my business?",
+        "sub_detail_description": "Marketing services can help increase brand awareness, attract and engage your target audience, drive website traffic, generate leads, improve conversions, enhance customer loyalty, and ultimately grow your business."
+      },
+      {
+        "sub_detail_heading": "Do you specialize in any specific industry?",
+        "sub_detail_description": "We have experience working with clients from various industries, including retail, technology, healthcare, finance, and more. Our team of marketing experts is skilled at tailoring strategies to meet the unique needs and challenges of different industries."
+      },
+      {
+        "sub_detail_heading": "How do you measure the success of marketing campaigns?",
+        "sub_detail_description": "We use a combination of key performance indicators (KPIs) and analytics tools to measure the success of marketing campaigns. These may include website traffic, conversions, click-through rates, engagement rates, and return on investment (ROI)."
+      },
+      {
+        "sub_detail_heading": "How do you determine the right marketing strategy for your business?",
+        "sub_detail_description": "We thoroughly analyze your business, target audience, competitors, and industry landscape to develop a tailored marketing strategy. Our team considers your goals, budget, and timeline to create a strategy that aligns with your objectives."
+      },
+      {
+        "sub_detail_heading": "Can you assist with content creation for marketing purposes?",
+        "sub_detail_description": "Absolutely! Content creation is a vital component of successful marketing. We have a team of skilled copywriters and content creators who can develop engaging and persuasive content for your website, blogs, social media channels, email campaigns, and more."
+      },
+      {
+        "sub_detail_heading": "What is the expected timeline for seeing results from marketing campaigns?",
+        "sub_detail_description": "The timeline for seeing results can vary depending on several factors, including the competitiveness of your industry, the marketing channels used, and the strategies implemented. While some results can be seen relatively quickly, viewing marketing as a long-term investment for sustainable growth is important."
+      },
+      {
+        "sub_detail_heading": "How can I get started with your marketing services?",
+        "sub_detail_description": "Getting started is easy! Contact us through our website or contact information, and our team will schedule a consultation to discuss your specific marketing needs and goals. We'll develop a customized marketing strategy to drive your business forward from there."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "path":"Consulting_services",
+    "banner1_heading": "Consulting Services",
+    "banner1_description": "Fueling Business Success with Specialized Consultancy",
+    "banner2_heading": "Transformational Consultancy",
+    "banner2_description": "Turn the future into your advantage",
+    "banner3_heading": "Startup Consultancy",
+    "banner3_description": "Equip your startup for success today",
+    "Section1_heading": "",
+    "Section1_description": "",
+    "Section1_detail": [
+      {
+        "sub_detail_heading": "Transformational Consultancy",
+        "sub_detail_description": "Leverage our expertise in transformative technologies and frameworks to drive strategic change and organizational innovation. We provide comprehensive analysis, roadmap formulation, and implementation guidance, utilizing advanced methodologies and industry best practices."
+      },
+      {
+        "sub_detail_heading": "Startup Consultancy",
+        "sub_detail_description": "Equip your startup for success with our specialized consultancy services. We offer strategic guidance, market analysis, product development insights, and scalability solutions, empowering you to navigate the competitive landscape and achieve rapid growth."
+      },
+      {
+        "sub_detail_heading": "Enterprise Portfolio and Program Management",
+        "sub_detail_description": "Optimize your enterprise's project portfolio and streamline program management with our advanced solutions. We employ industry-standard frameworks, performance metrics, and governance models to ensure effective resource allocation, risk mitigation, and project success. "
+      },
+      {
+        "sub_detail_heading": "System Integration Solutions",
+        "sub_detail_description": "Leverage our expertise in integrating disparate systems and technologies, enabling seamless data flow, interoperability, and enhanced operational efficiency. Maximize productivity with streamlined workflows and synchronized processes."
+      }
+    ],
+    "Section2_heading": "Business Consultancy Process",
+    "Section2_description": "How our business consultancy service work?",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Finding the Best Approach ",
+        "sub_detail_description": "Our business consultancy service utilizes a data-driven approach, leveraging industry expertise to analyze, strategize, implement, and optimize business processes for sustainable growth."
+      },
+      {
+        "sub_detail_heading": "Analysis and Assessment",
+        "sub_detail_description": "Thoroughly evaluate business operations, market dynamics, and performance metrics to identify strengths, weaknesses, and opportunities."
+      },
+      {
+        "sub_detail_heading": "Strategic Planning and Recommendations",
+        "sub_detail_description": "Formulate data-backed strategies and actionable recommendations to enhance competitiveness, market positioning, and operational efficiency. "
+      },
+      {
+        "sub_detail_heading": "Implementation and Execution",
+        "sub_detail_description": "Collaborate with stakeholders to implement recommended strategies, leveraging best practices and innovative solutions for seamless execution. "
+      },
+      {
+        "sub_detail_heading": "Monitoring and Optimization",
+        "sub_detail_description": "Continuously monitor performance, track key metrics, and provide ongoing support to optimize processes, ensure sustainability, and drive long-term growth."
+      }
+    ],
+    "Section3_heading": "Digital Transformation ",
+    "Section3_description": "Empowering growth through business intelligence",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Comprehensive Suite of Services ",
+        "sub_detail_description": "Empower your digital transformation with our comprehensive suite of services. Optimize cloud migration, fortify cybersecurity, leverage data analytics, and embrace agile software development. Achieve operational excellence and stay ahead in the digital age."
+      },
+      {
+        "sub_detail_heading": "Cloud Migration and Optimization",
+        "sub_detail_description": "Unlock the full potential of cloud computing through our advanced migration and optimization solutions. Seamlessly transition your infrastructure, optimize resource allocation, and ensure scalability, security, and cost-effectiveness."
+      },
+      {
+        "sub_detail_heading": "Cybersecurity and Risk Assessment",
+        "sub_detail_description": "Mitigate digital threats with our cutting-edge cybersecurity services. Conduct comprehensive risk assessments, implement robust security measures, and safeguard your critical assets from vulnerabilities, intrusions, and data breaches."
+      },
+      {
+        "sub_detail_heading": "Data Analytics and Business Intelligence",
+        "sub_detail_description": "Agile Software Development."
+      },
+      {
+        "sub_detail_heading": "Agile Software Development",
+        "sub_detail_description": "Embrace agility in software development with our expertise in iterative, collaborative, and adaptive methodologies. Streamline product delivery, improve customer satisfaction, and rapidly respond to evolving market needs."
+      }
+    ],
+    "Section4_heading": "End-to-End Business Solutions",
+    "Section4_description": "Enterprise Systems Revitalization",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Business Process Automation",
+        "sub_detail_description": "Streamline and automate repetitive business processes to improve efficiency. Develop custom solutions utilizing robotic process automation (RPA) and artificial intelligence (AI). Reduce manual effort, minimize errors, and enhance productivity across your organization."
+      },
+      {
+        "sub_detail_heading": "Strategic Business Planning",
+        "sub_detail_description": "Leverage our expertise in devising comprehensive strategic business plans encompassing market analysis, competitive intelligence, and risk assessment. Align your organizational objectives with innovative strategies, driving sustainable growth and competitive advantage."
+      }
+    ],
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Finance Effectiveness",
+        "sub_detail_description": "Optimize financial operations with our transformative solutions. Streamline processes, leverage automation, implement robust controls, and enhance reporting capabilities. Achieve financial efficiency, regulatory compliance, and improved decision-making."
+      },
+      {
+        "sub_detail_heading": "Enterprise Applications: Systems Transformation",
+        "sub_detail_description": "Revamp your enterprise applications with our cutting-edge systems transformation services. Modernize legacy systems, integrate disparate platforms, and optimize workflows. Enhance scalability, agility, and operational efficiency."
+      },
+      {
+        "sub_detail_heading": "Working Capital Optimization",
+        "sub_detail_description": "Maximize liquidity and minimize financial risk with our working capital optimization strategies. Optimize inventory, streamline receivables, and manage payables effectively. Achieve working capital efficiency, cash flow optimization, and financial stability."
+      }
+    ],
+    "Section6_heading": "",
+    "Section6_detail": [
+      {
+        "sub_detail_heading": "What industries do you specialize in? ",
+        "sub_detail_description": "We provide consultancy services across various industries, including technology, software & apps, finance, healthcare, retail, and manufacturing."
+      },
+      {
+        "sub_detail_heading": "How can your consultancy service benefit my business? ",
+        "sub_detail_description": "Our consultancy service can benefit your business by offering expert insights, strategic guidance, and customized solutions to improve operations, increase profitability, and achieve sustainable growth."
+      },
+      {
+        "sub_detail_heading": "What is the typical duration of a consultancy engagement? ",
+        "sub_detail_description": "The duration of a consultancy engagement varies depending on the specific needs and scope of the project. It can range from a few weeks to several months, ensuring comprehensive support and successful implementation."
+      },
+      {
+        "sub_detail_heading": "Do you offer ongoing support after the consultancy engagement? ",
+        "sub_detail_description": "Yes, we offer ongoing support to our clients even after the consultancy engagement is completed. We provide assistance in monitoring progress, evaluating outcomes, and making further recommendations for continuous improvement."
+      },
+      {
+        "sub_detail_heading": "Can you work with businesses of different sizes? ",
+        "sub_detail_description": "Absolutely! Our consultancy service is designed to cater to businesses of all sizes, from startups and small businesses to large enterprises. We tailor our solutions to meet each client's unique requirements and goals."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "path":"Metaverse",
+    "banner1_heading": "Metaverse Services & Solutions",
+    "banner1_description": "We are shaping future virtual realms like never before",
+    "banner2_heading": "Decentraland Metaverse Building",
+    "banner2_description": "Immersive experiences within the Decentraland metaverse",
+    "banner3_heading": "Metaverse Marketing Services",
+    "banner3_description": "Best practices to reach the digital audience",
+    "Section1_heading": "",
+    "Section1_description": "",
+    "Section1_detail": [
+      {
+        "sub_detail_heading": "Redefining VR",
+        "sub_detail_description": "We are at the forefront of the digital revolution, pioneering Metaverse Services & Solutions that redefine the boundaries of virtual reality. Step into a world where imagination meets technology, where you can create, explore, and connect like never before. Our expert team is here to guide you on this incredible journey into the metaverse."
+      },
+      {
+        "sub_detail_heading": "Get Endless Possibilities",
+        "sub_detail_description": "The metaverse is a digital realm where virtual and physical realities converge, allowing users to engage in immersive experiences, interact with others, and explore new dimensions. It is a shared space built on cutting-edge technologies like augmented reality (AR), virtual reality (VR), blockchain, and artificial intelligence (AI). Our Metaverse Services & Solutions empower businesses and individuals to harness the full potential of this transformative concept."
+      },
+      {
+        "sub_detail_heading": "Metaverse Marketing Services",
+        "sub_detail_description": "Drive brand awareness and engagement in the metaverse through targeted marketing strategies, leveraging social media, influencer partnerships, community building, and immersive experiences to reach and captivate the digital audience."
+      },
+      {
+        "sub_detail_heading": "Quality and Reliability",
+        "sub_detail_description": "We uphold the highest quality standards in our work, ensuring that every metaverse solution we deliver is robust, secure, and optimized for performance. You can trust us to provide reliable and scalable services that drive your metaverse success."
+      }
+    ],
+    "Section2_heading": "Our Metaverse Services",
+    "Section2_description": "Enabling Next-Generation Interactions",
+    "Section2_detail": [
+      {
+        "sub_detail_heading": "Decentraland Metaverse Building",
+        "sub_detail_description": "Design and develop immersive experiences within the Decentraland metaverse, utilizing cutting-edge tools and technologies to create interactive environments, virtual assets, and social interactions."
+      },
+      {
+        "sub_detail_heading": "Web 3.0 Services",
+        "sub_detail_description": "Harness the power of Web 3.0 technologies to build decentralized applications (dApps), smart contracts, and blockchain-based solutions, enabling peer-to-peer interactions and enhanced privacy and security."
+      },
+      {
+        "sub_detail_heading": "The Sandbox Metaverse Building",
+        "sub_detail_description": "Shape the future of virtual worlds by constructing unique experiences within The Sandbox metaverse, utilizing advanced creation tools and blockchain integration for decentralized ownership and monetization."
+      },
+      {
+        "sub_detail_heading": "Metaverse Land Purchases",
+        "sub_detail_description": "Acquire virtual land in decentralized metaverses, leveraging blockchain technology for secure ownership and investment opportunities in the digital realm."
+      },
+      {
+        "sub_detail_heading": "Corporate Wallet Setup & Security",
+        "sub_detail_description": "Establish secure and compliant wallets for corporate entities, ensuring robust encryption, multi-factor authentication, and comprehensive security measures to safeguard digital assets and facilitate seamless transactions within the metaverse."
+      }
+    ],
+    "Section3_heading": "Interactive Virtual Worlds ",
+    "Section3_description": "Experience the Metaverse Revolution",
+    "Section3_detail": [
+      {
+        "sub_detail_heading": "Metaverse Development",
+        "sub_detail_description": "Our skilled developers bring your visions to life by creating captivating metaverse experiences tailored to your unique requirements. From designing interactive virtual worlds to developing metaverse applications and platforms, we are your partners in metaverse innovation."
+      },
+      {
+        "sub_detail_heading": "Metaverse Consulting",
+        "sub_detail_description": "Stay ahead of the curve with our metaverse consulting services. Our expert consultants provide strategic guidance on incorporating the metaverse into your business. We analyze your goals, identify opportunities, and develop customized metaverse strategies that align with your objectives."
+      },
+      {
+        "sub_detail_heading": "Metaverse Integration",
+        "sub_detail_description": "Seamlessly integrate the metaverse into your existing systems and platforms. Our integration solutions ensure a smooth transition into the metaverse ecosystem, enabling you to leverage its vast potential while optimizing your infrastructure."
+      },
+      {
+        "sub_detail_heading": "Metaverse Marketing",
+        "sub_detail_description": "Capitalize on the metaverse boom with our targeted metaverse marketing strategies. We help you reach and engage your audience within the metaverse, leveraging immersive storytelling, influencer partnerships, and innovative campaigns to maximize your brand's visibility and impact."
+      },
+      {
+        "sub_detail_heading": "User-Centric Development",
+        "sub_detail_description": "Craft intuitive and visually appealing user interfaces (UI) and deliver exceptional user experiences (UX). We prioritize user-centric design principles to create intuitive, engaging, and delightful digital experiences."
+      }
+    ],
+    "Section4_heading": "Why Choose Us",
+    "Section4_description": "Partner with the Metaverse Experts",
+    "Section4_detail": [
+      {
+        "sub_detail_heading": "Expertise and Experience",
+        "sub_detail_description": "With years of experience in software development and a deep understanding of emerging technologies, our team possesses the expertise to deliver exceptional metaverse solutions that meet your unique needs."
+      },
+      {
+        "sub_detail_heading": "Innovative Approach",
+        "sub_detail_description": "We are passionate about pushing the boundaries of technology and constantly exploring new possibilities within the metaverse. Our innovative mindset ensures we stay ahead of the curve and deliver cutting-edge solutions."
+      }
+    ],
+    "Section5_detail": [
+      {
+        "sub_detail_heading": "Customization and Collaboration",
+        "sub_detail_description": "We believe in collaborative partnerships, working closely with our clients to understand their goals and co-create customized metaverse solutions. Our priority is your vision, and we are committed to delivering results exceeding your expectations."
+      },
+      {
+        "sub_detail_heading": "Embark on Your Metaverse Journey?",
+        "sub_detail_description": "Unlock the boundless potential of the metaverse with our innovative Metaverse Services & Solutions. Contact us today to schedule a consultation with our experts and embark on a transformative digital experience."
+      }
+    ],
+    "Section6_heading": "FAQs",
+    "Section6_detail": [
+      {
+        "sub_detail_heading": "What is the metaverse?",
+        "sub_detail_description": "The metaverse refers to a virtual shared space where users can interact with a computer-generated environment and other users in real-time, often through virtual reality (VR) and augmented reality (AR) technologies."
+      },
+      {
+        "sub_detail_heading": "What are Metaverse Land Purchases?",
+        "sub_detail_description": "A: Metaverse Land Purchases allow individuals or businesses to acquire virtual land within decentralized metaverses, providing opportunities for development, monetization, and investment in the digital realm."
+      },
+      {
+        "sub_detail_heading": "How do Web 3.0 Services benefit businesses?",
+        "sub_detail_description": "Web 3.0 Services leverage blockchain technology and decentralized platforms to enable peer-to-peer interactions, enhanced security, privacy, and the development of decentralized applications (dApps) and smart contracts."
+      },
+      {
+        "sub_detail_heading": "What is the significance of Decentraland and The Sandbox Metaverse Building?",
+        "sub_detail_description": "Decentraland and The Sandbox are prominent metaverse platforms allowing users to create, build, and monetize their virtual experiences, offering immersive interactions, virtual asset ownership, and digital entrepreneurship opportunities."
+      },
+      {
+        "sub_detail_heading": "What is Corporate Wallet Setup & Security?",
+        "sub_detail_description": "A: Corporate Wallet Setup & Security involves establishing secure digital wallets for corporate entities, ensuring encrypted storage, multi-factor authentication, and comprehensive security measures to protect and manage digital assets within the metaverse."
+      },
+      {
+        "sub_detail_heading": "How can Metaverse Marketing Services benefit my brand?",
+        "sub_detail_description": "Metaverse Marketing Services help businesses drive brand awareness, engagement, and growth within the metaverse by utilizing targeted strategies such as social media campaigns, influencer partnerships, community building, and immersive experiences to reach and captivate the digital audience."
+      }
+    ]
+  }
+ 
+]
+

@@ -1,0 +1,251 @@
+/* for app module */
+.app_background_image_crousal {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/app1.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.app_background_image_crousal2 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/app2.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.app_background_image_crousal3 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/app3.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+
+/* for software module */
+.soft_background_image_crousal {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/soft1.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.soft_background_image_crousal2 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/soft2.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.soft_background_image_crousal3 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/soft3.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+
+/* for web module */
+.web_background_image_crousal {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/web1.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.web_background_image_crousal2 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/web2.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.web_background_image_crousal3 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/web3.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+/* for IT module */
+.it_background_image_crousal {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/it1.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.it_background_image_crousal2 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/it2.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+.it_background_image_crousal3 {
+    background-image: url("https://1864597015.rsc.cdn77.org/selteq/images/it3.jpg");
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-position: 100% 100%;
+    background-size: cover;
+}
+
+/* Solution pages */
+
+.solution_fintech_banner_background {
+    margin-left: -1px;
+    background-image: url("https://1864597015.rsc.cdn77.org/selteqreact/images/banner-37.jpg");
+    height: 100vh !important;
+    background-repeat: no-repeat;
+    background-position: 100% auto;
+    background-size: cover;
+}
+
+.solution_medtech_banner_background {
+    margin-left: -1px;
+    background-image: url("https://1864597015.rsc.cdn77.org/selteqreact/images/banner-37.jpg");
+    height: 100vh !important;
+    background-repeat: no-repeat;
+    background-position: 100% auto;
+    background-size: cover;
+}
+
+.solution_edtech_banner_background {
+
+    margin-left: -1px;
+    background-image: url("https://1864597015.rsc.cdn77.org/selteqreact/images/banner-37.jpg");
+    height: 100vh !important;
+    background-repeat: no-repeat;
+    background-position: 100% auto;
+    background-size: cover;
+}
+
+.solution_ecom_banner_background {
+
+    margin-left: -1px;
+    background-image: url("https://1864597015.rsc.cdn77.org/selteqreact/images/banner-37.jpg");
+    height: 100vh !important;
+    background-repeat: no-repeat;
+    background-position: 100% auto;
+    background-size: cover;
+}
+
+.solution_erp_banner_background {
+
+    margin-left: -1px;
+    background-image: url("/Assets/Solutionimages/bgcal.png");
+    height: 100vh !important;
+    background-repeat: no-repeat;
+    background-position: 150% 90%;
+    background-size: cover;
+}
+
+.font_security {
+    font-size: 26px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    -webkit-text-fill-color: #a6cbea;
+    -webkit-text-stroke-width: 0.6px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 1%;
+}
+
+.heading {
+    font-size: 49px !important;
+}
+
+.background_color_black {
+    background-color: black !important;
+}
+
+
+
+/* ///////////////////////////////////////////////////////////// */
+
+.solution_heading {
+    font-weight: 500;
+    font-size: 30px;
+    letter-spacing: 0.5px;
+    padding-bottom: 0%;
+    margin-bottom: 0px;
+}
+
+.solution_heading_mob {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 800 !important;
+    font-size: 20px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+
+.paragraph_mobile {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #656776;
+}
+
+.background_learning {
+    background-color: rgb(239, 244, 248);
+    margin-top: 50px;
+}
+
+.learning_p {
+    color: gray;
+    padding-top: 4%;
+}
+
+
+
+@media screen and (max-width: 900px) {
+    .background_image_crousal {
+        background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/hand.png);
+        height: 40vh;
+        background-repeat: no-repeat;
+        background-position: 100% 100%;
+        background-size: cover;
+        padding-top: 1%;
+    }
+
+    .font_security {
+        font-size: 26px;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        -webkit-text-fill-color: #a6cbea;
+        -webkit-text-stroke-width: 0.6px;
+        -webkit-text-stroke-color: black;
+        margin-bottom: 1%;
+        display: none;
+    }
+
+    .solution_erp_banner_background {
+
+        margin-left: -1px;
+        background-image: url("/Assets/Solutionimages/bgcal.png");
+        height: auto !important;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding-top: 5%;
+        padding-bottom: 5%;
+    }
+
+
+}

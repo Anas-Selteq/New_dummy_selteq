@@ -1,0 +1,197 @@
+.background_grad
+{
+   background-image: url(https://1864597015.rsc.cdn77.org/selteq/images/bg.png) ;
+    height: 100vh;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.text_white
+{
+    color: white;
+    padding-top: 5%;
+    font-size: 390%;
+  
+}
+
+.text_white_only
+{
+    color: white;
+    line-height: 170%;
+    /* margin-top: 2%; */
+}
+.text_white_only1
+{
+    color: white;
+    line-height: 110%;
+    /* margin-top: 2%; */
+    font-size: 210%;
+      text-transform: uppercase;
+    letter-spacing: 1px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 0.4px;
+    -webkit-text-stroke-color: white;
+}
+
+.font_white
+{
+    color: white;
+}
+
+.with_expert_img
+{
+    width: 90%;
+    border-radius: 10px;
+    margin-top: -180px;
+}
+
+.all_app
+{
+    font-weight: 300;
+}
+
+.all_app_one
+{
+    font-weight: 300;
+    padding-top: 1%;
+}
+
+
+
+/* /////////////////////////////////////////////////////////////// */
+
+.background_grad_sec2
+{
+    background-image: linear-gradient(90deg,#770000 0%,#181521 37%)!important;
+    /* height: 100vh; */
+    padding-top: 5%;
+    padding-bottom: 5%;
+    overflow: hidden;
+}
+
+.color_white
+{
+  color: white;
+}
+
+.color_white_para
+{
+    color: white;
+    font-weight: 300;
+    line-height: 150%;
+    margin-top: 5%;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+/* //////////////////////////////////////////////////////////////////// */
+.heading_casestudy
+{
+    color: #333333;
+}
+
+.heading_casestudy_p
+{
+    color: #333333;
+    transition: 0.9s;   
+    cursor: pointer;
+}
+
+.heading_casestudy_p:hover
+{
+    color: #548DFF;
+
+}
+
+
+.sub_heading_casestudy
+{
+    font-weight: 300;
+}
+
+
+.color_white1
+{
+    color: white;
+}
+
+/* ///////////////////////////////////////////// */
+
+
+/* for ipads mini , air and tabs  */
+
+@media (max-width:900px) and (min-width:768px) {
+    .background_grad
+    {
+        background-image: linear-gradient(120deg,#770000 0%,#181521 25%)!important;
+        height: 40vh;
+    }
+        .with_expert_img
+    {
+        width: 60%;
+        border-radius: 10px;
+        margin-top: -100px;
+    }
+    
+
+  }
+
+
+  /* for mobiles and iphones of all sizes  */
+
+  @media (max-width:786px) and (min-width:0px) {
+    .background_grad
+    {
+        background-image: linear-gradient(120deg,#770000 0%,#181521 25%)!important;
+        height: 55vh;
+    }
+        .with_expert_img
+    {
+        width: 60%;
+        border-radius: 10px;
+        margin-top: -70px;
+        display: none;
+    }
+    
+
+  }
+
+
+  /* /////////////// overall  */
+
+  @media screen and (max-width: 900px) {
+    .text_white
+    {
+        color: white;
+        padding-top: 5%;
+        font-size: 190%;
+        padding-top: 15% !important;
+    }
+    
+    .text_white_only
+    {
+        color: white;
+        line-height: 170%;
+        margin-top: 2%;
+        font-size: 90%;
+        padding-left: 10% !important;
+        padding-right: 10% !important;
+    }
+    .font_white
+    {
+        color: white;
+        font-size: 100%;
+    }
+    .color_white1
+    {
+        color: white;
+        font-size: 190%;
+    }
+    .heading_casestudy_p
+    {
+        font-size: 160%;
+    }
+   
+  }

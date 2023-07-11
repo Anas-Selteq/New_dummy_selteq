@@ -1,0 +1,111 @@
+.landing_create {
+    color: #D40000;
+}
+
+.h6_solutions {
+    font-weight: 300;
+}
+
+.background_dream {
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/map.webp);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.background_web {
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/sel5.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 320px;
+}
+
+.background_web_mobile {
+    background-image: url(https://1864597015.rsc.cdn77.org/selteqreact/Assets/Images/sel5.jpg);
+    background-position: 100% 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px !important
+}
+
+.background_mobile {
+    background-color: #EFF2F4 !important;
+    height: 320px;
+}
+
+.background_mobile h2,
+.background_mobile h6 {
+    color: #575757 !important;
+}
+
+.background_light {
+    background-color: white !important;
+    height: 320px;
+}
+
+.background_light h2,
+.background_light h6 {
+    color: #575757 !important;
+}
+
+.mobile_block {
+    height: 600px !important
+}
+
+
+
+.land_text {
+    color: white;
+    font-weight: 300;
+}
+
+.land_text1 {
+    color: white;
+    font-weight: 300;
+    margin-top: 5%;
+}
+
+.background_button {
+    background-color: #E4E7EA;
+}
+
+.background_web_port {
+    background-color: #F5FAFF;
+    background-position: 60% 80%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 100vh; */
+
+}
+
+
+
+@media only screen and (max-width: 600px) {
+    .landing_create1 {
+        color: #EB0000;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 25px;
+        line-height: 19px;
+        text-align: center;
+        color: #EB0000;
+    }
+
+    .background_dream {
+        background-image: none;
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+
+    .h6_solutions1 {
+        padding-top: 3%;
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 19px;
+        text-align: center;
+        color: #8D8D8D;
+    }
+}
